@@ -1,0 +1,145 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+000 = Kishima_B0AA001 // 開幕	引導を～
+001 = Kishima_B0AA000 // 		つぶす
+
+009 = Kishima_B0AA004 // 決着	～がたりん
+010 = Kishima_B0AA005 // 		まだいけるか？
+011 = Kishima_B0AA020 // ガード１　ふん　★
+// 012 = Kishima_B0AA012 // ガード２　んっ★
+013 = kishima13 // 投げ１　ぐどく ＠040
+014 = Kishima_B0AA039 // 投げ２　つぶす
+015 = Kishima_B0AA125 // 鬼神、剛臨……！　ごんぶと
+
+017 = Kishima_B0AA124 // 22B さんげ
+018 = Kishima_B0AA123 // 22A ごうふく
+019 = Kishima_B0AA042 // 投げスカ１　んっ
+020 = Kishima_B0AA046 // 投げスカ２　ちっ
+021 = Kishima_B0AA056 // ダッシュ１　ふん
+022 = Kishima_B0AA057 // ダッシュ２はっ
+
+024 = Kishima_B0AA059 // 空中ダッシュ２　じゃっ
+// 025 = Kishima_B0AA025 // 空中ダッシュ３　しゅん
+
+030 = Kishima_B0AA046 // やられ１　ちっ
+031 = Kishima_B0AA047 // やられ２　くっ
+032 = Kishima_B0AA048 // やられ３　くん
+033 = Kishima_B0AA049 // やられ４　はっ
+
+040 = Kishima_B0AA050 // やられ５　ぬん
+041 = Kishima_B0AA047 // やられ６　くわ ボツで47に
+042 = Kishima_B0AA052 // やられ７　はははは
+
+047 = Kishima_B0AA060 // おきあがり１　いくぞ
+048 = Kishima_B0AA061 // おきあがり２　つぎだ
+049 = Kishima_B0AA062 // おきあがり３　浅い
+050 = Kishima_B0AA063 // おきあがり４　ふん
+// 051 = Kishima_B0AA074 // 受身１　ぐっ　★同じの２つ
+052 = Kishima_B0AA074 // 受身２　ぬん
+053 = Kishima_B0AA073 // 受身３　効いたぞ
+054 = Kishima_B0AA072 // 受身４　続けろ
+055 = Kishima_B0AA019 // BEC　せい
+056 = Kishima_B0AA021 // BEC　おん
+057 = Kishima_B0AA026 // BEC　外道（飛べっ　★
+058 = Kishima_B0AA022 // BEC　キリーフ
+059 = Kishima_B0AA024 // BEC　酒だ！
+060 = Kishima_B0AA043 // さけ１　っふん
+061 = Kishima_B0AA045 // さけ２　おそい
+
+063 = Kishima_B0AA027 // シールド１　見えているぞ
+064 = Kishima_B0AA028 // シールド２　そこだっ
+065 = Kishima_B0AA030 // シールド３　はじく
+066 = Kishima_B0AA029 // シールド４　★追加
+
+070 = Kishima_B0AA104 // ふーん　（236EX?）
+078 = Kishima_B0AA065 // ろっきょうかいじ
+079 = kishima79 // 本気にさせたな＠
+080 = Kishima_B0AA067 // 小童が
+081 = Kishima_B0AA010 // 弱１　ふっ
+082 = Kishima_B0AA011 // 弱２　はっ
+083 = Kishima_B0AA012 // 弱３　ちっ
+
+085 = kishima85 // ★
+086 = kishima86 // ★
+087 = kishima87 // ★
+
+090 = Kishima_B0AA013 // 中１　はんっ
+091 = Kishima_B0AA014 // 中２　ぬん
+092 = Kishima_B0AA015 // 中３　おーう
+
+098 = Kishima_B0AA055 // レアKOやられ
+099 = Kishima_B0AA054 // KOやられ　ぬおあー
+100 = Kishima_B0AA017 // C　てぇーい
+101 = Kishima_B0AA018 // C　とばーす
+102 = Kishima_B0AA105 // おーはー
+103 = Kishima_B0AA103 // かぁーう
+104 = Kishima_B0AA069 // 6C　さんげ
+105 = Kishima_B0AA070 // 6C　邪魔だ
+106 = Kishima_B0AA071 // 6C　未熟
+
+108 = Kishima_B0AA100 // ふっ
+109 = Kishima_B0AA101 // はっ
+111 = Kishima_B0AA100 // 236B　ふっ　★
+112 = Kishima_B0AA101 // はぁっ　★
+
+116 = Kishima_B0AA118 // ごんじょー！　派生623EX
+117 = Kishima_B0AA117 // えーい　派生623EX
+118 = Kishima_B0AA137 // AD　さっちゃーれー ★AD空振りは？　ふわこんごう
+
+121 = Kishima_B0AA106 // 623　ぬうん
+
+123 = Kishima_B0AA123 // ほおぉー
+124 = Kishima_B0AA114 // きえろ
+125 = kishima125 // 214EX　無限に落ちろ [kishima125 , Kishima_B0AA120]
+
+127 = Kishima_B0AA041 // 空中投げ　軽い命だ
+128 = Kishima_B0AA113 // 捕らえた
+129 = Kishima_B0AA114 // 消えろ（逃がさん
+130 = Kishima_B0AA119 // どっかく
+131 = Kishima_B0AA110 // 空236　終わりだ
+132 = Kishima_B0AA112 // らいじんてんもー
+
+133 = Kishima_B0AA131 // あ！
+134 = Kishima_B0AA133 // きゃ！
+
+135 = Kishima_B0AA134 // ひじ三段
+136 = Kishima_B0AA135 // ２
+137 = Kishima_B0AA136 // ３
+
+140 = Kishima_B0AA200 // AD　えんぶ
+141 = Kishima_B0AA201 // AD　えんじょー
+142 = Kishima_B0AA202 // AAD　えんぶ
+143 = Kishima_B0AA203 // AAD　だいえんじょー
+144 = Kishima_B0AA204 // だんく
+145 = Kishima_B0AA205 // ひつじょー
+146 = Kishima_B0AA206 // 頭がん
+147 = Kishima_B0AA207 // たーかいわー
+
+148 = Kishima_B0AA128 // 空中けり　こっぱ！
+149 = kishima72 // イナズマ ＠127
+
+215 = Kishima_B0AA064 // ゲージため
+
+220 = Kishima_B0AA300 // ガークラ（091005追加）
+221 = Kishima_B0AA301 // 
+
+225 = Kishima_B0AA006 // 決着3
+226 = Kishima_B0AA007 // 4
+227 = Kishima_B0AA008 // 5
+228 = Kishima_B0AA009 // 6
+
+229 = Kishima_B0AA002 // 開幕3
+230 = Kishima_B0AA003 // 4
+
+231 = Kishima_B0AA031 // SC1
+232 = Kishima_B0AA032 // 2
+
+237 = Kishima_B0AA140 // もらったぁ
+238 = Kishima_B0AA142 // 夜叉、群生！
+
+240 = Kishima_B0AA130 // ボディ１
+241 = Kishima_B0AA131 // ２
+
+248 = Kishima_B0AA067 // サキスパ１
+249 = Kishima_B0AA068 // ２

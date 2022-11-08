@@ -1,0 +1,189 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+001 = wlen01 // *登場1 [WLen_B2AA000 , wlen01]
+002 = WLen_B2AA001 // *2
+003 = WLen_B2AA005 // *勝利1
+004 = WLen_B2AA006 // *2
+005 = WLen_B2AA007 // *3
+
+013 = WLen_B3AA072 // *起き上がり1
+014 = WLen_B3AA073 // *2
+015 = wlen15 // *空中受身1 [WLen_B3AA091 , WLen_B2AA091, wlen15]
+016 = wlen16 // *2 [WLen_B3AA092 , wlen16]
+
+018 = WLen_B3AA064 // *ワルツワーズダッシュ
+019 = WLen_B3AA065 // *2
+
+021 = wlen21 // *投げスカ
+
+028 = wlen28 // *コマ投げお飛びなさい [WLen_B3AA113 , WLen_B2AA090 , wlen28]
+029 = wlen28a // 短めお飛びなさい
+
+031 = wlen31 // *いかが？ [WLen_B2AA100 , wlen31]
+032 = WLen_B2AA103 // 気をつけて？
+033 = WLen_B3AA104 // *みーつけた
+
+035 = wlen35 // *AADシメおきにめしまして [WLen_B2AA202 , wlen35]
+036 = WLen_B2AA203 // *ＬＡ開始
+037 = wlen38 // [WLen_B2AA101_a , wlen38]
+//038 = WLen_B2AA101_b // * [WLen_B2AA101_b]
+039 = wlen39 //  [WLen_B2AA101_c , wlen39]
+040 = WLen_B2AA057 // *やられ1
+041 = WLen_B2AA056 // *2
+042 = WLen_B2AA055 // *3 [★]
+043 = wlen43 // *弱1 [WLen_B3AA013 , wlen43]
+044 = wlen44 // *2 [WLen_B3AA014 , wlen44]
+
+046 = wlen46 // *大えい [WLen_B3AA019 , WLen_B2AA019 , wlen46]
+
+048 = WLen_B3AA050 // *避け1
+049 = WLen_B2AA051 // *2
+050 = WLen_B2AA052 // 空中避け1
+051 = WLen_B3AA053 // *2
+052 = WLen_B3AA084 // *開放1
+053 = WLen_B3AA083 // *2
+054 = wlen54 // 
+055 = wlen55 // 
+056 = WLen_B2AA032 // *シールド発生1
+057 = wlen57 // *2 [WLen_B2AA033 , wlen57]
+058 = WLen_B2AA034 // *成功1
+059 = WLen_B2AA035 // *2
+060 = WLen_B3AA034 // *3
+061 = WLen_B2AA043 // 投げ　お別れね
+062 = WLen_B2AA044 // *空中投げ
+063 = WLen_B2AA045 // *
+064 = WLen_B2AA046 // *
+065 = WLen_B3AA021_a // *ガード1
+066 = WLen_B2AA022_a // *2
+067 = wlen67 // *3 [WLen_B2AA023 , wlen67]
+068 = wlen68 // *4 [WLen_B2AA024 , wlen68]
+069 = WLen_B3AA105 // *
+070 = WLen_B3AA106 // パドゥ・シャ
+071 = WLen_B3AA107 // *
+072 = wlen72 // *
+073 = wlen73 // *
+
+075 = wlen75 // [WLen_B3AA108_a_a , wlen75]
+076 = WLen_B3AA108_a_b // *
+077 = WLen_B2AA100 // *いかが
+078 = WLen_B3AA116 // *ルティレ
+079 = WLen_B2AA117 // *優雅に
+080 = wlen80 // 空中ひざ [WLen_B3AA110 , wlen80]
+081 = wlen81 // * [WLen_B3AA115 , wlen81]
+082 = WLen_B2AA203 // 
+
+084 = wlen84 // * [WLen_B2AA201 , wlen84]
+085 = WLen_B2AA205 // *
+086 = WLen_B2AA204 // *
+
+088 = WLen_B3AA206 // *
+089 = WLen_B3AA200 // *
+090 = wlen90 // -
+091 = wlen91 // -
+092 = wlen92 // -
+
+095 = wlen95 // -
+
+097 = wlen97 // -
+098 = wlen98 // -
+099 = WLen_B2AA063 // *
+100 = wlen100 // -
+101 = wlen101 // -
+102 = wlen102 // -
+
+
+140 = WLen_B3AA015 // 1 BEJC
+141 = WLen_B3AA016 // 2
+
+
+150 = WLen_B2AA010 // タイムアップ１
+151 = WLen_B2AA011 // タイムアップ２
+
+176 = WLen_B2AA224 // ワープ1
+177 = WLen_B2AA225 // 2
+178 = WLen_B2AA226 // 3
+179 = WLen_B3AA222 // EX1
+180 = WLen_B2AA223 // 2
+181 = WLen_B2AA220 // H214 1
+182 = WLen_B2AA221 // 2
+183 = WLen_B3AA118 // 623EX おいつかれて
+184 = WLen_B2AA102 // ＢＥフルール
+185 = WLen_B3AA219 // ピルエットワーズ
+
+186 = WLen_B2AA216 // スノウピラー
+187 = WLen_B3AA217 // [WLen_B3AA217 , WLen_B3AA218]
+
+189 = WLen_B3AA078 // 起き上がり追加1 [WLen_B2AA078 , WLen_B3AA078]  ×
+190 = WLen_B3AA077 // 2
+191 = WLen_B3AA076 // 3
+192 = WLen_B3AA071 // Ｈダッシュ
+
+
+194 = WLen_B3AA067 // 2
+
+195 = WLen_B3AA068 // 3
+196 = wlen82a // 4 [WLen_B2AA069 , WLen_B3AA069 , wlen82a]
+197 = WLen_B3AA070 // 5
+
+198 = WLen_B3AA064 // 1
+199 = WLen_B3AA065 // 空中ダッシュ2
+
+200 = wlen47 // シールドバンカー1 [WLen_B2AA038 , wlen47]
+201 = WLen_B2AA039 // 2
+
+202 = WLen_B2AA025 // ガード5せわしない
+204 = WLen_B3AA215 // 気をつけて
+203 = wlen29 // チクっとするわよ [WLen_B3AA210 , wlen29]
+//205 = WLen_B3AA211 // きれいに咲いてね
+206 = WLen_B0AA113a // 咲きなさい [WLen_B0AA113a , WLen_B3AA212]
+207 = WLen_B3AA213 // おおきくなーれ
+
+210 = WLen_B0AA300 // ガークラ１
+211 = WLen_B0AA301 // ２
+212 = WLen_B0AA302 // ３
+
+213 = WLen_B2AA081 // 1
+214 = WLen_B2AA209 // 2 [WLen_B3AA079 , WLen_B2AA209]
+215 = WLen_B2AA080 // ゲージため3
+
+217 = WLen_B2AA047 // 投げスカ1
+218 = WLen_B3AA048 // 2
+219 = WLen_B3AA049 // 3
+220 = WLen_B3AA093 // 受身3
+221 = WLen_B3AA094 // 4 [WLen_B3AA094 , WLen_B2AA094]
+222 = WLen_B3AA095 // 5
+
+
+224 = WLen_B0AA110b // おてんばかしら [WLen_B0AA110b , WLen_B3AA110]
+
+226 = WLen_B2AA045 // はしたないかしら
+
+229 = WLen_B3AA029 // ここはどう
+228 = WLen_B0AA031 // より強く
+230 = WLen_B2AA074 // 紳士
+231 = WLen_B2AA075 // レディ
+
+
+232 = WLen_B3AA207 // うふっ
+233 = WLen_B2AA207 // いかが
+234 = WLen_B3AA090 // 
+
+235 = WLen_B2AA086 // サキスパ
+236 = WLen_B2AA087 //
+
+237 = WLen_B2AA008 // 勝利4
+238 = WLen_B2AA009 // 5
+//239 = WLen_B2AA004 // 3
+
+240 = WLen_B0AA040 // sc1
+241 = WLen_B0AA041 // 2
+242 = WLen_B0AA042 // 3
+
+243 = WLen_B2AA002 // 開幕3
+244 = WLen_B2AA003 // 4
+245 = WLen_B2AA004 // 5
+
+246 = WLen_B2AA004A // ネコ
+247 = WLen_B2AA004B // 七夜
+

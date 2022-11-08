@@ -1,0 +1,12 @@
+[System]
+ProjectName=neco_p
+[DataFile]
+FileNum= 1
+File00=neco_p.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=neco.CG
+[PAniFile]
+FileNum= 1
+File00=neco.pat

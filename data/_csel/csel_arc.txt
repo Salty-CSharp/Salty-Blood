@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_arc
+[DataFile]
+FileNum= 1
+File00=csel_arc.HA6
+[BmpcutFile]
+FileNum= 1
+File00=csel_arc.cg
+[PAniFile]
+FileNum= 0

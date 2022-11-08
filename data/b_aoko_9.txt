@@ -1,0 +1,12 @@
+[System]
+ProjectName=b_aoko_0
+
+[DataFile]
+FileNum= 1
+File00 =b_aoko.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=aoko.CG
+[PAniFile]
+FileNum= 0

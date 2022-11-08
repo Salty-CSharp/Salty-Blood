@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_nanaya
+[DataFile]
+FileNum= 1
+File00=csel_nanaya.HA6
+[BmpcutFile]
+FileNum= 1
+File00=csel_nanaya.cg
+[PAniFile]
+FileNum= 0

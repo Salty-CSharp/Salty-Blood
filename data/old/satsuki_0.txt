@@ -1,0 +1,13 @@
+[System]
+ProjectName=satsuki_0
+
+[DataFile]
+FileNum= 2
+File00=..\satsuki.HA6
+File01=..\satsuki_0.HA6
+
+[BmpcutFile]
+FileNum=1
+File00=..\satsuki.CG
+[PAniFile]
+FileNum=0

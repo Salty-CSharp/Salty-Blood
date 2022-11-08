@@ -1,0 +1,147 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+000 = Shiki_B0AA012 // 屈中２回目
+001 = Shiki_B0AA001 // 開始
+002 = Shiki_B0AA000 // 開始　本気なんだな
+003 = Shiki_B0AA002 // 開始３
+
+004 = Shiki_B0AA018 // ？
+//005 = shiki05 // 対七夜（ボイスないよ）
+
+// 014 = Shiki_B0AA014 // まずい、めまいが
+015 = Shiki_B0AA007 // まったく困ったもんだ
+016 = Shiki_B0AA009 // 結果オーライってことで
+
+017 = Shiki_B0AA020 // ガード１
+018 = Shiki_B0AA021 // ガード２
+019 = Shiki_B0AA022 // ガード３
+020 = Shiki_B0AA040 // とった　投げ
+
+022 = Shiki_B0AA043 // 寝てろ！　空中投げ
+023 = Shiki_B0AA044 //投げスカ 
+024 = Shiki_B0AA045 // 
+025 = Shiki_B0AA062 // 前ダッシュ
+029 = Shiki_B0AA065 // バクステ
+// 030 = Shiki_B0AA030 // いくぞ！
+// 033 = Shiki_B0AA033 // こりないやつだな！
+// 034 = Shiki_B0AA034 // なめるな！
+// 035 = Shiki_B0AA035 // うわー
+036 = Shiki_B0AA069 // まだいける！
+037 = Shiki_B0AA070 // くそっ
+038 = Shiki_B0AA071 // コイツ…
+039 = Shiki_B0AA057 // 傷が！　まずい
+040 = Shiki_B0AA080 // 空中復帰１
+041 = Shiki_B0AA081 // 空中復帰２
+042 = Shiki_B0AA082 // 空中復帰３
+043 = Shiki_B0AA200 // 見えた！
+
+046 = Shiki_B0AA027 // シールド
+
+050 = Shiki_B0AA028 // シールド成立
+051 = Shiki_B0AA029 // その２
+052 = Shiki_B0AA030 // その３
+053 = Shiki_B0AA031 // その４
+054 = Shiki_B0AA032 // シールドカウンター　食らえっ！　未使用
+055 = Shiki_B0AA033 // 刻む　（お返しだ！）
+// 056 = Shiki_B0AA056 // これできめる
+057 = Shiki_B0AA057 // 
+058 = Shiki_B0AA058 // 
+
+060 = Shiki_B0AA060 // 
+061 = Shiki_B0AA061 // 
+062 = Shiki_B0AA062 // 
+
+063 = Shiki_B0AA073 // 強制開放
+
+069 = Shiki_B0AA078 // B派生　とべっ
+070 = Shiki_B0AA079 // B派生　そらっ
+071 = Shiki_B0AA108 // 214EX　そこだっ
+072 = Shiki_B0AA101 // 236A せい！
+
+075 = Shiki_B0AA113 // 623　おちろ
+// 076 = Shiki_B0AA076 // 623　きめる！
+077 = Shiki_B0AA112 // 623始動　おまえは…
+// 078 = Shiki_B0AA078 // 
+079 = Shiki_B0AA200 // 見えた！？
+080 = Shiki_B0AA202 // これが、モノを殺すと…
+081 = Shiki_B0AA201 // 殺す
+
+090 = Shiki_B0AA109 // （寝てろ！）倒れろ！
+091 = Shiki_B0AA040 // とった！（？）
+
+093 = shiki93 // ★
+094 = shiki94 // ★
+095 = shiki95 // ★
+096 = shiki96 // ★
+098 = shiki98 // ★
+
+099 = Shiki_B0AA061a // KOやられ　うわー
+100 = Shiki_B0AA050 // x
+101 = Shiki_B0AA052 // x
+102 = Shiki_B0AA053 // x
+103 = Shiki_B0AA054 // x
+104 = Shiki_B0AA055 // x
+105 = Shiki_B0AA056 // x
+106 = Shiki_B0AA057 // x
+107 = Shiki_B0AA058 // x
+108 = Shiki_B0AA059 // x
+109 = Shiki_B0AA060 // x
+
+110 = Shiki_B0AA011 // 
+111 = Shiki_B0AA012 // 
+112 = Shiki_B0AA015 // 
+113 = Shiki_B0AA014 // 
+114 = Shiki_B0AA015 // 
+115 = Shiki_B0AA016 // 
+116 = Shiki_B0AA017 // 
+117 = Shiki_B0AA018 // そらっ
+
+118 = Shiki_B0AA100 // じゅいｘち
+119 = Shiki_B0AA102 // はぁああ
+120 = Shiki_B0AA103 // たあ
+
+121 = Shiki_B0AA121 // とどめ
+122 = Shiki_B0AA111 // ひゅっ
+123 = Shiki_B0AA104 // でやっ
+124 = Shiki_B0AA109 // 倒れろ
+
+129 = Shiki_B0AA129 // かわせるか
+130 = Shiki_B0AA130 // 切り札その３　１
+131 = Shiki_B0AA131 // 切り札その３　２
+
+// 追加収録分
+135 = Shiki_B2AA000 // ほどほどにしてくれよ
+136 = Shiki_B2AA001 // 軽い手合わせ
+137 = Shiki_B2AA002 // げ…なんかまた
+138 = Shiki_B2AA003 // ああ、まっとうな
+139 = Shiki_B2AA004 // もうなんでもあり
+140 = Shiki_B2AA005 // ばか、ぜんぜんよろしく
+141 = Shiki_B2AA006 // 直死の魔眼
+142 = Shiki_B2AA007 // 悪い夢だ
+143 = Shiki_B2AA008 // この先はない
+
+200 = Shiki_B0AA010 // タイムアップ
+
+210 = Shiki_B0AA300 // ガークラ１
+211 = Shiki_B0AA301 // ２
+212 = Shiki_B0AA302 // ３
+215 = Shiki_B0AA072 // ゲージため
+
+231 = Shiki_B0AA105 // そこだ
+
+232 = Shiki_B0AA024 // はぁー！
+234 = Shiki_B0AA005 // 勝利4
+235 = Shiki_B0AA008 // 5
+
+238 = Shiki_B0AA003 // 青子1
+239 = Shiki_B0AA004 // 2
+
+240 = Shiki_B2AA009 // アルク★変更
+241 = Shiki_B0AA003b // シエル
+
+242 = Shiki_B0AA032 // シールドカウンター1
+243 = Shiki_B0AA033 // 2
+244 = Shiki_B0AA077 // いくぞっ　タイガーニー
+245 = Shiki_B0AA075 // サキスパ１
+246 = Shiki_B0AA076 // サキスパ２

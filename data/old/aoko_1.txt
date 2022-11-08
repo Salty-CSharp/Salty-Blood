@@ -1,0 +1,13 @@
+[System]
+ProjectName=aoko_1
+
+[DataFile]
+FileNum= 2
+File00=..\aoko.HA6
+File01=..\aoko_1.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=..\aoko.CG
+[PAniFile]
+FileNum= 0

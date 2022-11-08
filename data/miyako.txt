@@ -1,0 +1,15 @@
+[System]
+ProjectName=miyako
+[DataFile]
+FileNum= 4
+File00=miyako.HA6
+File01=b_miyako.HA6
+File02=miyako_1.HA6
+File03=miyako_2.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=miyako.CG
+[PAniFile]
+FileNum= 1
+File00=miyako.PAT

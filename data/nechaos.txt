@@ -1,0 +1,17 @@
+[System]
+ProjectName=nechaos
+
+[DataFile]
+FileNum= 4
+File00=nechaos.HA6
+File01=nechaos_0.HA6
+File02=nechaos_1.HA6
+File03=nechaos_2.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=nechaos.CG
+
+[PAniFile]
+FileNum= 1
+File00=nechaos.PAT

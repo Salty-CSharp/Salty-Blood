@@ -1,0 +1,125 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+000 = Akiha_B0AA014 // 弱　中１　空中後ダッシュ
+001 = Akiha_B0AA068 // 中２　大　空中前ダッシュ
+002 = Akiha_B0AA016 // 中３
+003 = Akiha_B0AA018 // J2C　そこっ
+004 = Akiha_B0AA013 // 
+005 = Akiha_B0AA042 // 目障りです
+
+007 = Akiha_B0AA104 // 紅葉
+008 = Akiha_B0AA203 // 
+009 = Akiha_B0AA109 // 
+010 = Akiha_B0AA044 // 調子にのりすぎよ（少し調子に乗りすぎね
+011 = Akiha_B0AA046 // 投げスカ１
+012 = Akiha_B0AA047 // ２★
+013 = Akiha_B0AA067 // ダッシュ
+014 = Akiha_B0AA054 // やられ１
+015 = Akiha_B0AA056 // ２
+016 = Akiha_B0AA059 // ３
+017 = Akiha_B0AA057 // ４
+018 = Akiha_B0AA064 // ５
+019 = Akiha_B0AA063 // ６
+020 = Akiha_B0AA070 // 起き上がり１
+021 = Akiha_B0AA071 // ２
+022 = Akiha_B0AA072 // ３
+// 023 = Akiha_B0AA023 // ４
+024 = Akiha_B0AA082 // 復帰１
+025 = Akiha_B0AA081 // ２
+026 = Akiha_B0AA083 // ３
+027 = Akiha_B0AA080 // ４
+
+032 = Akiha_B0AA026 // ガード１
+033 = Akiha_B0AA025 // ２
+034 = Akiha_B0AA024 // ３
+036 = Akiha_B0AA027 // ■懲りないわね
+037 = Akiha_B0AA031 // 
+038 = Akiha_B0AA038 // 
+// 039 = Akiha_B0AA039 // 
+// 040 = Akiha_B0AA040 // おっと
+// 041 = Akiha_B0AA041 // 危ない危ない
+042 = Akiha_B0AA069 // バクステ
+043 = Akiha_B0AA111 // EX獣
+044 = Akiha_B0AA101 // EX鳥
+045 = Akiha_B0AA106 // EX紅葉
+
+// 052 = Akiha_B0AA052 // 琥珀用登場　泥棒ネコ…★
+
+056 = Akiha_B0AA010 // 志貴用KO
+
+060 = Akiha_B0AA005 // 決着１
+061 = Akiha_B0AA006 // ２
+062 = Akiha_B0AA007 // ３
+063 = Akiha_B0AA008 // ４
+064 = Akiha_B0AA009 // ５
+
+066 = Akiha_B0AA000 // 登場１
+067 = Akiha_B0AA001 // ２
+068 = Akiha_B0AA003 // ３
+069 = Akiha_B0AA004 // ４
+070 = Akiha_B0AA002 // ５
+// 071 = Akiha_B0AA071 // ６
+// 072 = Akiha_B0AA072 // ７
+
+077 = Akiha_B0AA200 // AD
+078 = Akiha_B0AA202 // 
+079 = Akiha_B0AA102 // 
+
+081 = Akiha_B0AA021 // 6C　だまりなさい
+
+097 = Akiha_B0AA201 // 
+
+098 = Akiha_B0AA066 // レアKOやられ
+099 = Akiha_B0AA065 // KOやられ
+
+107 = Akiha_B0AA016 // やっ
+
+109 = Akiha_B0AA044 // 投げ１
+110 = Akiha_B0AA045 // ２
+
+114 = Akiha_B0AA075 // 
+115 = Akiha_B0AA030 // BEB　よろしくて
+116 = Akiha_B0AA049 // 避け
+
+120 = Akiha_B0AA074 // 強制開放
+121 = Akiha_B0AA075 // 
+
+125 = Akiha_B0AA113 // EX獣追加
+126 = Akiha_B0AA107 // 気分はよくて
+
+//138 = Akiha_B0AA138 // シールド１
+//139 = Akiha_B0AA139 // ２
+
+186 = Akiha_B1AA086 // 逃げ場はありません
+
+193 = Akiha_B1AA093 // 燃え上がり
+
+200 = Akiha_B0AA011 // タイムアップ１
+201 = Akiha_B0AA012 // タイムアップ２
+
+206 = Akiha_B0AA078 // どう？
+207 = Akiha_B0AA029 // お引きなさい
+208 = Akiha_B0AA028 // そこっ
+209 = Akiha_B0AA079 // 打ち上げ　これなら
+
+210 = Akiha_B0AA300 // ガークラ１
+211 = Akiha_B0AA301 // ガークラ２
+
+//追加
+213 = Akiha_B0AA013 // 弱1
+214 = Akiha_B0AA014 // 弱2
+215 = Akiha_B0AA015 // 弱3
+
+221 = Akiha_B0AA041 // SB1
+222 = Akiha_B0AA042 // 2
+223 = Akiha_B0AA043 // 3
+
+234 = Akiha_B0AA034 // シールド1
+235 = Akiha_B0AA035 // シールド2
+236 = Akiha_B0AA036 // シールド3
+237 = Akiha_B0AA037 // シールド4
+
+238 = Akiha_B0AA038 // シールドカウンター
+
+243 = Akiha_B0AA073 // ゲージため

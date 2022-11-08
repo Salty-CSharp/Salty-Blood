@@ -1,0 +1,14 @@
+[System]
+ProjectName=warc_0
+[DataFile]
+FileNum= 4
+File00=warc.HA6
+File01=warc_r.HA6
+File02=warc_0.HA6
+File03=warc_0_r.HA6
+[BmpcutFile]
+FileNum= 1
+File00=warc.CG
+[PAniFile]
+FileNum= 1
+File00=warc.PAT

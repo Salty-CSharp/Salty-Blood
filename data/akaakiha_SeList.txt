@@ -1,0 +1,120 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+000 = AkaAkiha_B0AA070 // 遊びはここまでよ
+
+001 = AkaAkiha_B0AA000 // 手加減できなくて
+002 = AkaAkiha_B0AA002 // 本気でいくわ
+003 = AkaAkiha_B0AA001 // あなたの血
+004 = AkaAkiha_B0AA003 // 覚悟なさい
+
+// 005 = AkaAkiha_B0AA005 // 逃げるなら
+
+006 = AkaAkiha_B0AA005 // 暗）もう、もどれない
+007 = AkaAkiha_B0AA007 // 暗）はかないものね
+008 = AkaAkiha_B0AA006 // これでおしまい？
+009 = AkaAkiha_B0AA009 // あっけないのね
+010 = AkaAkiha_B0AA008 // ああ、なんて気持ちいい…
+
+011 = AkaAkiha_B0AA019 // 無駄よ
+012 = AkaAkiha_B0AA021 // 鬱陶しい
+013 = AkaAkiha_B0AA038 // どうしたの？
+014 = AkaAkiha_B0AA039 // おいしそう★（逃げてみなさい
+015 = AkaAkiha_B0AA041 // あら？
+016 = AkaAkiha_B0AA059 // ふふっ
+017 = AkaAkiha_B0AA061 // ふっ
+018 = AkaAkiha_B0AA062 // いくわよ ★
+019 = AkaAkiha_B0AA063 // ふっ
+020 = AkaAkiha_B0AA064 // はっ
+
+024 = AkaAkiha_B0AA065 // ふふっ
+025 = AkaAkiha_B0AA066 // ゆるさない
+026 = AkaAkiha_B0AA077 // んふふっ
+027 = AkaAkiha_B0AA078 // そこまでよ
+028 = AkaAkiha_B0AA023 // そこっ
+029 = AkaAkiha_B0AA024 // いくわよ
+030 = AkaAkiha_B0AA043 // ふふふっ
+031 = AkaAkiha_B0AA031 // 無様ね
+032 = AkaAkiha_B0AA032 // ふん！
+033 = AkaAkiha_B0AA030 // 満足して？
+034 = AkaAkiha_B0AA034 // お返しします！
+
+036 = AkaAkiha_B0AA035 // それっ！　B派生B
+037 = AkaAkiha_B0AA031 // 筋はよくてよ？　ｘ
+038 = AkaAkiha_B0AA029 // 面白いわ
+039 = AkaAkiha_B0AA005 // もう、戻れないのね
+
+043 = AkaAkiha_B0AA040 // あら簡単　空中投げ
+044 = AkaAkiha_B0AA035 // そーれ
+045 = AkaAkiha_B0AA100 // んふふふ　空中鳥
+046 = AkaAkiha_B0AA101 // ほーら　空中鳥
+047 = AkaAkiha_B0AA102 // どこまで耐えられる　EX鳥
+048 = AkaAkiha_B0AA111 // いくわよ
+049 = AkaAkiha_B0AA116 // もえちゃえ！
+050 = AkaAkiha_B0AA112 // 悪あがきね
+051 = AkaAkiha_B0AA114 // んふふ、つかまえた
+052 = AkaAkiha_B0AA108 // ほーら
+053 = AkaAkiha_B0AA109 // そーれ
+054 = AkaAkiha_B0AA110 // 止めをさしてあげる
+055 = AkaAkiha_B0AA106 // ふっ
+056 = AkaAkiha_B0AA107 // 切り裂いてあげる
+057 = AkaAkiha_B0AA201 // 全てを奪いつくすわ
+058 = AkaAkiha_B0AA202 // さぁ、逃げて
+059 = AkaAkiha_B0AA200 // 魂さえ残さない
+
+061 = AkaAkiha_B0AA045 // あっ
+062 = AkaAkiha_B0AA046 // はっ
+063 = AkaAkiha_B0AA047 // くっ
+064 = AkaAkiha_B0AA048 // は！？
+065 = AkaAkiha_B0AA049 // つっ
+066 = AkaAkiha_B0AA050 // くは
+067 = AkaAkiha_B0AA051 // あは
+068 = AkaAkiha_B0AA052 // くう
+069 = AkaAkiha_B0AA053 // このお
+070 = AkaAkiha_B0AA054 // んふ
+071 = AkaAkiha_B0AA012 // ふっ
+072 = AkaAkiha_B0AA013 // はっ
+073 = AkaAkiha_B0AA014 // しゅ
+074 = AkaAkiha_B0AA015 // えい　JB
+075 = AkaAkiha_B0AA016 // はっ　C
+076 = AkaAkiha_B0AA017 // いやっ！　C
+077 = AkaAkiha_B0AA018 // どうなの！？
+
+080 = akaakiha80 // ★
+081 = akaakiha81 // ★
+082 = akaakiha82 // ★
+083 = akaakiha83 // ★
+
+098 = AkaAkiha_B0AA058 // レアKO
+099 = AkaAkiha_B0AA057 // KO
+100 = AkaAkiha_B0AA070 // 遊びはここまでよ
+101 = AkaAkiha_B0AA004 // 泥棒猫…
+102 = AkaAkiha_B0AA071 // じゃあ本番
+
+115 = AkaAkiha_B0AA115 // おしまい
+
+125 = AkaAkiha_B0AA025 // たえられて
+
+172 = AkaAkiha_B0AA072 // なかせてあげる
+175 = AkaAkiha_B0AA075 // 浮かせ1
+176 = AkaAkiha_B0AA076 // 2
+
+195 = AkaAkiha_B0AA010 // タイムアップ１
+196 = AkaAkiha_B0AA011 // タイムアップ２
+
+201 = AkaAkiha_B0AA201 // LA
+//206 = AkaAkiha_B0AA206 // 
+210 = AkaAkiha_B0AA300 // ガークラ１
+215 = AkaAkiha_B0AA068 // ゲージため１
+216 = AkaAkiha_B0AA069 // ２
+
+228 = AkaAkiha_B0AA028 // シールド0
+229 = AkaAkiha_B0AA029 // シールド1
+230 = AkaAkiha_B0AA030 // シールド2
+231 = AkaAkiha_B0AA031 // シールド3
+232 = AkaAkiha_B0AA032 // SC1
+233 = AkaAkiha_B0AA033 // 2
+
+235 = AkaAkiha_B0AA200a // 魂さえ残さない（カット）
+236 = AkaAkiha_B0AA202a // さぁ逃げて（カット）
+237 = AkaAkiha_B0AA067a // まっかっか

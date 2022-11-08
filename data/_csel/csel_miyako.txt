@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_miyako
+[DataFile]
+FileNum= 1
+File00=csel_miyako.HA6
+[BmpcutFile]
+FileNum= 1
+File00=csel_miyako.cg
+[PAniFile]
+FileNum= 0

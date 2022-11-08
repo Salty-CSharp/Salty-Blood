@@ -1,0 +1,14 @@
+[System]
+ProjectName=Hermes
+
+[DataFile]
+FileNum= 1
+File00=Hermes.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=Hermes.cg
+
+[PAniFile]
+FileNum= 1
+File00=hermes.pat

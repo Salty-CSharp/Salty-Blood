@@ -1,0 +1,59 @@
+// 000 - 249 まで、拡張子は入れないように
+//
+[SeList]
+000	= GAkiha_B2AA000 // 登場1
+001	= GAkiha_B2AA001 // 2
+002	= GAkiha_B2AA002 // 3
+003	= GAkiha_B2AA003 // 4
+004	= GAkiha_B2AA004 // 対志貴
+005	= GAkiha_B2AA005 // 対琥珀
+006	= GAkiha_B2AA006 // 決着1
+007	= GAkiha_B2AA007 // 2
+008	= GAkiha_B2AA008 // 対志貴決着
+009	= GAkiha_B2AA009 // 引き分け
+010	= GAkiha_B2AA010 // ダメージ1
+011	= GAkiha_B2AA011 // 2
+012	= GAkiha_B2AA012 // 3
+013	= GAkiha_B2AA013 // 4
+014	= GAkiha_B2AA014 // 敗北1
+015	= GAkiha_B2AA015 // 2
+016	= GAkiha_B2AA016 // 3
+017	= GAkiha_B2AA017 // 対琥珀敗北
+018	= GAkiha_B2AA018 // 
+019	= GAkiha_B2AA019 // 
+020	= GAkiha_B2AA020 // 
+021	= GAkiha_B2AA021 // 
+022	= GAkiha_B2AA022 // 
+023	= GAkiha_B2AA023 // 
+024	= GAkiha_B2AA024 // 
+025	= GAkiha_B2AA025 // 
+026	= GAkiha_B2AA026 // 
+027	= GAkiha_B2AA027 // 
+028	= GAkiha_B2AA028 // 
+029	= GAkiha_B2AA030 // 
+030	= GAkiha_B2AA029 // 
+031	= GAkiha_B2AA031 // 
+032	= GAkiha_B2AA032 // 
+033	= GAkiha_B2AA033 // 
+034	= GAkiha_B2AA034 // 
+035	= GAkiha_B2AA035 // 
+036	= GAkiha_B2AA036 // 
+037	= GAkiha_B2AA037 // 
+038	= GAkiha_B2AA038 // 
+039	= GAkiha_B2AA039 // 
+040	= GAkiha_B2AA040 // 
+041	= GAkiha_B2AA041 // 
+
+042 = aoko83 // 開幕効果音：ゴゴゴゴゴ
+043 = neco30 // ビーム効果音：ビギョオオオ
+044 = akaakiha83 // ビーム効果音：ギューン
+045 = aoko82 // 爆発：ちゅどーん
+
+050	= GAkiha_B2AA042 // 
+
+055 = GAkiha_B2AA043 // 反省なさい
+060 = GAkiha_B2AA044 // みえみえよい
+065 = GAkiha_B2AA045 // もう結構です
+066 = GAkiha_B2AA046 // 燃え上がりなさい
+070 = GAkiha_B2AA047 // 少しだけ全力で
+071 = GAkiha_B2AA048 // ツンデレとかもうたくさんよ

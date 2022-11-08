@@ -1,0 +1,13 @@
+[System]
+ProjectName=akiha_1
+[DataFile]
+FileNum= 4
+File00=akiha.HA6
+File01=akiha_r.HA6
+File02=akiha_1.HA6
+File03=akiha_1_r.HA6
+[BmpcutFile]
+FileNum= 1
+File00=akiha.CG
+[PAniFile]
+FileNum= 0

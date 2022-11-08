@@ -1,0 +1,14 @@
+[System]
+ProjectName=kohaku_m_1
+[DataFile]
+FileNum= 4
+File00=kohaku_m.HA6
+File01=kohaku_m_r.HA6
+File02=kohaku_m_1.HA6
+File03=kohaku_m_1_r.HA6
+[BmpcutFile]
+FileNum= 1
+File00=kohaku.CG
+[PAniFile]
+FileNum= 1
+File00=kohaku.PAT

@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_ciel
+[DataFile]
+FileNum= 1
+File00=csel_ciel.HA6
+[BmpcutFile]
+FileNum= 1
+File00=csel_ciel.cg
+[PAniFile]
+FileNum= 0

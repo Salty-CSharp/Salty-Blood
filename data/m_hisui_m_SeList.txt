@@ -1,0 +1,200 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] //  自我音声組み込み版（多分そのまま動かせばＯＫ）
+000 = MekxNec_B0CC001_u  //  Ｂ
+001 = MekxNec_B0CC002  //  Ａ
+002 = MekxNec_B0CC005_u  //  Ｂ
+003 = MekxNec_B0CC006_u  //  Ａ
+004 = MekxNec_B0CC009_u  //  Ｂ
+005 = MekxNec_B0CC057 // やられ　ピピ M_Hisui_B0AA045a
+006 = MekxNec_B0CC058 // やられ　ガガ M_Hisui_B0AA046a
+007 = MekxNec_B0CC059 // やられ　地上大のみ
+
+008 = M_Hisui_B0AA049a // シキサマ
+
+009 = MekxNec_B0CC010  // 
+010 = MekxNec_B0CC011  // 
+011 = MekxNec_B0CC012  // 
+012 = MekxNec_B0CC013  // 
+013 = MekxNec_B0CC014  // 
+014 = MekxNec_B0CC015  // 
+015 = MekxNec_B0CC016  // 
+016 = MekxNec_B0CC017  // 
+017 = MekxNec_B0CC018  // 
+018 = MekxNec_B0CC019  // 
+019 = MekxNec_B0CC020  // 
+020 = MekxNec_B0CC021  // 
+021 = MekxNec_B0CC022  // 引き分け１
+022 = MekxNec_B0CC023  // 引き分け２
+
+023 = MekxNec_B0CC024  // 弱
+024 = MekxNec_B0CC025  // 弱
+
+025 = MekxNec_B0CC026  // 弱
+026 = MekxNec_B0CC027_b  // 弱
+
+027 = MekxNec_B0CC028   // 強１
+028 = MekxNec_B0CC029   // 強２
+029 = MekxNec_B0CC030_b // 強３
+
+030 = m_hisui30 // ★
+
+032 = m_hisui32 // ★
+033 = m_hisui33 // ★
+034 = m_hisui34 // ★
+035 = m_hisui35 // ★
+036 = m_hisui36 // ★
+038 = m_hisui38 // ★
+039 = m_hisui39 // ★
+
+040 = MekxNec_B0CC032 // ＢＥ３　お受け取り
+041 = MekxNec_B0CC033 // ＢＥ３　絶滅
+042 = MekxNec_B0CC034 // ＢＥ３　根絶
+043 = MekxNec_B0CC028_a   // 強１
+044 = MekxNec_B0CC031   // 強４
+
+045 = MekxNec_B0CC038   // ガード
+046 = MekxNec_B0CC039   // ガード
+047 = MekxNec_B0CC040   // ガード
+048 = MekxNec_B0CC041   // ガードブレイク
+
+049 = M_Hisui_B0AA039a // ショック　投げ
+050 = M_Hisui_B0AA041a // エラー　投げスカ
+
+051 = MekxNec_B0CC048   // 投げ
+052 = MekxNec_B0CC049   // 投げ
+053 = MekxNec_B0CC050   // 投げ
+054 = MekxNec_B0CC051   // 投げ
+
+055 = MekxNec_B0CC052   // 投げスカ
+056 = MekxNec_B0CC053   // 投げスカ
+
+058 = M_Hisui_B0AA052a // アタック
+059 = M_Hisui_B0AA053a // リロード
+060 = M_Hisui_B0AA023a // いきます
+061 = M_Hisui_B0AA024a // チャージ
+
+064 = M_Hisui_B0AA029a // ウィン　避け
+
+065 = MekxNec_B0CC054 // 避け
+066 = MekxNec_B0CC055 // 避け
+067 = MekxNec_B0CC056 // 避け
+
+068 = MekxNec_B0CC070 // ニトロオン　開放 M_Hisui_B0AA055b
+069 = MekxNec_B0CC071 // メルトダウン　開放  M_Hisui_B0AA056b
+
+070 = MekxNec_B0CC062 // ダッシュ
+071 = MekxNec_B0CC063 // ダッシュ
+072 = MekxNec_B0CC064 // ダッシュ
+
+073 = MekxNec_B0CC037 //
+074 = MekxNec_B0CC036 // 
+075 = MekxNec_B0CC035 // M_Hisui_B0AA059a // とべ　６C
+
+076 = M_Hisui_B0AA100a // 電撃　623
+077 = M_Hisui_B0AA035a // ドリル　バンカー
+
+078 = MekxNec_B0CC089 // バリアー M_Hisui_B0AA102a
+
+// 079 = M_Hisui_B0AA079 // 照準固定
+080 = M_Hisui_B0AA101a // 排除する
+081 = M_Hisui_B0AA109a // 投獄する
+
+082 = MekxNec_B0CC0117 // 行軍開始
+083 = MekxNec_B0CC118 // ういいい
+
+084 = MekxNec_B0CC0119 // 全機出撃
+085 = MekxNec_B0CC120 // あたしたちも
+086 = MekxNec_B0CC0121 // サタデーナイトフォーエバー
+087 = MekxNec_B0CC0121 // ファイナルーバスター
+088 = m_hisui88 // ★
+089 = m_hisui89 // ★
+090 = m_hisui90 // ★
+
+092 = m_hisui92 // ★
+093 = m_hisui93 // ★
+
+098 = m_hisui98 // ★
+099 = MekxNec_B0CC060_s // KO　M_Hisui_B0AA700a
+100 = MekxNec_B0CC061_s // レアKO　M_Hisui_B0AA701
+
+101 = MekxNec_B0CC065_b // 起き上がり
+102 = MekxNec_B0CC066_a // 起き上がり
+103 = MekxNec_B0CC067 // 起き上がり
+
+105 = MekxNec_B0CC072 // サキスパ
+106 = MekxNec_B0CC073 // ２
+
+107 = MekxNec_B0CC074_b // 受身
+108 = MekxNec_B0CC075 // 受身
+109 = MekxNec_B0CC076 // 受身
+
+110 = MekxNec_B0CC077 // 見つめるキャッツアイ
+111 = MekxNec_B0CC078 // 見つめるキャッツアイ
+112 = MekxNec_B0CC079 // 見つめるキャッツアイ
+113 = MekxNec_B0CC080 // ＧＣＧ 技変える？
+
+114 = MekxNec_B0CC082 // 電撃
+115 = MekxNec_B0CC083 // 電撃
+116 = MekxNec_B0CC084 // ＥＸ電撃
+
+117 = MekxNec_B0CC085 // とびつくキャッツアイ
+118 = MekxNec_B0CC086 // 
+119 = MekxNec_B0CC087 // 
+120 = MekxNec_B0CC088 // 
+121 = MekxNec_B0CC089 // 
+
+122 = MekxNec_B0CC090 // ＥＸバリア
+
+123 = MekxNec_B0CC092 // フィンガー
+124 = MekxNec_B0CC093 //
+
+125 = MekxNec_B0CC094 // ＥＸフィンガー M_Hisui_B0AA121a
+126 = MekxNec_B0CC095 // 
+
+127 = MekxNec_B0CC0101 // スパー
+128 = MekxNec_B0CC0102 // 
+129 = MekxNec_B0CC103 // そげぶ
+130 = MekxNec_B0CC104 // ゴパァ
+
+131 = MekxNec_B0CC0105 // ＥＸスパー
+132 = MekxNec_B0CC0106 // 
+133 = MekxNec_B0CC107 // 死ぬから
+
+134 = M_Hisui_B0AA204b // ファイナル
+
+135 = MekxNec_B0CC0108 // スパスプドリル
+136 = MekxNec_B0CC0109 // 
+137 = MekxNec_B0CC0110 // ＥＸ
+138 = MekxNec_B0CC0111 // 
+
+139 = MekxNec_B0CC0112 // とびだす
+//140 = MekxNec_B0CC0114 // ＥＸとびだす
+140 = MekxNec_B0CC086 // ＥＸとびだす
+
+201 = sion54 // 弾丸
+
+210 = M_Hisui_B0AA300a // ガークラ１
+211 = M_Hisui_B0AA301a // ２
+212 = M_Hisui_B0AA302a // ３
+
+215 = MekxNec_B0CC068 // ゲージため
+216 = MekxNec_B0CC069 // ゲージため
+
+
+//メカネコ用
+//222 = M_Hisui_B0AA500 // メカ＆ネコ　開幕
+223 = M_Hisui_B0AA506 // 勝利
+224 = M_Hisui_B0AA502 // ネコに指示
+225 = M_Hisui_B0AA504 // つったかたー
+226 = M_Hisui_B0AA505 // すごいビーム
+228 = M_Hisui_B0AA503 // ネコ身代わり
+
+230 = MekxNec_B0CC042 // シールド1　M_Hisui_B0AA030a
+231 = MekxNec_B0CC043 // シールド2　M_Hisui_B0AA031a
+232 = MekxNec_B0CC044 // シールド3　M_Hisui_B0AA032a
+
+233 = MekxNec_B0CC045 // シールドC1 M_Hisui_B0AA033a
+234 = MekxNec_B0CC047 // シールドC2 M_Hisui_B0AA034a
+
+242 = M_Hisui_B0AA042a // 空中投げスカ

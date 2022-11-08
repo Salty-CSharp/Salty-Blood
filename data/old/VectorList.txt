@@ -1,0 +1,672 @@
+
+// X,Y,AddX,AddY
+[VectorList]
+Vec_000 =    980,    0,  -70,    0 // 頭弱
+Vec_001 =   1380,    0,  -75,    0 // 頭中
+Vec_002 =   1680,    0,  -80,    0 // 頭強
+Vec_003 =    980,    0,  -70,    0 // 腹弱
+Vec_004 =   1380,    0,  -75,    0 // 腹中
+Vec_005 =   1680,    0,  -80,    0 // 腹強
+
+Vec_006 =    100,-1200,    0,  150 // 足払い
+Vec_007 =    250,-2200,    0,  150 // ダウン
+Vec_008 =    800,-1700,    0,  150 // 空中やられ
+Vec_009 =   2800,    0,    0,    0 // 横吹き飛び
+
+Vec_010 =      0,-3100,    0,  150 // 上吹き飛び
+Vec_011 =    700,-2800,    0,  150 // 斜め上吹き飛び
+Vec_012 =     10, 3800,    0,  150 // 真下叩きつけ
+Vec_013 =   2800, 2500,    0,  150 // 斜め下叩きつけ
+Vec_014 =    400,    0,  -20,    0 // よろけ
+
+Vec_015 =    100,-8100,    0,  150 // 超上吹き飛び
+Vec_016 =      0,    0,    0,    0 // 固め
+Vec_017 =      0,    0,    0,    0 // のけぞらない
+
+Vec_020 =    800,    0,  -40,    0 // ジャンプ攻撃用ベクトル
+Vec_021 =      0,-2900,    0,  150 // 上吹き飛び2
+Vec_022 =   1800,    0,  -80,    0
+Vec_023 =    900,-2200,    0,  150 // ダウン2
+Vec_024 =    100,-1200,    0,  150 // ダウン3 低いやられ
+
+Vec_025 =   2800,-1300,    0,  150 // 
+Vec_026 =      0,    0,    0,    0 // 
+Vec_027 =   2200, 2500,    0,  150 // 斜め下叩きつけ
+Vec_028 =   1200, -700,    0,  150 // ダウン中食らい
+Vec_029 =      0,    0,    0,    0 // ベクトルなしのけぞり（直接使わない）
+
+Vec_030 =     -8,-6300,    0,  150 // ラウンドリップセイバー上吹き飛び
+Vec_031 =   1000,-3800,    0,  150
+Vec_032 =      0,-1000,    0,   30 // 空中クラッシュ
+
+Vec_035 =   3600,-1900,    0,  150 // 第七聖典横吹き飛び1
+Vec_036 =   2200,-1200,    0,  150 // 第七聖典横吹き飛び2
+
+Vec_057 =    500,-2000,    0,  150 // 空中ダウンやられ
+
+Vec_060 =   1000,-2200,    0,  150 // 壁バウンドベクトル
+
+Vec_099 =   1800,-1800,  -70,  150 // 浮きガードベクトル
+Vec_100 =   1300,    0,    0,  150 // 空中ガードベクトル
+
+Vec_101 =   -100,-1500,    0,  150 // 地上受け身＿短
+Vec_102 =   -900,-1800,    0,  150 // 地上受け身＿長
+Vec_103 =    800,-2800,    0,  150 // 空中受け身＿前
+Vec_104 =   -300,-1400,    0,  150 // 空中受け身＿中
+
+Vec_105 =   -800,-2300,    0,  150 // 空中受け身＿後
+Vec_106 =   1300,-1900,    0,  150 // 地上受け身＿長
+
+
+
+
+//
+// Num = ベクトル個数
+// UkemiTime = デフォルトの受け身不可能時間
+// KoCheck = KO時に飛ばすバウンド番号
+// Prio = プライオリティ
+// PrioPat = プライオリティが低かった場合、この番号のバウンドを使用する
+// VecNum - 仕様ベクトルリストの番号
+// TimeEndPat -> 時間経過で終了した時に飛ぶパターン番号（通常,ガード）
+// VecEndPat  -> 終了した時に飛ぶパターン番号（通常,ガード）
+//
+// ベクトル部分
+// VecNum HitAni GuardAni Time VecTime Flag
+//
+// VecNum -> 参照ベクトル
+// HitAni -> HIT時のパターン番号
+// GuardAni -> ガード時のパターン番号
+// Time -> 画面端でベクトルを相手に跳ね返す時間
+// VecTime -> ベクトルが発生する時間 -1なら着地まで
+// 
+//
+// Flag部分
+//   Flag bit0-> 壁にぶつかったら跳ね返るか
+//   Flag bit1-> 壁ぶつかり時に爆発をだすか
+//   Flag bit2-> 着地時に煙を出すか
+//   Flag bit3-> 重なり判定を無しにするか
+//   Flag bit4-> 着地時にVecEndPatを参照して終了させる VecEndPat が -1 ならパターン移行しない
+//                      （地上受け身と空中ガードで使用）
+//   Flag bit5->
+//   Flag bit6->
+//   Flag bit7-> ガードフロートフラグ（特殊）
+//
+//
+// 受け身中はUkemiTimeが無敵時間になります
+
+[BoundList_000]
+Name = 頭やられ弱
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 57
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  0,300,320,14,14,00000000
+
+[BoundList_001]
+Name = 頭やられ中
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 57
+EndPat = 0
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  1,300,320,17,17,00000000
+
+[BoundList_002]
+Name = 頭やられ強
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  2,300,320,20,20,00000000
+
+[BoundList_003]
+Name = 腹やられ弱
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 57
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  3,301,320,14,14,00000000
+
+[BoundList_004]
+Name = 腹やられ中
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 57
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  4,301,320,17,17,00000000
+
+[BoundList_005]
+Name = 腹やられ強
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  5,301,320,20,20,00000000
+
+[BoundList_006]
+Name = 足払い
+Num = 1
+UkemiTime = 20
+KoCheck = 1
+Prio = 100
+PrioPat = 0
+TimeEndPat = 311, 311
+VecEndPat  = 311, 311
+Vec00 =  6,306,18,-1,10,00000000
+
+[BoundList_007]
+Name = ダウン
+Num = 1
+UkemiTime = 20
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  7,305,19,-1,8,00000000
+
+
+[BoundList_008]
+Name = 空中やられ
+Num = 1
+UkemiTime = 20
+KoCheck = 0
+Prio = 11
+PrioPat = 57
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  8,305,19,-1,8,00000000
+
+[BoundList_009]
+Name = 横吹き飛び
+Num = 1
+UkemiTime = 30
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  9,305,19,-1,0,00001001
+
+[BoundList_010]
+Name = 上吹き飛び
+Num = 1
+UkemiTime = 30
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 312, 312
+VecEndPat  = 312, 312
+Vec00 =  10,308,19,-1,8,00000000
+
+[BoundList_011]
+Name = 斜め上吹き飛び
+Num = 1
+UkemiTime = 30
+KoCheck = 11
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  11,305,19,-1,8,00000000
+
+[BoundList_012]
+Name = 真下叩きつけ
+Num = 1
+UkemiTime = 40
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  12,305,19,-1,0,00000000
+
+[BoundList_013]
+Name = 斜め下叩きつけ
+Num = 1
+UkemiTime = 40
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  13,305,19,-1,0,00000000
+
+[BoundList_014]
+Name = よろけ
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  14,300,320,-1,0,00000000
+
+
+[BoundList_015]
+Name = 超上吹き飛び
+Num = 1
+UkemiTime = 999
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  15,305,19,-1,0,00000000
+
+[BoundList_016]
+Name = 固め
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  16,301,320,-1,0,00000000
+
+[BoundList_017]
+Name = のけぞらない
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+Vec00 =  17,0,17,0,0,00000000
+
+
+[BoundList_030]
+Name = 空中クラッシュ
+Num = 1
+UkemiTime = 30
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 312, 312
+VecEndPat  = 312, 312
+Vec00 =  32,308,99,-1,8,00000000
+
+
+
+[BoundList_040]
+Name = 浮き空中ガード
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 325, 325
+VecEndPat  = 326, 326
+Vec00 =  99,322,322,-1,10,10010000
+
+
+[BoundList_050]
+Name = 屈やられ弱
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 13, 324
+VecEndPat  = 13, 324
+Vec00 =  0,302,321,14,14,00000000
+
+[BoundList_051]
+Name = 屈やられ中
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 13, 324
+VecEndPat  = 13, 324
+Vec00 =  1,302,321,17,17,00000000
+
+[BoundList_052]
+Name = 屈やられ強
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 13, 324
+VecEndPat  = 13, 324
+Vec00 =  2,302,321,20,20,00000000
+
+
+[BoundList_055]
+Name = ジャンプ攻撃のけぞり立
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  20,300,320,19,19,00000000
+
+[BoundList_056]
+Name = ジャンプ攻撃のけぞり屈
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 13, 324
+VecEndPat  = 13, 324
+Vec00 =  20,302,321,19,19,00000000
+
+[BoundList_057]
+Name = 空中ダウンやられ
+Num = 1
+UkemiTime = 16
+KoCheck = 1
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  57,305,0,-1,10,00000000
+
+[BoundList_058]
+Name = ふんわり打ち上げ
+Num = 1
+UkemiTime = 30
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 312, 312
+VecEndPat  = 312, 312
+Vec00 =  30,308,19,-1,0,00000100
+
+[BoundList_059]
+Name = ふんわり打ち上げ２
+Num = 1
+UkemiTime = 30
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 312, 312
+VecEndPat  = 312, 312
+Vec00 =  31,308,19,-1,0,00000000
+
+[BoundList_060]
+Name = 空中ガード
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 0
+TimeEndPat = 325, 325
+VecEndPat  = 326, 326
+Vec00 =  100,322,322,-1,10,00010000
+
+[BoundList_061]
+Name = 真下叩きつけ爆発付き
+Num = 1
+UkemiTime = 40
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  12,305,19,-1,0,00000100
+
+[BoundList_062]
+Name = 斜め叩きつけバウンド
+Num = 2
+UkemiTime = 40
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 312, 312
+VecEndPat  = 312, 312
+Vec00 =  13,305,19,-1,0,00000000
+Vec01 =  11,308,19,-1,0,00000000
+
+[BoundList_063]
+Name = 叩きつけバウンド
+Num = 2
+UkemiTime = 40
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 312, 312
+VecEndPat  = 312, 312
+Vec00 =  12,305,19,-1,0,00000000
+Vec01 =  10,308,19,-1,0,00000000
+
+[BoundList_064]
+Name = 上吹き飛び２
+Num = 1
+UkemiTime = 30
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 312, 312
+VecEndPat  = 312, 312
+Vec00 =  21,308,19,-1,8,00000000
+
+[BoundList_065]
+Name = 頭やられ強２
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 57
+TimeEndPat = 0, 323
+VecEndPat  = 0, 323
+Vec00 =  22,300,320,20,20,00000000
+
+[BoundList_066]
+Name = 屈やられ強２
+Num = 1
+UkemiTime = 0
+KoCheck = 1
+Prio = 10
+PrioPat = 57
+TimeEndPat = 13, 324
+VecEndPat  = 13, 324
+Vec00 =  22,302,321,20,20,00000000
+
+[BoundList_067]
+Name = ダウン２
+Num = 1
+UkemiTime = 20
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  23,305,19,-1,12,00000000
+
+[BoundList_068]
+Name = 浮きの低いダウン
+Num = 1
+UkemiTime = 20
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  24,305,19,-1,12,00000000
+
+[BoundList_069]
+Name = 第七聖典横吹き飛び
+Num = 2
+UkemiTime = 20
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  35,305,19,-1,0,00000000
+Vec01 =  36,305,19,-1,0,00000000
+
+
+
+[BoundList_070]
+Name = 壁バウンドベクトル
+Num = 1
+UkemiTime = 12
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 311, 311
+VecEndPat  = 311, 311
+Vec00 =  60,305,18,-1,10,00000000
+
+
+[BoundList_072]
+Name = スライドダウン
+
+[BoundList_073]
+Name = その場頭やられ
+
+[BoundList_074]
+Name = その場腹やられ
+
+[BoundList_085]
+Name = 特大のけぞり立
+
+[BoundList_086]
+Name = 特大のけぞり屈
+
+// 受け身ベクトルは受け身不可能時間が無敵時間になります
+[BoundList_090]
+Name = 地上受け身＿短
+Num = 1
+UkemiTime = 0
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = -1, -1
+VecEndPat  = -1, -1
+Vec00 =  101,309,19,0,0,00011000
+
+[BoundList_091]
+Name = 地上受け身＿長
+Num = 1
+UkemiTime = 0
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = -1, -1
+VecEndPat  = -1, -1
+Vec00 =  102,309,19,0,0,00011000
+
+[BoundList_092]
+Name = 地上受け身＿前
+Num = 1
+UkemiTime = 0
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = -1, -1
+VecEndPat  = -1, -1
+Vec00 =  106,313,19,0,0,00001000
+
+[BoundList_093]
+Name = 空中受け身＿前
+Num = 1
+UkemiTime = 16
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 0, 0
+VecEndPat  = 0, 0
+Vec00 =  103,307,19,0,0,00000000
+
+[BoundList_094]
+Name = 空中受け身＿中
+Num = 1
+UkemiTime = 20
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 0, 0
+VecEndPat  = 0, 0
+Vec00 =  104,307,19,0,0,00000000
+
+[BoundList_095]
+Name = 空中受け身＿後
+Num = 1
+UkemiTime = 24
+KoCheck = 0
+Prio = 100
+PrioPat = 0
+TimeEndPat = 0, 0
+VecEndPat  = 0, 0
+Vec00 =  105,307,19,0,0,00000000
+
+
+
+
+[BoundList_098]
+Name = ダウン追い討ち
+Num = 1
+UkemiTime = 10
+KoCheck = 0
+Prio = 9999
+PrioPat = 0
+TimeEndPat = 314, 314
+VecEndPat  = 314, 314
+Vec00 =  28,305,0,-1,10,00000000
+
+
+[BoundList_099]
+Name = KOダウン
+Num = 1
+UkemiTime = 999
+KoCheck = 0
+Prio = 200
+PrioPat = 0
+TimeEndPat = 310, 310
+VecEndPat  = 310, 310
+Vec00 =  7,305,0,-1,10,00000000
+
+
+
+
+[BoundSample_000]
+Name = 頭やられ 弱
+HitSet = 
+GuardSet = 
+
+
+
+
+[HitStop]
+弱 = 7
+中 = 10
+強 = 12
+なし = 1
+特大 = 16
+超特大 = 30
+超弱 = 4
+
+
+
+
+[Etc]
+反動ベクトル = 800
+
+
+

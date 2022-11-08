@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_satsuki
+[DataFile]
+FileNum= 1
+File00=csel_satsuki.HA6
+[BmpcutFile]
+FileNum= 1
+File00=csel_satsuki.cg
+[PAniFile]
+FileNum= 0

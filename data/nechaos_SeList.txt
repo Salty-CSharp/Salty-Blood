@@ -1,0 +1,135 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+001 = nechaos01 // じゃんじゃじゃーん
+002 = nechaos02 // にゃにゃにゃにゃにゃん
+003 = nechaos03 // ウィーン
+004 = nechaos04 // 大人げなかったかにゃ
+005 = nechaos05 // お前も猫耳になれ
+006 = nechaos06 // おい、煮干かってこい
+007 = nechaos07 // にゃあ　やられ
+008 = nechaos08 // ぎにゃ　やられ
+009 = nechaos09 // ぐは　やられ
+010 = nechaos10 // たわば
+
+013 = nechaos13 // にゃ　Ａ
+014 = nechaos14 // にゃにゃ　Ｂ
+015 = nechaos15 // にゃにゃにゃん　２Ｂ
+016 = nechaos16 // ぶっころす　投げ
+017 = nechaos17 // おぶば
+018 = nechaos18 // ビィーム！
+019 = nechaos19 // ごろんと　ＢＥＣ
+020 = nechaos20 // ッシャア　カマキリ
+021 = nechaos21 // んー、死ぬか！
+022 = nechaos22 // このにくきゅう、ことごとく役立たず
+023 = nechaos23 // にゃかんぞく、皆殺し
+024 = nechaos24 // いでよ、わが眷族たち
+025 = nechaos25 // にゃにゃにゃ（大量）
+
+030 = nechaos30 // ★旧音声
+031 = nechaos31 // ★旧音声
+032 = nechaos32 // ★旧音声
+033 = nechaos33 // ★旧音声
+034 = nechaos34 // ★旧音声
+
+037 = nechaos37 // おとといきなさい
+
+040 = nechaos40 // どこをみている（ネロ
+041 = nechaos41 // っふっ（ネロ
+042 = nechaos42 // ちりとなれ（ネ
+
+046 = nechaos46 // ぬああああああ！
+047 = nechaos47 // はぁー！（ＪＣ？
+048 = nechaos48 // くらえー！（Ｃ
+
+
+050 = nechaos50 // ★旧音声
+051 = nechaos51 // ★旧音声
+052 = nechaos52 // ★旧音声
+053 = nechaos53 // ★旧音声
+054 = nechaos54 // ★旧音声
+055 = nechaos55 // ★旧音声
+056 = nechaos56 // ★旧音声
+057 = nechaos57 // ★旧音声
+058 = nechaos58 // ★旧音声
+
+
+060 = nechaos60 // ★旧音声
+061 = nechaos61 // んん～♪
+062 = nechaos62 // にゃー！
+063 = nechaos63 // 混沌の軍勢よ
+064 = nechaos64 // 集まれ～
+
+066 = nechaos66 // トリ！
+067 = nechaos67 // 狙え！
+068 = nechaos68 // そこまでだ
+069 = nechaos69 // またの名を、カオス！
+070 = nechaos70 // 力こそパワー
+071 = nechaos71 // 天秤の守り手ですよ
+072 = nechaos72 // ★
+073 = nechaos73 // 地獄の兵士よ
+074 = nechaos74 // はなてー
+075 = nechaos75 // うつのほのお～！？
+076 = nechaos76 // ぬはああ
+077 = nechaos77 // いいーっびる
+078 = nechaos78 // カオース！
+079 = nechaos79 // にょいんっと
+080 = nechaos80 // 戦術的撤退
+081 = nechaos81 // まぁ待ちなさい
+082 = nechaos82 // っはっはっは！！
+083 = nechaos83 // 金のにおいがする！
+084 = nechaos84 // 戦術神風！
+085 = nechaos85 // お前の秘密を知っている
+086 = nechaos86 // 封印された力が
+087 = nechaos87 // 食事の時間サ
+088 = nechaos88 // 根性焼き！
+089 = nechaos89 // こってますにゃあ
+090 = nechaos90 // 癒されろ！
+091 = nechaos91 // しゃがめ
+092 = nechaos92 // そこに正座
+093 = nechaos93 // セクスィー
+094 = nechaos94 // そして犯人は私
+095 = nechaos95 // ショーッタウン
+096 = nechaos96 // ショータイム
+
+099 = nechaos99 // ちょ、猫に本気だされてもにゃあー！
+101 = nero95 // ネロから移植★
+102 = nero96 // ★
+
+195 = NeChaos_B0AA049c // タイムアップ
+
+//追加収録分
+200 = NeChaos_B2AA000 // *
+201 = NeChaos_B2AA001 // *
+202 = NeChaos_B2AA002 // *
+203 = NeChaos_B2AA003 // *
+204 = NeChaos_B2AA004 // *
+205 = NeChaos_B2AA005 // *
+206 = NeChaos_B2AA006 // *
+207 = NeChaos_B2AA007_a // *
+208 = NeChaos_B2AA008 // *
+209 = NeChaos_B2AA009_a // *
+210 = NeChaos_B2AA010 // *
+211 = NeChaos_B2AA011_a // * 
+212 = NeChaos_B2AA012_c // *
+213 = NeChaos_S2AA013 // *
+214 = NeChaos_B2AA014_b // *
+215 = NeChaos_B2AA015 // *
+216 = NeChaos_B2AA016_b // カラスつかまりＥＸ
+217 = NeChaos_B2AA017_a // ねらえー
+218 = NeChaos_B2AA018_c //* 
+219 = NeChaos_B2AA019 // *
+
+220 = NeChaos_B2AA020 // *アリバイ
+221 = NeChaos_B2AA024 // *動機
+222 = NeChaos_B2AA022 // *凶器
+223 = NeChaos_B2AA021 // *ははは
+224 = NeChaos_B2AA025 // *はっはは
+225 = NeChaos_B2AA023 // *オレが犯人だ
+
+226 = NeChaos_B2AA026_a // zoozoozoo
+227 = NeChaos_B2AA027 // *
+//228 = NeChaos_B2AA028 // *
+229 = NeChaos_B2AA030 // *
+230 = NeChaos_B2AA029 // *
+231 = NeChaos_B2AA031_a // *

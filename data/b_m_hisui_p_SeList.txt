@@ -1,0 +1,32 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+001 = M_Hisui_B0AA105 // その武器をすてろ
+
+// 003 = M_Hisui_B0AA003 // 私は翡翠です
+004 = M_Hisui_B0AA104 // ビーム
+005 = M_Hisui_B0AA045 // ピピ
+006 = M_Hisui_B0AA046 // ガガ
+008 = M_Hisui_B0AA049 // シキサマ
+// 009 = M_Hisui_B0AA009 // 姉さん
+// 010 = M_Hisui_B0AA010 // アキハ
+
+030 = m_hisui30 // ★
+031 = m_hisui31 // ★
+032 = m_hisui32 // ★
+
+036 = m_hisui36 // ★
+
+058 = M_Hisui_B0AA052 // アタック
+059 = M_Hisui_B0AA053 // リロード
+
+089 = m_hisui89 // ★
+
+
+//琥珀＆メカ
+216 = M_Hisui_B0AA600 // 開幕
+217 = M_Hisui_B0AA604 // 自爆
+218 = M_Hisui_B0AA605 // 勝利
+219 = M_Hisui_B0AA601 // 絆1
+220 = M_Hisui_B0AA602 // 2
+221 = M_Hisui_B0AA603 // 3

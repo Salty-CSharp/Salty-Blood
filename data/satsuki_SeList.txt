@@ -1,0 +1,141 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+005 = Satsuki_B0AA000 // あなたが悪い
+006 = Satsuki_B0AA001 // 逃げられないなら
+007 = Satsuki_B0AA002 // 見逃して
+
+009 = Satsuki_B0AA009 // 本当に
+010 = Satsuki_B0AA010 // はぁーあ、少し
+011 = Satsuki_B0AA011 // あうー
+
+// 012 = Satsuki_B0AA011 // これから
+// 013 = Satsuki_B0AA013 // ごめんね
+014 = Satsuki_B0AA027 // ガード１　やだ
+015 = Satsuki_B0AA028 // ２　きゃ　ダウン１
+016 = Satsuki_B0AA067 // ダウン２
+017 = Satsuki_B0AA055 // 投げスカ
+
+019 = Satsuki_B0AA073 // ダッシュ１
+020 = Satsuki_B0AA074 // ２
+021 = Satsuki_B0AA075 // さけ　バクステ
+022 = Satsuki_B0AA077 // 空中ダッシュ
+
+027 = Satsuki_B0AA079 // おきあがり１
+028 = Satsuki_B0AA080 // ２
+
+029 = Satsuki_B0AA091 // 復帰１
+030 = Satsuki_B0AA092 // ２
+031 = Satsuki_B0AA031 // BE2C　はぁー
+032 = Satsuki_B0AA032 // BEC　うわぁ～
+033 = Satsuki_B0AA033 // BEJC　いっくよー
+
+035 = Satsuki_B0AA054 // 離れて　パワーウェイブ？
+
+037 = Satsuki_B0AA039 // シールド１
+038 = Satsuki_B0AA040 // ２
+039 = Satsuki_B0AA042 // 
+040 = Satsuki_B0AA037 // 
+//041 = Satsuki_B0AA041 // 
+042 = Satsuki_B0AA048 // 
+043 = Satsuki_B0AA049 // 
+044 = Satsuki_B0AA084 // 強制開放１
+045 = Satsuki_B0AA107 // ２　あはははは
+
+049 = Satsuki_B0AA088 // 浮かせ技？
+
+051 = Satsuki_B0AA053 // 投げ
+052 = Satsuki_B0AA116 // 214B
+053 = Satsuki_B0AA115 // 214A
+054 = Satsuki_B0AA117 // 214EX
+055 = Satsuki_B0AA118 // 
+056 = Satsuki_B0AA113 // 22A
+057 = Satsuki_B0AA114 // 
+
+060 = Satsuki_B0AA200 // もうおこった
+061 = Satsuki_B0AA202 // うわーん（馬鹿
+062 = Satsuki_B0AA203 // うわーん（うそつき
+063 = Satsuki_B0AA204 // LA
+
+064 = Satsuki_B0AA310 // ばかー　★追加
+065 = Satsuki_B0AA311 // うそつきー　★追加
+
+070 = Satsuki_B0AA062 // やられ１
+071 = Satsuki_B0AA063 // ２
+072 = Satsuki_B0AA064 // ３
+073 = Satsuki_B0AA065 // ４
+074 = Satsuki_B0AA066 // ５
+075 = Satsuki_B0AA067 // やられ１
+076 = Satsuki_B0AA068 // ２
+077 = Satsuki_B0AA069 // ３
+078 = Satsuki_B0AA070 // ４
+079 = Satsuki_B0AA016 // 弱１
+080 = Satsuki_B0AA017 // 弱２
+
+082 = Satsuki_B0AA020 // 中
+083 = Satsuki_B0AA021 // 中　このっ
+084 = Satsuki_B0AA023 // 大
+085 = Satsuki_B0AA024 // 大　やぁ
+
+095 = satsuki95 // ★
+097 = satsuki97 // ★
+099 = Satsuki_B0AA071 // KOやられ
+100 = satsuki100 // ★
+
+103 = Satsuki_B0AA103 // 横アーム　そこだっ
+
+107 = Satsuki_B0AA107 // ＥＸ横アーム　あははは
+108 = Satsuki_B0AA108 // かるーい
+109 = Satsuki_B0AA109 // ↑アーム　待って
+110 = Satsuki_B0AA110 // うえ！
+111 = Satsuki_B0AA111 // ＥＸ↑アーム、あははは
+112 = Satsuki_B0AA112 // 逃げられないよ？
+
+122 = Satsuki_B0AA122 // はぁーっは！　パワーウェイブＥＸ
+
+200 = Satsuki_B0AA014 // タイムアップ１
+201 = Satsuki_B0AA015 // タイムアップ２
+
+206 = Satsuki_B0AA072 // レアKO
+
+208 = Satsuki_B0AA059 // 危ない　スラ用
+209 = Satsuki_B0AA043 // もらった！
+
+210 = Satsuki_B0AA300 // ガークラ１
+211 = Satsuki_B0AA301 // ２
+212 = Satsuki_B0AA302 // ３
+213 = Satsuki_B0AA303 // ４
+215 = Satsuki_B0AA082 // ゲージため１
+
+219 = Satsuki_B0AA104 // アームたたき付け1
+220 = Satsuki_B0AA105 // 2
+221 = Satsuki_B0AA106 // 3
+
+222 = Satsuki_B0AA120 // ぐるぐるぐる
+
+224 = Satsuki_B0AA101 // 2
+225 = Satsuki_B0AA102 // 失敗
+
+226 = Satsuki_B0AA205 // LA 志貴
+227 = Satsuki_B0AA206 // LA シオン
+
+230 = Satsuki_B0AA012 // 志貴決着1
+231 = Satsuki_B0AA013 // 2
+
+232 = Satsuki_B0AA004 // 開幕4
+
+233 = Satsuki_B0AA005 // 志貴開幕1 これだけ使用
+
+237 = Satsuki_B0AA038 // シールド0
+238 = Satsuki_B0AA037 // シールド1
+239 = Satsuki_B0AA039 // シールド2
+240 = Satsuki_B0AA040 // シールド3
+241 = Satsuki_B0AA041 // シールド4
+
+243 = Satsuki_B0AA043 // 2
+244 = Satsuki_B0AA044 // 3
+
+246 = Satsuki_B0AA085 // 開放１
+247 = Satsuki_B0AA084 // ２
+248 = Satsuki_B0AA041 // サキスパ１
+249 = Satsuki_B0AA087 // ２

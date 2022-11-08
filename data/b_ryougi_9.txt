@@ -1,0 +1,15 @@
+[System]
+ProjectName =b_ryougi_9
+
+[DataFile]
+FileNum= 2
+File00 =b_ryougi.HA6
+File01 =b_ryougi_9.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=b_ryougi.CG
+
+[PAniFile]
+FileNum= 1
+File00=ryougi.PAT

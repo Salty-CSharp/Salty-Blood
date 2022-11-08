@@ -1,0 +1,15 @@
+[System]
+ProjectName=nechaos_1
+
+[DataFile]
+FileNum= 2
+File00=..\nechaos.HA6
+File01=..\nechaos_1.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=..\nechaos.CG
+
+[PAniFile]
+FileNum= 1
+File00=..\nechaos.PAT

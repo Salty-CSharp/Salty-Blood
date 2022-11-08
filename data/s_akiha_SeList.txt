@@ -1,0 +1,203 @@
+// 000 - 249 まで、拡張子は入れないように
+// 
+[SeList]
+000 = SAkiha_B2AA000 // 登場
+001 = SAkiha_B2AA001 // 
+002 = SAkiha_B2AA002 // 
+003 = SAkiha_B2AA003 // 
+004 = SAkiha_B2AA004 // 
+
+005 = SAkiha_B2AA005 // 志貴用登場
+
+006 = SAkiha_B2AA006 // 決着
+007 = SAkiha_B2AA007 // 
+008 = SAkiha_B2AA008 // 
+009 = SAkiha_B2AA009 // 
+010 = SAkiha_B2AA010 // 
+011 = SAkiha_B2AA011 // 
+012 = SAkiha_B2AA012 // 
+
+013 = SAkiha_B2AA023 // 
+014 = SAkiha_B2AA024 // 
+015 = SAkiha_B2AA025 // 
+016 = SAkiha_B2AA026 // 
+017 = SAkiha_B2AA027 // 
+//018 = SAkiha_B2AA028 // 
+//019 = SAkiha_B2AA029 // 
+020 = SAkiha_B2AA033 // 
+021 = SAkiha_B2AA030 // 
+022 = SAkiha_B2AA032 // 
+023 = SAkiha_B2AA031 // 
+
+024 = SAkiha_B2AA045 // ガード
+025 = SAkiha_B2AA046 // 
+026 = SAkiha_B2AA047 // 
+027 = SAkiha_B2AA049 // 
+
+//028 = SAkiha_B2AA028 // 特殊攻撃
+//029 = SAkiha_B2AA035 // 
+//030 = SAkiha_B2AA040 // 
+//031 = SAkiha_B2AA037 // 
+032 = SAkiha_B2AA039 // 
+033 = SAkiha_B2AA042 // Ｂ追加Ｂ
+
+034 = SAkiha_B2AA027 // シールド発生
+035 = SAkiha_B2AA052 // 　成功３つ
+036 = SAkiha_B2AA053 // 
+037 = SAkiha_B2AA054 // 
+
+038 = SAkiha_B2AA038 // ＢＥＢ
+//039 = SAkiha_B2AA039 // 
+040 = SAkiha_B2AA068 // コマ投げ失礼（さけとおなじ）
+
+//042 = SAkiha_B2AA042 // 
+//043 = SAkiha_B2AA043 // 
+044 = SAkiha_B2AA059 // 投げ1
+045 = SAkiha_B2AA060 // 2
+//046 = SAkiha_B2AA046 // 
+
+047 = SAkiha_B2AA064 // 投げスカ
+048 = SAkiha_B2AA065 // 空中投げスカ
+
+049 = SAkiha_B2AA069 // 避け
+050 = SAkiha_B2AA067 // 
+051 = SAkiha_B2AA068 // 空中避け
+052 = SAkiha_B2AA066 // 
+
+053 = SAkiha_B2AA073 // やられ小
+054 = SAkiha_B2AA071 // 
+055 = SAkiha_B2AA074 // 
+056 = SAkiha_B2AA072 // 
+
+057 = SAkiha_B2AA076 // やられ中
+058 = SAkiha_B2AA075 // 
+
+//059 = SAkiha_B2AA059 // やられは70-78
+//060 = SAkiha_B2AA060 // 
+//061 = SAkiha_B2AA061 // 
+062 = SAkiha_B2AA062 // （復活）
+
+063 = Akiha_B1AA065 // バクステふん■
+
+064 = SAkiha_B2AA082 // ダッシュ
+065 = SAkiha_B2AA083 // 
+066 = SAkiha_B2AA084 // 空中ダッシュ
+067 = SAkiha_B2AA085 // 
+
+068 = SAkiha_B2AA086 // 起き上がり
+069 = SAkiha_B2AA087 // 
+070 = SAkiha_B2AA088 // 89あまり
+
+071 = SAkiha_B2AA090 // ゲージため 91・92あまり
+
+072 = SAkiha_B2AA093 // 開放
+073 = SAkiha_B2AA094 // 
+074 = SAkiha_B2AA095 // サキスパ
+075 = SAkiha_B2AA097 // 96あまり
+//076 = SAkiha_B2AA076 // 
+077 = SAkiha_B2AA077 // （復活）
+//078 = SAkiha_B2AA078 // 
+079 = SAkiha_B2AA098 // 受身
+080 = SAkiha_B2AA100 // 
+081 = SAkiha_B2AA101 // 102-103あまり
+
+//082 = SAkiha_B2AA082 // ？？？
+//083 = SAkiha_B2AA083 // 
+//084 = SAkiha_B2AA084 // 
+//085 = SAkiha_B2AA085 // 
+
+//098 = SAkiha_B2AA081 // 羽ピン、蒼香、ごめーん！★レアＫＯで使用中★
+099 = SAkiha_B2AA079 // ★ＫＯ固定★
+
+104 = SAkiha_B2AA104 // 236
+105 = SAkiha_B2AA105 // 暫定で↑と同じに
+106 = SAkiha_B2AA106 // まきつけー
+107 = SAkiha_B2AA107 // 
+108 = SAkiha_B2AA108 // 
+
+109 = SAkiha_B2AA109 // 236EX
+110 = SAkiha_B2AA110 // 
+111 = SAkiha_B2AA111 // 
+112 = SAkiha_B2AA112 // 
+
+113 = SAkiha_B2AA113 // 623
+114 = SAkiha_B2AA114 // 
+
+115 = SAkiha_B2AA115 // 623EX
+
+116 = SAkiha_B2AA116 // 214
+117 = SAkiha_B2AA117 // 
+118 = SAkiha_B2AA118 // 
+
+119 = SAkiha_B2AA119 // 214EX
+120 = SAkiha_B2AA120 // 
+
+121 = SAkiha_B2AA121 // 22
+122 = SAkiha_B2AA122 // 
+123 = SAkiha_B2AA123 // 
+
+124 = SAkiha_B2AA124 // 22ＢＥ
+125 = SAkiha_B2AA125 // 22EX
+
+128 = SAkiha_B2AA128 // 
+//129 = SAkiha_B2AA129 // 
+//130 = SAkiha_B2AA130 // 
+//131 = SAkiha_B2AA131 // 
+//132 = SAkiha_B2AA132 // 
+133 = SAkiha_B2AA133 // 
+134 = SAkiha_B2AA134 // 
+135 = SAkiha_B2AA135 // 
+136 = SAkiha_B2AA136 // 
+//137 = SAkiha_B2AA137 // 
+138 = SAkiha_B2AA138 // 
+139 = SAkiha_B2AA139 // 
+140 = SAkiha_B2AA140 // 
+
+165 = Akiha_B1AA083 // そこっ■
+166 = SAkiha_B2AA113 // 623
+
+168 = SAkiha_B2AA030 // 小ジャンプ多段
+170 = Akiha_B1AA040 // コマ投げ失礼っ！■
+
+171 = SAkiha_B2AA021 // 引き分け
+172 = SAkiha_B2AA022 // 
+
+173 = SAkiha_B2AA013 // 対志貴決着
+174 = SAkiha_B2AA014 // 
+175 = SAkiha_B2AA015 // 
+176 = SAkiha_B2AA016 // 対琥珀決着
+177 = SAkiha_B2AA017 // 
+178 = SAkiha_B2AA018 // 対翡翠決着
+179 = SAkiha_B2AA019 // 
+180 = SAkiha_B2AA020 // 対ネコ決着
+
+181 = akaakiha81 // ADのおでこビーム「ドンッ」
+183 = akaakiha83 // ADのおでこビーム「ギューン」
+
+//187 = SAkiha_B2AA187 // 
+//188 = SAkiha_B2AA188 // 
+
+//FMS236セット
+190 = SAkiha_B2AA041 // （復活）
+191 = SAkiha_B2AA104 // 236
+//192 = SAkiha_B2AA106 // まきつけー
+
+
+//201 = SAkiha_B2AA201 // 
+//202 = SAkiha_B2AA202 // 
+
+210 = SAkiha_B2AA050 // ガークラ
+211 = SAkiha_B2AA051 // 
+
+//サブセット作成後の追加090403
+229 = SAkiha_B2AA063 // 空中投げ1
+230 = SAkiha_B2AA061 // 空中投げ2
+231 = SAkiha_B2AA040 // ＢＥ攻撃
+232 = SAkiha_B2AA036 // その２
+//ここまで
+
+246 = SAkiha_B2AA055 // シールドカウンター
+247 = SAkiha_B2AA056 // 
+248 = SAkiha_B2AA057 // 
+249 = SAkiha_B2AA058 // 
+

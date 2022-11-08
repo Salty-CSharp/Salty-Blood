@@ -1,0 +1,12 @@
+[System]
+ProjectName=p_arc_D_0
+
+[DataFile]
+FileNum= 1
+File00=p_arc_D.HA6
+[BmpcutFile]
+FileNum= 1
+File00=p_arc_D.CG
+
+[PAniFile]
+FileNum= 0

@@ -1,0 +1,14 @@
+[System]
+ProjectName=warakia_0
+[DataFile]
+FileNum= 4
+File00=warakia.HA6
+File01=warakia_r.HA6
+File02=warakia_0.HA6
+File03=warakia_0_r.HA6
+[BmpcutFile]
+FileNum= 1
+File00=warakia.cg
+[PAniFile]
+FileNum= 1
+File00=warakia.PAT

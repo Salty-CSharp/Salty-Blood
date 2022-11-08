@@ -1,0 +1,11 @@
+[System]
+ProjectName=sion_0
+[DataFile]
+FileNum= 2
+File00=..\sion.HA6
+File01=..\sion_0.HA6
+[BmpcutFile]
+FileNum= 1
+File00=..\sion.cg
+[PAniFile]
+FileNum= 0

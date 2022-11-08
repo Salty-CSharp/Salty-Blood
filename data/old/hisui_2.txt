@@ -1,0 +1,12 @@
+[System]
+ProjectName=hisui_2
+[DataFile]
+FileNum= 2
+File00=..\hisui.HA6
+File01=..\hisui_2.HA6
+[BmpcutFile]
+FileNum= 1
+File00=..\hisui.CG
+[PAniFile]
+FileNum= 1
+File00=..\hisui.PAT

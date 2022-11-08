@@ -1,0 +1,14 @@
+[System]
+ProjectName=warakia_1
+
+[DataFile]
+FileNum= 2
+File00=..\warakia.HA6
+File01=..\warakia_1.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=..\warakia.cg
+[PAniFile]
+FileNum= 1
+File00=..\warakia.PAT

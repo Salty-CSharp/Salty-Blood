@@ -1,0 +1,112 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // Miyako_B0AA000
+000 = Miyako_B0AA016a // 
+001 = Miyako_B0AA014 // 
+002 = Miyako_B0AA016 //
+003 = Miyako_B0AA015 // 
+
+006 = Miyako_B0AA019 // そいや～
+007 = Miyako_B0AA020 // けやー
+008 = Miyako_B0AA117 // Bしんきゃく
+009 = Miyako_B0AA100 // ちょうしんちゅう
+010 = Miyako_B0AA111 // れんかんたい
+011 = Miyako_B0AA118 // どっかーん
+012 = Miyako_B0AA108 // EXせんしっぽ
+013 = Miyako_B0AA014 // 6B
+014 = Miyako_B0AA042a // く～らえ～
+015 = Miyako_B0AA043 // はい～
+016 = Miyako_B0AA126 // ※かっとべ～
+017 = Miyako_B0AA045 // 投げスカ　あれ？
+018 = Miyako_B0AA046 // 投げスカ　あう
+019 = Miyako_B0AA060 // ダッシュ汎用
+
+021 = Miyako_B0AA050 // やられ 屈ガード
+022 = Miyako_B0AA049 // やられ
+023 = Miyako_B0AA051 // やられ
+024 = Miyako_B0AA052a // やられ
+025 = Miyako_B0AA053 // やられ
+
+028 = Miyako_B0AA065 // おきあがり関係
+029 = Miyako_B0AA066 // 
+030 = Miyako_B0AA067 // 
+031 = Miyako_B0AA068 // 
+032 = Miyako_B0AA065 // 
+033 = Miyako_B0AA077 // 受身
+034 = Miyako_B0AA078 // 
+035 = Miyako_B0AA079 // 
+036 = Miyako_B0AA047 // 避け
+037 = Miyako_B0AA068 // ※やばいかも
+
+043 = Miyako_B0AA031 // シールド
+044 = Miyako_B0AA034 // EXれんかん　ここだっ
+045 = Miyako_B0AA032 // 
+046 = Miyako_B0AA033 // 
+
+048 = Miyako_B0AA033 // みえみえ！
+
+050 = Miyako_B0AA102 // あったれ～
+
+052 = Miyako_B0AA203 // きゅうきょくおうぎ
+
+054 = Miyako_B0AA202 // LA　あたったらしぬかも
+
+056 = Miyako_B0AA070 // 強制開放　いっくよ～
+
+064 = Miyako_B0AA112a // EXれんかん　えーいやー
+
+066 = miyako66 // ★　しんきゃくの効果音
+
+070 = Miyako_B0AA000 // 登場　よーしいくぞー
+071 = Miyako_B0AA001 // 登場　コンフーのせいか～
+072 = Miyako_B0AA076a // とんでけー
+
+074 = Miyako_B0AA133 // 逃がすか！（旧すっごい）
+
+075 = Miyako_B0AA022 // ガード　無駄だよ
+076 = Miyako_B0AA021 // ガード
+077 = Miyako_B0AA023 // ガード
+
+
+079 = Miyako_B0AA006 // 決着　YES
+080 = Miyako_B0AA007 // 決着　やー
+
+088 = Miyako_B0AA064 // 空中後ろダッシュ　とっ
+
+094 = miyako94 // ※★　効果音
+095 = miyako95 // ★　ADとかのちゅどーん効果音
+096 = miyako96 // ※★　効果音
+097 = miyako97 // ※★　効果音
+098 = miyako98 // ※★　効果音
+099 = Miyako_B0AA058 // KOやられ　あいや～
+
+120 = Miyako_B0AA120 // 都古三段2
+121 = Miyako_B0AA121 // 都古三段3
+
+205 = Miyako_B0AA010 // タイムアップ１
+206 = Miyako_B0AA011 // タイムアップ２
+
+210 = Miyako_B0AA300 // ガークラ１
+211 = Miyako_B0AA301 // ２
+212 = Miyako_B0AA302 // ３
+
+215 = Miyako_B0AA069a // ゲージため
+
+232 = Miyako_B0AA032 // シールド1
+233 = Miyako_B0AA033 // シールド2
+234 = Miyako_B0AA034 // シールド3
+
+239 = Miyako_B0AA008 // 決着3
+240 = Miyako_B0AA009 // 決着4
+
+241 = Miyako_B0AA004 // 秋葉
+242 = Miyako_B0AA005 // 志貴
+243 = Miyako_B0AA005a // ネコ
+
+244 = Miyako_B0AA002 // 登場3
+245 = Miyako_B0AA003 // 登場4
+
+246 = Miyako_B0AA038 // シールドカウンター1
+247 = Miyako_B0AA036 // 2
+248 = Miyako_B0AA072 // サキスパ１
+249 = Miyako_B0AA073 // ２

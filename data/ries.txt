@@ -1,0 +1,16 @@
+[System]
+ProjectName=ries
+[DataFile]
+FileNum= 5
+File00=ries.HA6
+File01=ries_9.HA6
+File02=ries_1.HA6
+File03=ries_2.HA6
+File04=ries_0.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=ries.cg
+[PAniFile]
+FileNum= 1
+File00=ries.pat

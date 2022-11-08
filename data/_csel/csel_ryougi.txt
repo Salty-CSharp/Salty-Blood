@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_ryougi
+[DataFile]
+FileNum= 1
+File00=csel_ryougi.HA6
+[BmpcutFile]
+FileNum= 1
+File00=csel_ryougi.cg
+[PAniFile]
+FileNum= 0

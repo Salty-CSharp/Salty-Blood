@@ -1,0 +1,122 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+000 = Warakia_B0AA011 // ふっ
+001 = Warakia_B0AA017 // イイィー
+002 = Warakia_B0AA032 // フヒヒ
+003 = Warakia_B0AA022 // 少し強く
+004 = Warakia_B0AA066 // まいたまえ
+005 = warakia05 // 失礼＠
+006 = Warakia_B0AA040 // ちぃ
+
+008 = Warakia_B0AA046 // くっ
+009 = Warakia_B0AA044 // ぬう
+010 = Warakia_B0AA045 // てい
+011 = Warakia_B0AA049 // たは
+
+015 = Warakia_B0AA068 // 残念
+016 = Warakia_B0AA071 // それでは無理
+017 = Warakia_B0AA070 // ふっ、なかなか
+
+021 = Warakia_B0AA057 // ふふふ　ワープ
+022 = Warakia_B0AA057 // んふふふ
+023 = Warakia_B0AA039 // ふははははは
+024 = Warakia_B0AA033 // リテイク
+025 = Warakia_B0AA031 // やり直したまえ
+026 = Warakia_B0AA043 // ではペナルティだ
+027 = Warakia_B0AA042 // うつくしくないな
+028 = Warakia_B0AA100 // カット
+
+030 = warakia30 // ではここでしね＠
+031 = Warakia_B0AA112 // ２２EX　フハハハヒフ
+032 = Warakia_B0AA200 // AD　カットカットカット
+033 = Warakia_B0AA002 // では、きょげんの
+034 = Warakia_B0AA001 // 命に保険は
+035 = Warakia_B0AA000 // 開幕といこう
+036 = Warakia_B0AA005 // なんだ、これで終わりか
+037 = Warakia_B0AA004 // 早い幕だったな、人間
+038 = Warakia_B0AA008 // ふ、へへへ、フヒヒヒ
+039 = warakia39 // ★
+040 = warakia40 // ★
+041 = warakia41 // ★
+042 = Warakia_B0AA102 // カット！
+043 = Warakia_B0AA104 // キャスト
+044 = Warakia_B0AA103 // ブレイク！
+045 = Warakia_B0AA109 // いささかあきたな
+
+047 = Warakia_B0AA113 // ライライライ
+
+050 = Warakia_B0AA028 // シールド　はっ
+051 = Warakia_B0AA030 // カットだ
+
+057 = Warakia_B0AA057 // 起き上がり1
+058 = Warakia_B0AA058 // 2
+059 = Warakia_B0AA059 // 3
+
+061 = Warakia_B0AA061a // 姫用登場
+
+064 = Warakia_B0AA064 // サキスパ1
+065 = Warakia_B0AA065 // 2
+
+080 = Warakia_B0AA062 // マクドいこう
+
+// 082 = Warakia_B0AA204 // LA　開幕直後
+083 = Warakia_B0AA206 // LA　ねずみを
+084 = Warakia_B0AA205 // 回せ1
+// 085 = Warakia_B0AA207 // 回せ2
+
+
+094 = warakia94 // ★
+095 = warakia95 // ★
+096 = warakia96 // ★
+
+098 = warakia98 // ★
+099 = Warakia_B0AA051 // KO
+
+101 = Warakia_B0AA004 // 芸がないな
+102 = Warakia_B0AA005 // ご満足
+103 = Warakia_B0AA007 // 拍手喝さい
+104 = Warakia_B0AA006 // タタリに終わりは
+
+//106 = Warakia_B0AA106 // 
+
+107 = Warakia_B0AA107 // 卍１
+108 = Warakia_B0AA108 // ２
+
+110 = Warakia_B0AA110 // ファンブル１
+111 = Warakia_B0AA111 // ２
+
+112 = Warakia_B0AA112 // ＥＸファンブル１
+
+
+115 = Warakia_B0AA115 // ジョーカー！
+116 = Warakia_B0AA116 // キ・・・！
+
+124 = Warakia_B0AA105 // ワープ１
+125 = Warakia_B0AA106 // レア２
+
+199 = Warakia_B0AA024 // ラチをあけよう
+200 = Warakia_B0AA019 // ふふっ　たまごなげで使う
+
+201 = Warakia_B0AA201 // カットカット
+
+202 = Warakia_B0AA202 // ＡＡＤカット
+203 = Warakia_B0AA203 // カットカット
+
+204 = Warakia_B0AA027 // 駄作
+
+205 = Warakia_B0AA009 // タイムアップ１
+206 = Warakia_B0AA010 // タイムアップ２
+
+210 = Warakia_B0AA300 // ガークラ１
+211 = Warakia_B0AA301 // ２
+212 = Warakia_B0AA302 // ３
+
+215 = Warakia_B0AA060 // ゲージため１
+
+229 = Warakia_B0AA029 // シールド1
+230 = Warakia_B0AA030 // シールド2
+231 = Warakia_B0AA031 // シールド3
+232 = Warakia_B0AA032 // シールドカウンター1
+233 = Warakia_B0AA033 // 2
+234 = Warakia_B0AA003 // 開幕4

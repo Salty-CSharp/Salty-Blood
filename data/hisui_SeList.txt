@@ -1,0 +1,191 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // Hisui_B0AA
+000 = Hisui_B0AA012 // 弱１　J中
+001 = Hisui_B0AA013 // 弱２　J中
+002 = Hisui_B0AA014 // J中
+003 = Hisui_B0AA015 // J中
+004 = hisui04 // ★
+005 = Hisui_B0AA023 // あなたをダメージです
+006 = Hisui_B0AA039a // 失礼します　JC
+007 = Hisui_B0AA017 // えいっ　中
+// 008 = hisui08 // 
+// 009 = hisui09 // 
+010 = Hisui_B0AA043a // 
+011 = Hisui_B0AA062 // 
+012 = Hisui_B0AA049 // やられ１
+013 = Hisui_B0AA052 // やられ２
+014 = Hisui_B0AA057 // やられ３
+015 = Hisui_B0AA058 // やられ４
+// 016 = hisui16 // 
+017 = Hisui_B0AA069 // あなたをリベンジです
+018 = Hisui_B0AA070 // 私、怒りました
+019 = Hisui_B0AA071 // 
+020 = Hisui_B0AA131 // 三段クッキング１
+021 = Hisui_B0AA086 // 失礼
+022 = Hisui_B0AA085 // お目汚しを
+023 = Hisui_B0AA022 // えーい　フライパン対空
+024 = Hisui_B0AA025 // それっ　モップ対空
+025 = Hisui_B0AA024 // はああー！　はしご対空
+026 = Hisui_B0AA020 // 
+027 = Hisui_B0AA019 // おやめください
+028 = Hisui_B0AA031 // 愚鈍です
+// 029 = hisui29 // 
+// 030 = hisui30 // 
+// 032 = hisui32 // 
+033 = Hisui_B0AA048a // スカ
+034 = Hisui_B0AA047 // ひょいと　避け
+035 = Hisui_B0AA030 // 残念でした　シールド
+036 = Hisui_B0AA114 // EX失礼します　いきます
+// 037 = hisui37 // 
+// 038 = hisui38 // 
+// 039 = hisui39 // 
+// 040 = hisui40 // 
+// 041 = hisui41 // 
+042 = Hisui_B0AA000 // 登場
+043 = Hisui_B0AA001 // 登場２
+044 = Hisui_B0AA002 // 登場３
+// 045 = hisui45 // 姉さん、準備はいい？　多分未使用
+046 = Hisui_B0AA004 // 登場　志貴用
+047 = Hisui_B0AA005 // 決着１
+048 = Hisui_B0AA007 // 決着２
+049 = Hisui_B0AA009 // 引き分け
+050 = HisxKoh_B0AA100a // 交代
+051 = HisxKoh_B0AA104 // 
+052 = HisxKoh_B0AA107a // 
+
+055 = HisxKoh_B0AA119 // 絆A　多分
+056 = HisxKoh_B0AA112 // この辺おかしい
+057 = HisxKoh_B0AA123 // 波状攻撃です
+058 = HisxKoh_B0AA121 // まかされました
+059 = HisxKoh_B0AA116 // GOです姉さん
+
+063 = HisxKoh_B0AA114 // 
+064 = HisxKoh_B0AA200 // いくわよ姉さん
+// 065 = hisui65 // 
+// 066 = hisui66 // 
+// 067 = hisui67 // 
+// 068 = hisui68 // 
+// 069 = hisui69 // 
+070 = Hisui_B0AA200 // AD あんこくひすいりゅう
+071 = Hisui_B0AA201 // 
+072 = Hisui_B0AA202 // ギガメイド
+073 = Hisui_B0AA203 // インパクト
+074 = Hisui_B0AA204 // 
+075 = Hisui_B0AA205 // 
+// 076 = hisui76 // 
+077 = Hisui_B0AA109 // 危ないですよ１
+078 = Hisui_B0AA110 // 危ないですよ２
+079 = Hisui_B0AA111 // 危ないですよ３
+// 080 = hisui80 // 
+// 081 = hisui81 // 
+// 082 = hisui82 // 
+// 083 = hisui83 // 
+// 084 = hisui84 // 
+// 085 = hisui85 // 
+// 086 = hisui86 // 
+// 087 = hisui87 // 
+// 088 = hisui88 // 
+// 089 = hisui89 // 
+// 090 = hisui90 // 
+// 091 = hisui91 // 
+// 092 = hisui92 // 
+
+094 = hisui94 // ★ジョウロ
+095 = hisui95 // ★はたき
+096 = hisui96 // ★ハ
+097 = hisui97 // ★いす破壊
+
+099 = Hisui_B0AA061a // KOやられ　きゃああぁ
+// 100 = hisui100 // 
+101 = HisxKoh_B0AA012 // 無様です、姉さん
+102 = HisxKoh_B0AA013 // 
+103 = HisxKoh_B0AA014 // 
+// 104 = hisui104 // 
+// 105 = hisui105 // 
+106 = Hisui_B0AA084 // 空中復帰
+107 = Hisui_B0AA023 // あなたをダメージです　多分未使用
+108 = Hisui_B0AA069 // あなたを反撃ですのところ　リベンジにしてある
+// 109 = 
+110 = Hisui_B0AA133 // ３段３段目
+// 111 = hisui111 // 
+// 112 = hisui112 // 
+113 = Hisui_B0AA078 // 強制開放　本気でいきます
+114 = Hisui_B0AA081 // おかくごを！
+// 115 = hisui115 // 
+// 116 = hisui116 // 
+117 = Hisui_B0AA111 // 
+// 118 = hisui118 // 
+119 = Hisui_B0AA112 // 
+120 = Hisui_B0AA100 // 236
+121 = Hisui_B0AA104 // 
+122 = Hisui_B0AA116 // ２２A　がんばりました
+123 = Hisui_B0AA118 // お食べください
+124 = Hisui_B0AA125 // 
+125 = Hisui_B0AA124a // 超自信作です
+126 = Hisui_B0AA208 // 
+// 127 = hisui127 // 
+// 128 = hisui128 // 
+// 129 = hisui129 // 
+// 130 = hisui130 // 
+131 = hisui131 // ★LAエフェクト
+132 = hisui132 // ★LAエフェクト
+133 = hisui133 // ★爆発エフェクト
+// 134 = hisui134 // 
+// 135 = hisui135 // 
+// 136 = hisui136 // 
+137 = Hisui_B0AA028 // シールド発生
+// 138 = hisui138 // 
+139 = Hisui_B0AA064 // バクステ
+140 = Hisui_B0AA066 // 空中ダッシュ
+
+141 = Hisui_B0AA120 // 椅子です
+142 = Hisui_B0AA121 // おかけください
+143 = Hisui_B0AA128a // すべりますよ 
+
+144 = Hisui_B0AA041a // よいしょ
+145 = Hisui_B0AA042 // ご案内します
+
+// 146 = hisui146 // 
+
+147 = Hisui_B0AA016 // 大１
+148 = Hisui_B0AA017 // 大２
+
+149 = Hisui_B0AA045a // 空中投げスカ　おや？
+150 = Hisui_B0AA132a // 三段クッキング２段目　や。
+
+200 = Hisui_B0AA009 // タイムアップ１
+201 = Hisui_B0AA010 // タイムアップ２
+202 = Hisui_B0AA011 // タイムアップ３
+
+205 = HisxKoh_B0AA104 // 姉さん
+
+206 = Hisui_B0AA106 // フライ上げ
+207 = Hisui_B0AA103 // やややや
+208 = Hisui_B0AA108 // 卵返し
+209 = Hisui_B0AA115a // 丁寧にいきます
+
+210 = Hisui_B0AA300 // ガークラ１
+211 = Hisui_B0AA301 // ２
+
+
+215 = Hisui_B0AA073 // ゲージため１
+216 = Hisui_B0AA074 //２
+217 = Hisui_B0AA075 //３
+218 = Hisui_B0AA076 //４
+
+219 = Hisui_B0AA079 // サキスパ１
+220 = Hisui_B0AA080 // ２
+
+//追加
+224 = Hisui_B0AA003 // 登場４
+225 = Hisui_B0AA006 // 決着３
+
+229 = Hisui_B0AA029 // シールド
+230 = Hisui_B0AA030 // シールド
+231 = Hisui_B0AA031 // シールド
+
+232 = Hisui_B0AA032 // シールドカウンター1
+233 = Hisui_B0AA033 // シールドカウンター2
+
+235 = aoko83 // ひすいけん効果音：ゴゴゴゴゴ

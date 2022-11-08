@@ -1,0 +1,126 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+000 = Sion_B0AA010 // ふ　小
+001 = Sion_B0AA011 // は
+002 = Sion_B0AA012 // や
+003 = Sion_B0AA013 // たぁ　中
+004 = Sion_B0AA014 // やぁ
+005 = Sion_B0AA015 // はっ　大
+006 = Sion_B0AA016 // えいっ
+007 = Sion_B0AA017 // やああ　BE大
+008 = Sion_B0AA300 // どうです！？　スライディング
+009 = Sion_B0AA018 // チッ　ガード
+010 = Sion_B0AA019 // 単調ですね
+011 = Sion_B0AA020 // なんの
+012 = Sion_B0AA021 // 不可能です
+013 = Sion_B0AA063 // 戦闘再開します　起き上がり
+014 = Sion_B0AA064 // o
+015 = Sion_B0AA047 // やられ声
+016 = Sion_B0AA048 // o
+017 = Sion_B0AA049 // o
+018 = Sion_B0AA050 // o
+019 = Sion_B0AA051 // o
+020 = Sion_B0AA052 // o
+021 = Sion_B0AA053 // o
+022 = Sion_B0AA054 // o
+023 = Sion_B0AA055 // ここまで
+024 = Sion_B0AA033 // シールドバンカー
+025 = Sion_B0AA072 // 空中復帰
+026 = Sion_B0AA020 // o [Sion_B0AA073 , Sion_B0AA020]
+027 = Sion_B0AA074 // o
+028 = Sion_B0AA058 // ダッシュ
+029 = Sion_B0AA059 // o
+030 = Sion_B0AA060 // o
+031 = Sion_B0AA061 // o
+032 = Sion_B0AA062 // o
+033 = Sion_B0AA005 // 決着
+034 = Sion_B0AA004 // o
+035 = Sion_B0AA006 // o
+036 = Sion_B0AA007 // o
+
+039 = Sion_B0AA301 // フラワーキック
+040 = Sion_B0AA070 // とべっ！3B
+042 = Sion_B0AA040 // 投げスカり
+043 = Sion_B0AA041 // o
+044 = Sion_B0AA042 // 空中投げスカり
+045 = Sion_B0AA037 // 寝てろ　投げ
+046 = Sion_B0AA038 // えいっ 
+047 = Sion_B0AA039 // 落ちろ
+048 = Sion_B0AA000 // 登場セリフ
+049 = Sion_B0AA001 // o
+050 = Sion_B0AA002 // o
+051 = Sion_B0AA003 // o
+052 = sion52 // ★　ロープ音
+053 = Sion_B0AA043 // 避け
+054 = Sion_B0AA044 // o
+055 = Sion_B0AA045 // 空中避け
+056 = Sion_B0AA046 // o
+057 = sion51 // ★　リロード音
+058 = sion54 // ★　ハンドガン音
+059 = Sion_B0AA104 // エテエア
+060 = Sion_B0AA105 // EXエテエア
+061 = Sion_B0AA119 // エテグラ
+062 = Sion_B0AA120 // EXエテグラ
+063 = Sion_B0AA121 // o
+064 = Sion_B0AA106 // スライドエア
+065 = Sion_B0AA107 // o
+066 = Sion_B0AA108 // EXスライドエア
+067 = Sion_B0AA109 // 投げ中セリフ
+068 = Sion_B0AA110 // o
+069 = Sion_B0AA111 // o
+070 = Sion_B0AA112 // o
+071 = Sion_B0AA113 // o
+072 = Sion_B0AA122 // カッティングシンク始動
+073 = Sion_B0AA123 // 同上蹴り上げ
+074 = Sion_B0AA200 // AD
+075 = Sion_B0AA201 // o
+076 = Sion_B0AA202 // AAD
+077 = Sion_B0AA203 // AADスカ
+078 = Sion_B0AA205 // LA　ロック解除
+079 = Sion_B0AA206 // LA　フルオープン
+
+//081 = Sion_B0AA081 // 53～57ogg効果音あまり（使ってるとまずい）
+
+//095 = sion95 // ADのドビャーン用音なんだけどすでにoggがない
+098 = sion98 // AD用銃の音
+099 = Sion_B0AA056 // ＫＯ用　そんなはずは
+100 = sion56 // AD用ビシャー
+101 = sion55 // AD用ボンッ
+
+102 = Sion_B0AA102 // 打ち抜く　シグマ
+105 = Sion_B0AA057 // レアＫＯ
+
+113 = Sion_B0AA068 // サキスパ地上
+114 = Sion_B0AA069 // 空中
+115 = Sion_B0AA066 // 開放地上
+116 = Sion_B0AA067 // 空中
+117 = Sion_B0AA100 // 威嚇射撃　そこ
+118 = Sion_B0AA101 // 威嚇射撃　とまれ
+
+120 = Sion_B0AA124 // 威嚇射撃　動くな
+121 = Sion_B0AA125 // 威嚇射撃　逃がさない
+
+123 = Sion_B0AA065 // ゲージため
+126 = Sion_B0AA126 // セット
+127 = Sion_B0AA127 // セットセットセット
+
+200 = Sion_B0AA008 // タイムアップ１
+201 = Sion_B0AA009 // タイムアップ２
+
+226 = Sion_B0AA026 // シールド1
+227 = Sion_B0AA027 // シールド2
+228 = Sion_B0AA028 // シールド3
+229 = Sion_B0AA029 // シールド4
+
+235 = Sion_B0AA035 // 無駄です　トランスファーライド
+
+240 = Sion_B0AA130 //予測済みです
+//241 = Sion_B0AA131 //超予測済みです
+
+245 = Sion_B0AA030 // シールドカウンター1
+246 = Sion_B0AA031 // シールドカウンター2
+247 = Sion_B0AA032 // シールドカウンター3
+
+248 = Sion_B0AA068 // サキスパ１
+249 = Sion_B0AA069 // ２

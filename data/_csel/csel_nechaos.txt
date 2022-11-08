@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_nechaos
+[DataFile]
+FileNum= 1
+File00=csel_nechaos.HA6
+[BmpcutFile]
+FileNum= 1
+File00=csel_nechaos.cg
+[PAniFile]
+FileNum= 0

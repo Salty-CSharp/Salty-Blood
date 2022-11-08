@@ -1,0 +1,17 @@
+[System]
+ProjectName=s_akiha_2
+
+[DataFile]
+FileNum= 4
+File00=s_akiha.HA6
+File01=s_akiha_r.HA6
+File02=s_akiha_2.HA6
+File03=s_akiha_2_r.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00 =s_akiha.CG
+
+[PAniFile]
+FileNum= 0
+

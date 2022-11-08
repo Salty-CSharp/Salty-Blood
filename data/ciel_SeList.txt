@@ -1,0 +1,154 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+000 = Ciel_B0AA015 // 弱１　ふっ　バクステ
+001 = Ciel_B0AA016 // ２　しっ
+002 = Ciel_B0AA016a // ３　はっ　前ダッシュ
+003 = Ciel_B0AA018a // ４　てい
+// 004 = Ciel_B0AA004 // ５　てやぁ　★
+005 = Ciel_B0AA020a // ６　よっ
+006 = Ciel_B0AA019 // ７　やっ
+007 = Ciel_B0AA023 // ８　せいっ
+008 = Ciel_B0AA022c // ９　チェッ
+009 = Ciel_B0AA043 // バンカー　お見通しです
+010 = Ciel_B0AA028 // 痛いですよ～
+011 = Ciel_B0AA023a // せい
+012 = Ciel_B0AA088a // 逃がしません
+013 = Ciel_B0AA049 // 投げスカ　あらら
+014 = Ciel_B0AA050 // 投げスカ　おおっと
+015 = Ciel_B0AA052 // 避け　ふっ
+016 = Ciel_B0AA057 // やられ１
+017 = Ciel_B0AA066a // ２
+018 = Ciel_B0AA057a // ３
+019 = Ciel_B0AA062 // ４
+020 = Ciel_B0AA060 // ５
+021 = Ciel_B0AA061a // ６ かはっ
+022 = Ciel_B0AA075 // 起き上がり１
+023 = Ciel_B0AA077 // ２
+024 = Ciel_B0AA076 // ３
+
+026 = Ciel_B0AA089 // ２受身
+027 = Ciel_B0AA015 // ３
+028 = Ciel_B0AA091 // ４
+029 = Ciel_B0AA025 // 5 ３
+
+031 = Ciel_B0AA024 // ガード１　やりますね
+032 = Ciel_B0AA026 // ２
+033 = Ciel_B0AA025 // いやな性格です
+
+034 = Ciel_B0AA036 // シールド１
+035 = Ciel_B0AA037 // ２
+036 = Ciel_B0AA035 // ３
+037 = Ciel_B0AA044 // ４
+// 038 = Ciel_B0AA035 // ？
+// 039 = Ciel_B0AA039 // 危ない危ない
+// 040 = Ciel_B0AA040 // お見通しです 
+041 = Ciel_B0AA129 // いきますよ
+042 = Ciel_B0AA126 // 
+043 = Ciel_B0AA127 // 
+044 = Ciel_B0AA112 // 
+045 = Ciel_B0AA106 // 
+
+//047 = Ciel_B0AA003 // 開幕１　いきますよ、セブン
+//048 = Ciel_B0AA004 // ２
+//049 = Ciel_B0AA000 // ３
+//050 = Ciel_B0AA001 // ４
+051 = Ciel_B0AA009 // 勝ち　なーんて
+052 = Ciel_B0AA011 // 
+053 = Ciel_B0AA010 // 
+054 = Ciel_B0AA012 // 
+055 = ciel55 // ★
+056 = ciel56 // ★
+057 = ciel57 // ★
+
+066 = Ciel_B0AA100 // ゼロ
+
+068 = Ciel_B0AA102b // トゥロア（トゥー　ない
+069 = Ciel_B0AA102b // 
+070 = Ciel_B0AA104a // 
+
+073 = Ciel_B0AA111a // 
+
+075 = Ciel_B0AA105a // 
+076 = Ciel_B0AA138 // ひゅっ（ティス
+
+081 = Ciel_B0AA131 // 倒れなさい
+082 = Ciel_B0AA203 // カルヴァリア・デスピアー
+083 = Ciel_B0AA073 // 空中前ダッシュ
+084 = Ciel_B0AA074 // 空中後ダッシュ
+085 = Ciel_B0AA029 // BEC　はぁーあ
+086 = Ciel_B0AA117b // 壁張り付き
+087 = Ciel_B0AA118a // はぁ！　★壁張り付きコッケン投げ
+088 = Ciel_B0AA206 // LA
+089 = Ciel_B0AA125 // その隙もらった
+090 = ciel90 // ★
+091 = ciel91 // ★
+//092 = ciel92 // ★
+//093 = ciel93 // ★
+
+096 = Ciel_B0AA200 // セブン
+097 = Ciel_B0AA201 // コード・スクエア
+098 = Ciel_B0AA069 // レアＫＯ
+099 = Ciel_B0AA068a // KOやられ
+100 = Ciel_B0AA080a // 強制開放1
+101 = Ciel_B0AA081a // 2
+//102 = Ciel_B0AA102 // 
+//103 = Ciel_B0AA103 // 
+//104 = Ciel_B0AA104 // 
+//105 = Ciel_B0AA105 // 
+106 = Ciel_B0AA090a // 甘いです
+107 = Ciel_B0AA107 // 踊りなさい
+
+122 = Ciel_B0AA122 // ひょいっと
+
+128 = Ciel_B0AA128 // シンカーAB
+
+131 = Ciel_B0AA131 // 倒れなさい
+
+133 = Ciel_B0AA133 // もっと！
+134 = Ciel_B0AA134 // 黒鍵・影縫い１
+135 = Ciel_B0AA135 // 黒鍵・影縫い２
+136 = Ciel_B0AA136 // 黒鍵・影縫い３
+
+139 = Ciel_B0AA139 // 逆立ち蹴り３ カポエラ１
+140 = Ciel_B0AA139a // カポエラ２
+
+142 = Ciel_B0AA140 // 思い知れ
+
+144 = Ciel_B0AA144 // フリッカー１
+145 = Ciel_B0AA145a // フリッカー２　ＥＸ？
+146 = Ciel_B0AA146 // フリッカー３
+147 = Ciel_B0AA147 // フリッカー４
+
+150 = Ciel_B0AA030 // ドン！
+
+
+200 = Ciel_B0AA013 // タイムアップ１
+201 = Ciel_B0AA014 // タイムアップ２
+
+210 = Ciel_B0AA300 // ガークラ１
+211 = Ciel_B0AA301 // ２
+212 = Ciel_B0AA302 // ３
+
+233 = Ciel_B0AA008 // あなたの罪は～★追加
+234 = neco31 // シャドウスナップ
+//235 = Ciel_B0AA143 // 重いですよ
+
+236 = Ries_B0AA317 // ＥＸコマ投げ回転音
+237 = Ciel_B0AA048a // ぽぽーいっと　ＥＸコマ投げ
+
+238 = Ciel_B0AA000 // 怖い登場1
+239 = Ciel_B0AA001 // 2
+240 = Ciel_B0AA002 // 3
+
+241 = Ciel_B0AA003 // 登場1
+242 = Ciel_B0AA004 // 2
+243 = Ciel_B0AA005 // 3
+
+244 = Ciel_B0AA006_cut // 7志貴
+245 = Ciel_B0AA007 // 8ロア
+
+246 = Ciel_B0AA038 // シールドカウンター1
+247 = Ciel_B0AA039 // 2
+248 = Ciel_B0AA084 // サキスパ１
+249 = Ciel_B0AA085 // ２

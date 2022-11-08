@@ -1,0 +1,12 @@
+[System]
+ProjectName=p_ciel_1
+[DataFile]
+FileNum= 2
+File00=..\p_ciel.HA6
+File01=..\p_ciel_1.HA6
+[BmpcutFile]
+FileNum= 1
+File00=..\p_ciel.cg
+[PAniFile]
+FileNum= 1
+File00=..\p_ciel.pat

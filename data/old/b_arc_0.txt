@@ -1,0 +1,12 @@
+[System]
+ProjectName=b_arc_0
+[DataFile]
+FileNum= 2
+File00 =..\b_arc.HA6
+File01 =..\b_arc_0.HA6
+[BmpcutFile]
+FileNum= 1
+File00=..\b_arc.cg
+[PAniFile]
+FileNum= 0
+File00=..\arc.PAT

@@ -1,0 +1,181 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+
+000 = P_ciel_B0CC000 // 邪魔ですね
+001 = P_ciel_B0CC001 // 引かないのなら
+002 = P_ciel_B0CC002 // 重いお仕置き
+003 = P_ciel_B0CC003 // 粉砕しますよ
+
+004 = P_ciel_B0CC004 // 粉砕をはじめ
+005 = P_ciel_B0CC005 // その魂
+006 = P_ciel_B0CC006 // きなさい、能書き
+
+007 = P_ciel_B0CC007 // まだ息は
+008 = P_ciel_B0CC008 // 丈夫じゃ
+009 = P_ciel_B0CC009 // こんなもの
+010 = P_ciel_B0CC010 // 話に
+011 = P_ciel_B0CC011 // 軟弱な
+
+012 = P_ciel_B0CC012 // ここまでの
+013 = P_ciel_B0CC013 // もう逃げられ
+014 = P_ciel_B0CC014 // つまらない
+015 = P_ciel_B0CC015 // 覚悟はできて
+
+016 = P_ciel_B0CC016 // 攻めきれ
+017 = P_ciel_B0CC017 // 往生際の
+
+//攻撃
+018 = P_ciel_B0CC018 // ふ
+019 = P_ciel_B0CC019 // は
+020 = P_ciel_B0CC020 // た
+021 = P_ciel_B0CC021 // ふっ
+022 = P_ciel_B0CC022 // せい
+023 = P_ciel_B0CC023 // や
+024 = P_ciel_B0CC024 // ぜ
+025 = P_ciel_B0CC025 // はぁ
+026 = P_ciel_B0CC026 // とう
+027 = P_ciel_B0CC027 // きえろ
+028 = P_ciel_B0CC028 // 砕けなさい
+029 = P_ciel_B0CC029 // 邪魔
+030 = P_ciel_B0CC030 // これで
+031 = P_ciel_B0CC031 // ひゅ
+032 = P_ciel_B0CC032 // きりあげる
+033 = P_ciel_B0CC033 // いきなさい
+034 = P_ciel_B0CC034 // ぼる
+
+035 = P_ciel_B0CC035 // ふっ
+036 = P_ciel_B0CC036 // まだまだ
+037 = P_ciel_B0CC037 // ちぃ
+038 = P_ciel_B0CC038 // しまっ
+
+039 = P_ciel_B0CC039 // そこか　シールド成功１
+040 = P_ciel_B0CC040 // 甘い　シールド成功２
+041 = P_ciel_B0CC041_a // こい　シールドバンカー
+
+042 = P_ciel_B0CC042 // ふん
+043 = P_ciel_B0CC043 // 受けなさい
+044 = P_ciel_B0CC044 // 笑えますね
+045 = P_ciel_B0CC045_b // 悔い改め　生投げ
+046 = P_ciel_B0CC046 // ふん
+047 = P_ciel_B0CC047 // 折れろ
+048 = P_ciel_B0CC048 // どうです
+
+049 = P_ciel_B0CC049 // ぬ
+050 = P_ciel_B0CC050 // 遠い
+051 = P_ciel_B0CC051 // ぐっ
+052 = P_ciel_B0CC052 // く
+053 = P_ciel_B0CC053 // くう
+054 = P_ciel_B0CC054 // ぐう
+055 = P_ciel_B0CC055 // よくも
+056 = P_ciel_B0CC056 // まだ
+
+//057 = P_ciel_B0CC057 // 
+//058 = P_ciel_B0CC058 // 
+
+059 = P_ciel_B0CC059 // そこ
+060 = P_ciel_B0CC060 // もらった
+
+061 = P_ciel_B0CC061 // …っ
+062 = P_ciel_B0CC062 // やってくれますね
+063 = P_ciel_B0CC063 // この程度
+064 = P_ciel_B0CC064 // いきます
+
+065 = P_ciel_B0CC065 // はああぁぁぁー
+066 = P_ciel_B0CC066 // エイメン
+067 = P_ciel_B0CC067 // ハァー
+068 = P_ciel_B0CC068 // 不浄者
+069 = P_ciel_B0CC069 // 恐れなさい
+070 = P_ciel_B0CC070 // ふっ
+071 = P_ciel_B0CC071 // 軽いですね
+072 = P_ciel_B0CC072 // 持ち直す
+073 = P_ciel_B0CC073 // こしゃくな
+
+074 = P_ciel_B0CC074 // ディス
+075 = P_ciel_B0CC075 // ぬう
+076 = P_ciel_B0CC076 // ごらー
+077 = P_ciel_B0CC077 // これなら
+078 = P_ciel_B0CC078_b // とべ
+079 = P_ciel_B0CC079 // オンズ
+080 = P_ciel_B0CC080 // ドゥーズ
+081 = P_ciel_B0CC081 // ディゼット
+082 = P_ciel_B0CC082 // ディズヌフ
+083 = P_ciel_B0CC083 // どうです！
+
+084 = P_ciel_B0CC084 // 鋭角に…
+085 = P_ciel_B0CC085 // 抉り打つ！
+086 = P_ciel_B0CC086_a // 打ち上げる
+087 = P_ciel_B0CC087 // …もらった
+088 = P_ciel_B0CC088 // 死になさい
+089 = P_ciel_B0CC089 // なかせてあげます
+090 = P_ciel_B0CC090 // 装填…
+091 = P_ciel_B0CC091_c // 打ちぬけ！
+092 = P_ciel_B0CC092 // その隙…
+093 = P_ciel_B0CC093 // おしまいです
+094 = P_ciel_B0CC094_a // 風穴
+095 = P_ciel_B0CC095 // ランシェ
+096 = P_ciel_B0CC096 // ラピッド
+097 = P_ciel_B0CC097_e // 吹き飛べ
+
+098 = P_ciel_B0CC058 // レア
+099 = P_ciel_B0CC057 // ＫＯ
+
+100 = P_ciel_B0CC100 // 粉砕します
+101 = P_ciel_B0CC101 // フォール
+102 = P_ciel_B0CC102 // ぶっとべ
+103 = P_ciel_B0CC103 // アン
+104 = P_ciel_B0CC104 // フラム
+105 = P_ciel_B0CC105_a // オリフラムコンサート
+
+106 = P_ciel_B0CC106_b // コード
+107 = P_ciel_B0CC107 // 00 ゼロ
+108 = P_ciel_B0CC108 // 04 キャトル
+109 = P_ciel_B0CC109 // 06 シス
+110 = P_ciel_B0CC110 // 07 セット
+111 = P_ciel_B0CC111 // 10 ディス
+112 = P_ciel_B0CC112 // 11 オンズ
+113 = P_ciel_B0CC113 // 12 ドゥーズ
+114 = P_ciel_B0CC114 // 13 トレーズ
+115 = P_ciel_B0CC115 // 14 キャトル
+116 = P_ciel_B0CC116 // 15 キャーンズ
+117 = P_ciel_B0CC117 // 16 セッツ
+118 = P_ciel_B0CC118 // 17 ディセット
+119 = P_ciel_B0CC119 // 18 ディズイット
+120 = P_ciel_B0CC120 // 19 ディズヌフ
+
+121 = P_ciel_B0CC121 // セットセッテ
+122 = P_ciel_B0CC122 // コーノカント
+123 = P_ciel_B0CC123 // クレア
+
+124 = P_ciel_B0CC124 // LA1
+125 = P_ciel_B0CC125 // LA2
+126 = P_ciel_B0CC126 // LA3
+127 = P_ciel_B0CC127 // 別パターン
+
+130 = P_ciel_B0CC026_a // トウ
+131 = P_ciel_B0CC097 // フキトベ
+
+140 = P_ciel_B0CC122_a // コーノカント 214EX
+145 = P_ciel_B0CC030_a // 砕けなさい 214EX
+
+150 = P_ciel_B0CC099_a // ＢＥＣ　フォールとひんまげる
+
+160 = P_ciel_B0CC086_a // 打ち上げる
+161 = P_ciel_B0CC088 // 死になさい
+162 = P_ciel_B0CC093 // おしまいです
+
+170 = Loa_B0AA403_ad2 // LA開始
+171 = Loa_B0AA404_ad3 // LAフィニッシュ
+172 = aoko107 // LA魔方陣
+173 = ciel90 // LAうちだし
+174 = aoko107 // AD開始
+175 = ciel90 // ADキメ
+176 = kishima85 // AD中突進
+177 = m_hisui37a // ミサイル爆発
+
+241 = Ries_B0AA313a // 盾ガコッ22
+242 = Ries_B0AA314a // パイルバンカー杭で捉える22
+243 = Ries_B0AA315b // パイルバンカー22
+244 = Ries_B0AA316a // スイング低22
+245 = Ries_B0AA317a // スイング中22
+246 = Ries_B0AA318a // スイング高22

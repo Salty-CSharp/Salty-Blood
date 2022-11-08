@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_kohaku
+[DataFile]
+FileNum= 1
+File00=csel_kohaku.HA6
+[BmpcutFile]
+FileNum= 1
+File00=csel_kohaku.cg
+[PAniFile]
+FileNum= 0

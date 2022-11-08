@@ -1,0 +1,14 @@
+[System]
+ProjectName=roa
+[DataFile]
+FileNum= 4
+File00=roa.HA6
+File01=roa_0.HA6
+File02=roa_1.HA6
+File03=roa_2.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=roa.cg
+[PAniFile]
+FileNum= 0

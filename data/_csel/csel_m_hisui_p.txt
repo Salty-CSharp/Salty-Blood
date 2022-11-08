@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_m_hisui_p
+[DataFile]
+FileNum= 1
+File00=csel_m_hisui_p.HA6
+[BmpcutFile]
+FileNum= 1
+File00=csel_m_hisui_p.cg
+[PAniFile]
+FileNum= 0

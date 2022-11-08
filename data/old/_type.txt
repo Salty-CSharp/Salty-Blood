@@ -1,0 +1,328 @@
+[System]
+FloatLimit = 0.008 // ヒット毎に減少する浮き係数　0.01→0.008
+FloatLimitHit = 0 // 何ヒット目から制限をかけるか（今後使わない）
+
+// 受け身時間補正値設定
+UkemiTime_StartVal = 0.072 // 制限開始値、値は浮き補正を使用(default 0.0 (0.20)
+UkemiTime_MinusVal = 19 // 受け身開始時間の最大減算値　↑1.0に向かう
+UkemiTime_LimitVal = 4   // 受け身開始時間の限界値
+
+// やられ側ゲージ増加値設定
+MC_PlusHoseiStart = 0.16 // 補正開始値、値は浮き補正を使用(default 0.0
+MC_PlusHoseiMax = 70.0 // 補正係数最高値 1.0より大きい値であること　浮き補正1.0→70倍
+
+// ゲージため設定
+MC_ChargeCntPlus = 100 // 30 毎フレーム加算され、100になると MC_ChargePlus が +1 される
+MC_ChargePlus = 50 // 100 毎フレーム増加値
+MC_ChargePlusMax = 999 // 最大増加値
+
+// 定義番号は000～099　 Type 6  No 24  Param 
+Value_000 = -50000 // ガード防御力リセット
+Value_001 = 0 // ハイジャンプ 1000
+
+Value_005 = 10000 // 立シールド
+Value_006 = 10000 // 屈シールド
+Value_007 = 10000 // 空シールド
+Value_010 = 4000 // 地上避け
+Value_011 = 7500 // 空中避け
+
+Value_015 = 0 // バックステップ 1500
+
+Value_020 = -50000 // 強制開放での回復
+Value_021 = -500 // ゲージ溜めでの回復（未使用）
+Value_022 = -50000 // 地上サキスパでの回復
+Value_023 = -50000 // 空中サキスパでの回復
+
+Value_025 = -5000 // 投げぬけでの回復（未使用）
+
+Value_030 = -15000 // 立シールド成功での回復 -6000
+Value_031 = -15000 // 屈シールド成功での回復 -7000
+Value_032 = -5000 // 空シールド成功での回復 失敗時に減らないので-3000
+
+Value_035 = -50000 // 投げぬけ・ガークラでの回復(全快にしとく・ガークラのは使わなくなる)
+
+Value_042 = -500 // ゲージ溜めでの回復2F
+Value_043 = -333 // ゲージ溜めでの回復3F
+Value_044 = -250 // ゲージ溜めでの回復4F
+
+// ガードゲージは10000
+
+[Type_0] // CrescentMoonStyle ------------------------------------------------------●
+SparkType = 0 // HEAT & BLOOD
+MagicCircuitMax = 30000
+CircuitSpark = 1
+ReverseBeat = 1
+
+AttackRatio_BloodHeat = 1.0  // 状態に対する係数
+AttackRatio_Heat = 1.0
+AttackRatio_Max = 1.0
+DefenceRatio_BloodHeat = 1.0
+DefenceRatio_Heat = 1.0
+DefenceRatio_Max = 1.0
+
+MC_PlusVal = 1.0 // マジックサーキットゲージ増加率
+MC_GuardPlus = 1 // ガード時に増加するかどうか
+
+BloodHeat_HpPlus = 20 // BloodHeat時HP回復値
+Heat_HpPlus = 12 // Heat時HP回復値
+
+VSDamageVal = 0.96 // ヴァイタルソース攻撃力係数
+
+IsExGuard = 1
+IsExReduce = 0
+IsReduce = 1
+
+ShieldType = 0
+ExShieldTime_Stand = 4 // 6
+ExShieldTime_Crouch = 4 // 6
+ExShieldTime_Air = 6 // 8 空中
+ShieldKeepTime = 60 // 90 シールド最大継続時間(EX時間は別
+ShieldCost = 20 // 1Fで消費するマジックサーキット量(EX時は減らない)
+
+// クレセント　ガードゲージ関係
+GG_MaxVal = 6000.0 // 最大値
+GG_HealVal = 2.5 // 初期回復値
+GG_HealPlusVal = 0.02 // 1F毎に加算される回復加速値
+GG_StopVal = 420 // 減少があったときに停止する時間
+GG_RecoverVal = 180 // クラッシュ時に回復するまでの時間
+
+GG_CorrectVal = 1.00 // 連続ガード時の補正値（２ヒット目移行は常にこの値）
+
+// クレセント　ガード防御力（GuardQuality  0.0が通常
+GQ_MaxVal = 2.00 // 防御低下の限界値
+GQ_RecoverVal = 0.001 // 1F毎の回復量
+GQ_StopVal = 30 // 変化時の回復停止フレーム
+
+//ダメージ・ガードゲージ補正 ※自分の強度なので注意
+DamageVal_Ground = 1.0
+DamageVal_Air = 0.88
+DamageVal_Crouch = 1.08
+GuardVal_Ground = 1.0
+GuardVal_Air = 2.0
+GuardVal_Crouch = 1.5
+
+
+[Type_1] // FullMoonStyle ----------------------------------------------------------▲
+SparkType = 1 // ため & BLOOD
+MagicCircuitMax = 30000
+CircuitSpark = 1
+ReverseBeat = 0
+
+AttackRatio_BloodHeat = 1.0  // 状態に対する係数
+AttackRatio_Heat = 1.0
+AttackRatio_Max = 1.0
+DefenceRatio_BloodHeat = 1.0
+DefenceRatio_Heat = 1.0
+DefenceRatio_Max = 1.0
+
+MC_PlusVal = 0.9 // マジックサーキットゲージ増加率
+MC_GuardPlus = 1 // ガード時に増加するかどうか
+
+BloodHeat_HpPlus = 0 // BloodHeat時HP回復値
+Heat_HpPlus = 0 // Heat時HP回復値
+
+VSDamageVal = 1.01 // ヴァイタルソース攻撃力係数
+
+IsExGuard = 1
+IsExReduce = 0
+IsReduce = 1
+
+ShieldType = 1 // EXなし、持続なし（EXの部分が実シールド時間になる
+ExShieldTime_Stand = 4 // 6
+ExShieldTime_Crouch = 4 // 6
+ExShieldTime_Air = 6 // 8
+ShieldKeepTime = 45 // シールド最大継続時間
+ShieldCost = 50 // 1Fで消費するマジックサーキット量(EX時は減らない)
+
+// SparkType = 1 だけ
+// AdvancingVecはベクトル発生フレーム
+// 初速度がAdvancingVec、減速量は(AdvancingVec / AdvancingCount)
+AdvancingCount = 6 // 6
+AdvancingVec = 2000 // 2000
+
+// フルムーン　ガードゲージ関係
+GG_MaxVal = 7000.0 // 最大値
+GG_HealVal = 3.5 // 初期回復値
+GG_HealPlusVal = 0.03 // 1F毎に加算される回復加速値
+GG_StopVal = 420 // 減少があったときに停止する時間
+GG_RecoverVal = 180 // クラッシュ時に回復するまでの時間
+
+GG_CorrectVal = 0.80 // 連続ガード時の補正値（２ヒット目移行は常にこの値）
+
+// フルムーン　ガード防御力（GuardQuality  0.0が通常
+GQ_MaxVal = 1.70 // 防御低下の限界値
+GQ_RecoverVal = 0.001 // 1F毎の回復量
+GQ_StopVal = 30 // 変化時の回復停止フレーム
+
+//ダメージ・ガードゲージ補正 ※自分の強度なので注意
+DamageVal_Ground = 1.0
+DamageVal_Air = 0.88
+DamageVal_Crouch = 1.08
+GuardVal_Ground = 1.0
+GuardVal_Air = 2.0
+GuardVal_Crouch = 1.5
+
+[Type_2] // HalfMoonStyle ----------------------------------------------------------■
+SparkType = 2 // AUTO
+MagicCircuitMax = 20000 // 20000
+CircuitSpark = 0
+ReverseBeat = 1
+
+AttackRatio_BloodHeat = 1.0  // 状態に対する係数
+AttackRatio_Heat = 1.0
+AttackRatio_Max = 1.0
+DefenceRatio_BloodHeat = 1.0
+DefenceRatio_Heat = 1.0
+DefenceRatio_Max = 1.0
+
+MC_PlusVal = 0.75 // マジックサーキットゲージ増加率
+MC_GuardPlus = 1 // ガード時に増加するかどうか
+
+IsExGuard = 0
+IsExReduce = 0
+IsReduce = 1
+
+BloodHeat_HpPlus = 20 // BloodHeat時HP回復値
+Heat_HpPlus = 20 // Heat時HP回復値
+
+VSDamageVal = 0.98 // ヴァイタルソース攻撃力係数
+
+ShieldType = 2 // EXなし、持続なし（EXの部分が実シールド時間になる
+ExShieldTime_Stand = 6 // 10
+ExShieldTime_Crouch = 6 // 10
+ExShieldTime_Air = 8 // 12 空中
+ShieldKeepTime = 0 // シールド最大継続時間
+ShieldCost = 0 // 1Fで消費するマジックサーキット量(EX時は減らない)
+
+// ハーフムーン　ガードゲージ関係
+GG_MaxVal = 7000.0 // 最大値
+GG_HealVal = 5.0 // 初期回復値
+GG_HealPlusVal = 0.03 // 1F毎に加算される回復加速値
+GG_StopVal = 420 // 減少があったときに停止する時間
+GG_RecoverVal = 180 // クラッシュ時に回復するまでの時間
+
+GG_CorrectVal = 0.90 // 連続ガード時の補正値（２ヒット目移行は常にこの値）
+
+// ハーフムーン　ガード防御力（GuardQuality  0.0が通常
+GQ_MaxVal = 1.50 // 防御低下の限界値
+GQ_RecoverVal = 0.001 // 1F毎の回復量
+GQ_StopVal = 60 // 変化時の回復停止フレーム
+
+//ダメージ・ガードゲージ補正 ※自分の強度なので注意
+DamageVal_Ground = 1.00
+DamageVal_Air = 0.88
+DamageVal_Crouch = 1.08
+GuardVal_Ground = 1.0
+GuardVal_Air = 2.0
+GuardVal_Crouch = 1.5
+
+[Type_9] //[Type_9] ----------------------------------------------------------------◆
+SparkType = 9 // 
+MagicCircuitMax = 30000 // 20000
+CircuitSpark = 1
+ReverseBeat = 1
+
+AttackRatio_BloodHeat = 1.2  // 状態に対する係数
+AttackRatio_Heat = 1.1
+AttackRatio_Max = 1.1
+DefenceRatio_BloodHeat = 0.88
+DefenceRatio_Heat = 0.95
+DefenceRatio_Max = 0.95
+
+MC_PlusVal = 0.4 // マジックサーキットゲージ増加率
+MC_GuardPlus = 1 // ガード時に増加するかどうか
+
+IsExGuard = 0
+IsExReduce = 0
+IsReduce = 1
+
+BloodHeat_HpPlus = 30 // BloodHeat時HP回復値
+Heat_HpPlus = 15 // Heat時HP回復値
+
+VSDamageVal = 1.1 // ヴァイタルソース攻撃力係数
+
+ShieldType = 0
+ExShieldTime_Stand = 10 // 6
+ExShieldTime_Crouch = 10 // 6
+ExShieldTime_Air = 10 // 8 空中
+ShieldKeepTime = 60 // 90 シールド最大継続時間(EX時間は別
+ShieldCost = 10 // 1Fで消費するマジックサーキット量(EX時は減らない)
+
+// イクリプス　ガードゲージ関係
+GG_MaxVal = 10000.0 // 最大値
+GG_HealVal = 5.0 // 初期回復値
+GG_HealPlusVal = 0.04 // 1F毎に加算される回復加速値
+GG_StopVal = 360 // 減少があったときに停止する時間
+GG_RecoverVal = 180 // クラッシュ時に回復するまでの時間
+
+GG_CorrectVal = 1.0 // 連続ガード時の補正値（２ヒット目移行は常にこの値）
+
+// イクリプス　ガード防御力（GuardQuality  0.0が通常
+GQ_MaxVal = 1.50 // 防御低下の限界値
+GQ_RecoverVal = 0.001 // 1F毎の回復量
+GQ_StopVal = 30 // 変化時の回復停止フレーム
+
+//ダメージ・ガードゲージ補正
+DamageVal_Ground = 1.0
+DamageVal_Air = 0.88
+DamageVal_Crouch = 1.08
+GuardVal_Ground = 1.0
+GuardVal_Air = 2.0
+GuardVal_Crouch = 1.5
+
+
+[Type_8] // HalfMoonStyle 1.0----------------------------------------------------------■
+SparkType = 8 // AUTO
+MagicCircuitMax = 20000 // 20000
+CircuitSpark = 0
+ReverseBeat = 1
+
+AttackRatio_BloodHeat = 1.0  // 状態に対する係数
+AttackRatio_Heat = 1.0
+AttackRatio_Max = 1.0
+DefenceRatio_BloodHeat = 1.0
+DefenceRatio_Heat = 1.0
+DefenceRatio_Max = 1.0
+
+MC_PlusVal = 1.40 // マジックサーキットゲージ増加率
+MC_GuardPlus = 1 // ガード時に増加するかどうか
+
+IsExGuard = 0
+IsExReduce = 0
+IsReduce = 1
+
+BloodHeat_HpPlus = 20 // BloodHeat時HP回復値
+Heat_HpPlus = 20 // Heat時HP回復値
+
+VSDamageVal = 1.10 // ヴァイタルソース攻撃力係数
+
+ShieldType = 2 // EXなし、持続なし（EXの部分が実シールド時間になる
+ExShieldTime_Stand = 6 // 10
+ExShieldTime_Crouch = 6 // 10
+ExShieldTime_Air = 8 // 12 空中
+ShieldKeepTime = 0 // シールド最大継続時間
+ShieldCost = 0 // 1Fで消費するマジックサーキット量(EX時は減らない)
+
+// ハーフムーン　ガードゲージ関係
+GG_MaxVal = 7000.0 // 最大値
+GG_HealVal = 5.0 // 初期回復値
+GG_HealPlusVal = 0.03 // 1F毎に加算される回復加速値
+GG_StopVal = 420 // 減少があったときに停止する時間
+GG_RecoverVal = 180 // クラッシュ時に回復するまでの時間
+
+GG_CorrectVal = 0.90 // 連続ガード時の補正値（２ヒット目移行は常にこの値）
+
+// ハーフムーン　ガード防御力（GuardQuality  0.0が通常
+GQ_MaxVal = 1.50 // 防御低下の限界値
+GQ_RecoverVal = 0.001 // 1F毎の回復量
+GQ_StopVal = 60 // 変化時の回復停止フレーム
+
+//ダメージ・ガードゲージ補正 ※自分の強度なので注意
+DamageVal_Ground = 1.00
+DamageVal_Air = 0.88
+DamageVal_Crouch = 1.08
+GuardVal_Ground = 1.0
+GuardVal_Air = 2.0
+GuardVal_Crouch = 1.5
+
+

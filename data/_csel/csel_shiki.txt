@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_shiki
+[DataFile]
+FileNum= 1
+File00=csel_shiki.HA6
+[BmpcutFile]
+FileNum= 1
+File00=csel_shiki.cg
+[PAniFile]
+FileNum= 0

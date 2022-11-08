@@ -1,0 +1,117 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+001 = Nanaya_B0AA000 // 開幕　さぁ殺しあおう
+002 = Nanaya_B0AA003 // 開幕　あーあ出会っちまった
+003 = Nanaya_B0AA001 // 開幕　逃げるなら
+004 = Nanaya_B0AA004 // 受け取れよ、あんたへの
+005 = Nanaya_B0AA002 // その首、俺が貰い受ける
+006 = Nanaya_B0AA008 // 決着　これにて終了でございます（つくづく無能だな
+007 = Nanaya_B0AA005 // 決着　しかし下手だね
+008 = Nanaya_B0AA006 // 決着　まともじゃないよな
+009 = Nanaya_B0AA009 // 決着　ま、楽しかったんじゃないの？（なんだ、死んだのかよ
+010 = Nanaya_B0AA007 // 決着　救われないな、俺も
+011 = Nanaya_B0AA021 // ガード　正気か？　（ふっ
+012 = Nanaya_B0AA020 // ガード　遅い
+013 = Nanaya_B2AA003 // ガード　眠い ★変更
+014 = Nanaya_B0AA040 // 空中投げ　寝てな
+015 = Nanaya_B0AA038 // 地上投げ　そらっ
+016 = Nanaya_B0AA042 // 投げスカ　くっ
+017 = Nanaya_B0AA043 // ちっ
+018 = Nanaya_B0AA060 // ダッシュ　ふっ
+019 = Nanaya_B0AA059 // ふん
+020 = Nanaya_B0AA063 // バクステ　はっ
+021 = Nanaya_B0AA064 // 623　じゅっ
+
+026 = Nanaya_B0AA119a // 受身　よっと　★だめかも
+027 = Nanaya_B0AA067 // 受身　そろそろいくか
+028 = Nanaya_B0AA066 // 受身　あきないな
+029 = Nanaya_B0AA076 // 受身　まてまて
+
+033 = Nanaya_B0AA033 // ？　出直せ
+034 = Nanaya_B0AA028 // シールド　ふん
+035 = Nanaya_B0AA030 // シールド　未熟
+036 = Nanaya_B0AA029 // シールド　無為
+037 = Nanaya_B0AA032 // シールドカウンター　無駄だらけだ
+038 = Nanaya_B0AA034 // はっ
+039 = Nanaya_B0AA036 // すきだらけだ
+040 = Nanaya_B0AA037 // あきれたな
+041 = Nanaya_B0AA033 // シールドカウンター　遅すぎるんだよ
+
+043 = Nanaya_B0AA068 // 強制開放　しとめるか＠　43
+044 = Nanaya_B0AA075 // ふっ　★だめかも
+
+// 046 = Nanaya_B0AA046 // そらっ、せい　★未使用
+047 = Nanaya_B0AA072 // B派生B　はねろ
+
+050 = Nanaya_B0AA102 // 214B　切る
+051 = Nanaya_B0AA104 // 214C　さばく
+052 = Nanaya_B0AA100 // 236EX　ざんけいにしょす
+053 = Nanaya_B0AA105 // 623　せい
+054 = Nanaya_B0AA105 // 623B　せい　変えたい
+055 = Nanaya_B0AA106 // 623EX　けりうがつ
+056 = Nanaya_B0AA200 // AD　ごくさいとちれ
+
+060 = Nanaya_B0AA047 // やられ？　ふっ
+061 = Nanaya_B0AA048 // んっ
+062 = Nanaya_B0AA049 // くっ
+063 = Nanaya_B0AA050 // 
+064 = Nanaya_B0AA051 // 
+065 = Nanaya_B0AA052 // くわ
+066 = Nanaya_B0AA053 // ふう
+067 = Nanaya_B0AA054 // くう
+068 = Nanaya_B0AA056 // ぐう
+069 = Nanaya_B0AA055 // くそう
+070 = Nanaya_B0AA013 // JC　ずん
+071 = Nanaya_B0AA014 // JC　しつ
+072 = Nanaya_B0AA015 // JC　そらっ
+073 = Nanaya_B0AA016 // JC　せいっ
+074 = Nanaya_B0AA205b // LA　きょくし
+075 = Nanaya_B0AA205c // LA　七夜
+076 = Nanaya_B0AA027 // BEC　そらっ
+
+080 = nanaya80 // ★
+081 = nanaya81 // ★
+082 = nanaya82 // ★
+083 = nanaya83 // ★
+095 = nanaya95 // ★
+
+098 = Nanaya_B0AA058a // レアKOやられ
+099 = Nanaya_B0AA057a // KOやられ　うわー
+
+101 = Nanaya_B0AA101 // 寝てな
+102 = Nanaya_B0AA061 // いくぞ？
+
+111 = Nanaya_B0AA111 // はきな
+112 = Nanaya_B0AA112 // ひゅっ
+114 = Nanaya_B0AA024 // 悪いね
+116 = Nanaya_B0AA116 // 蹴り砕く
+117 = Nanaya_B0AA117 // ひゅっ
+
+195 = Nanaya_B0AA010 // タイムアップ１
+196 = Nanaya_B0AA011 // タイムアップ２
+
+201 = Nanaya_B0AA201 // 弔毘八仙
+202 = Nanaya_B0AA202 // 上落に痴れ
+
+204 = Nanaya_B0AA204 // 下奪と悟れ
+
+210 = Nanaya_B0AA300 // ガークラ１
+215 = Nanaya_B0AA069 // ゲージため
+228 = Nanaya_B0AA028 // シールド0
+229 = Nanaya_B0AA029 // シールド1
+230 = Nanaya_B0AA030 // シールド2
+231 = Nanaya_B0AA031 // シールド3
+232 = Nanaya_B0AA032 // SC1
+233 = Nanaya_B0AA033 // 2
+240 = Nanaya_B2AA000 // 追加：よう兄弟楽しんでる
+241 = Nanaya_B2AA001 // 追加：そいつはまた
+242 = Nanaya_B2AA002 // 追加：まいったね
+//243 = Nanaya_B2AA003 // 追加：眠い
+245 = Nanaya_B0AA120 // まだまだ
+246 = nanaya57 // ちょうびはっせんむじょうにふくす
+
+247 = Nanaya_B0AA004a // 対白レン用
+
+248 = Nanaya_B0AA070 // サキスパ１
+249 = Nanaya_B0AA071 // ２

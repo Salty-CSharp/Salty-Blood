@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_sion
+[DataFile]
+FileNum= 1
+File00=csel_sion.HA6
+[BmpcutFile]
+FileNum= 1
+File00=csel_sion.cg
+[PAniFile]
+FileNum= 0

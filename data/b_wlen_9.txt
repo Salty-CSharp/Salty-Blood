@@ -1,0 +1,10 @@
+[System]
+ProjectName=b_wlen_0
+[DataFile]
+FileNum= 1
+File00=b_wlen.HA6
+[BmpcutFile]
+FileNum= 1
+File00=wlen.cg
+[PAniFile]
+FileNum= 0

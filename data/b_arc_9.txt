@@ -1,0 +1,11 @@
+[System]
+ProjectName=b_arc_9
+[DataFile]
+FileNum= 1
+File00 =b_arc_9.HA6
+[BmpcutFile]
+FileNum= 1
+File00=b_arc.CG
+[PAniFile]
+FileNum= 1
+File00=b_arc.PAT

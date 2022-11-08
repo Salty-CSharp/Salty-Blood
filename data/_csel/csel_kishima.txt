@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_kishima
+[DataFile]
+FileNum= 1
+File00=csel_kishima.HA6
+[BmpcutFile]
+FileNum= 1
+File00=csel_kishima.cg
+[PAniFile]
+FileNum= 0

@@ -1,0 +1,13 @@
+[System]
+ProjectName=kishima_0
+
+[DataFile]
+FileNum= 2
+File00=..\kishima.HA6
+File01=..\kishima_0.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=..\kishima.CG
+[PAniFile]
+FileNum= 0

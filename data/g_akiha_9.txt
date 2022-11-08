@@ -1,0 +1,13 @@
+[System]
+ProjectName=g_akiha_9
+
+[DataFile]
+FileNum= 1
+File00=g_akiha.HA6
+
+[BmpcutFile]
+FileNum= 0
+
+[PAniFile]
+FileNum= 1
+File00 =g_akiha.pat

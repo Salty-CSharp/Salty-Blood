@@ -1,0 +1,12 @@
+[System]
+ProjectName=len_2
+[DataFile]
+FileNum= 2
+File00=..\len.HA6
+File01=..\len_2.HA6
+[BmpcutFile]
+FileNum= 1
+File00=..\len.cg
+[PAniFile]
+FileNum= 1
+File00=..\len.PAT

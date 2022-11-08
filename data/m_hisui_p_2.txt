@@ -1,0 +1,14 @@
+[System]
+ProjectName=m_hisui_p_2
+[DataFile]
+FileNum= 4
+File00=m_hisui_p.HA6
+File01=m_hisui_p_r.HA6
+File02=m_hisui_p_2.HA6
+File03=m_hisui_p_2_r.HA6
+[BmpcutFile]
+FileNum= 1
+File00=m_hisui_p.CG
+[PAniFile]
+FileNum= 1
+File00=m_hisui.pat

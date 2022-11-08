@@ -1,0 +1,11 @@
+[System]
+ProjectName=nero_0
+[DataFile]
+FileNum= 2
+File00=..\nero.HA6
+File01=..\nero_0.HA6
+[BmpcutFile]
+FileNum= 1
+File00=..\nero.CG
+[PAniFile]
+FileNum= 0

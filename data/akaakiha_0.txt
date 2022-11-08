@@ -1,0 +1,13 @@
+[System]
+ProjectName=akaakiha_0
+[DataFile]
+FileNum= 4
+File00=akaakiha.HA6
+File01=akaakiha_r.HA6
+File02=akaakiha_0.HA6
+File03=akaakiha_0_r.HA6
+[BmpcutFile]
+FileNum= 1
+File00=akaakiha.CG
+[PAniFile]
+FileNum= 0

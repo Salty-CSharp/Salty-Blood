@@ -1,0 +1,177 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // Aoko_B0AA000
+// 000 = aoko00 // 
+001 = Aoko_B0AA000 // 登場１
+002 = Aoko_B0AA001 // 登場２
+003 = Aoko_B0AA002 // 登場３
+
+004 = Aoko_B0AA005 // 勝ち１
+005 = Aoko_B0AA006 // 勝ち２
+006 = Aoko_B0AA007 // 勝ち３
+
+007 = Aoko_B0AA023 // ガード
+008 = Aoko_B0AA025 // ガード２
+009 = Aoko_B0AA141 // 6A　ふっ
+010 = Aoko_B0AA050 // 投げ成立・623　せや
+
+012 = Aoko_B0AA073a // ダッシュ　6B　はっ
+013 = Aoko_B0AA075a // バクステ
+// 014 = aoko14 // 
+// 015 = aoko15 // 
+
+//016 = Aoko_B0AA79 // 
+017 = Aoko_B0AA080a // 山田くん一枚
+018 = Aoko_B0AA077 // おきあがり１
+019 = Aoko_B0AA078 // おきあがり２
+020 = Aoko_B0AA093 // 受身１
+021 = Aoko_B0AA094 // 受身２
+022 = aoko22 // BEC　ジェーット！　はぁーあ 91＠
+023 = Aoko_B0AA092 // BEC　効くわよ～　おしおきー
+// 024 = aoko24 // 
+// 025 = aoko25 // 
+026 = Aoko_B0AA034 // シールド　はっ
+
+// 028 = aoko28 // 
+029 = Aoko_B0AA053 // 投げスカ　ありゃ
+030 = aoko30 // バンカー　たいばつ！　42＠
+031 = Aoko_B0AA084 // 強制開放　ギアをあげるわ
+// 032 = aoko32 // 
+// 033 = aoko33 // 
+// 034 = aoko34 // 
+// 035 = aoko35 // 
+036 = aoko36 // 3C　ごあんな～い　90＠
+037 = Aoko_B0AA139 // EX623　いっとく？
+038 = Aoko_B0AA108 // 214設置　はい
+039 = Aoko_B0AA109a // 214設置
+040 = Aoko_B0AA110 // 214設置
+041 = Aoko_B0AA130 // 63214　どうだっ
+042 = Aoko_B0AA105 // BE236B びーむ 105＠ 42
+043 = Aoko_B0AA103 // 236EX　りゃりゃりゃりゃ
+044 = Aoko_B0AA126a // 空中236EX　なぎはらえ
+045 = Aoko_B0AA104 // 236EX　容赦しないわよ
+046 = Aoko_B0AA117 // 空中214EX　しなないでね
+
+048 = Aoko_B0AA048a // ぽーいっと
+049 = Aoko_B0AA049a // パス
+// 050 = aoko50 // 
+051 = aoko51 // セイン・・・　LA成立＠
+
+054 = Aoko_B0AA054 // ２
+055 = Aoko_B0AA055 // ３
+// 056 = aoko56 // 
+// 057 = aoko57 // 
+// 058 = aoko58 // 
+// 059 = aoko59 // 
+060 = Aoko_B0AA203 // AD　スフィア
+061 = Aoko_B0AA204 // AD　ブレイク
+062 = Aoko_B0AA209 // AAD　スヴィア
+063 = Aoko_B0AA210 // AAD　ブレイク
+064 = Aoko_B0AA211 // AAD　スライダー
+065 = Aoko_B0AA200 // AD発動　いくわよ
+066 = Aoko_B0AA019 // 大１
+067 = Aoko_B0AA020 // 大２　てやっ
+068 = Aoko_B0AA130 // 大３　だやー
+069 = Aoko_B0AA061 // やられ１
+070 = Aoko_B0AA062 // やられ２
+071 = Aoko_B0AA063 // やられ３
+// 072 = aoko72 // 
+// 073 = aoko73 // 
+// 074 = aoko74 // 
+// 075 = aoko75 // 
+// 076 = aoko76 // 
+// 077 = aoko77 // 
+// 078 = aoko78 // 
+// 079 = aoko79 // 
+080 = aoko80 // ★
+081 = aoko81 // ★
+082 = aoko82 // ★
+083 = aoko83 // ★LA効果音
+084 = aoko84 // ★
+// 085 = aoko85 // 
+// 086 = aoko86 // 
+// 087 = aoko87 // 
+// 088 = aoko88 // 
+// 089 = aoko89 // 
+// 090 = aoko90 // 
+// 091 = aoko91 // 
+// 092 = aoko92 // 
+// 093 = aoko93 // 
+// 094 = aoko94 // 
+// 095 = aoko95 // 
+// 096 = aoko96 // 
+// 097 = aoko97 // 
+098 = Aoko_B0AA072 // レアKOやられ
+099 = Aoko_B0AA071 // KOやられ　やーらーれーたー
+// 100 = aoko100 // 
+101 = Aoko_B0AA012 // 弱１
+102 = Aoko_B0AA013 // 弱２
+103 = Aoko_B0AA014 // 弱３
+104 = Aoko_B0AA015 // 中１
+105 = Aoko_B0AA016 // 中２
+106 = Aoko_B0AA017 // 中３
+107 = aoko107 // ★LA効果音
+108 = aoko108 // ★LA効果音
+109 = aoko109 // ★LA効果音
+110 = aoko110 // ★LA効果音
+
+123 = Aoko_B0AA123 // せいっ
+124 = Aoko_B0AA124a // はじけろ！
+
+133 = Aoko_B0AA133a // ブロウ１
+134 = Aoko_B0AA134a //２
+135 = Aoko_B0AA135 //ＥＸ
+136 = Aoko_B0AA136 //２
+
+146 = Aoko_B0AA146a // てぃ
+147 = Aoko_B0AA147 // やああ
+148 = Aoko_B0AA148 // 扇風脚
+149 = Aoko_B0AA149 // のってきた～
+
+160 = Aoko_B0AA160 // Ｆ421ＥＸ
+161 = Aoko_B0AA161 // ２
+
+195 = Aoko_B0AA010 // タイムアップ１
+196 = Aoko_B0AA011 // タイムアップ２
+
+200 = Aoko_B0AA140 // ＥＸ
+201 = Aoko_B0AA137a // シュート
+
+202 = Aoko_B0AA118a // 421C
+203 = Aoko_B0AA119 // 
+
+204 = Aoko_B0AA131 // F EX236
+205 = Aoko_B0AA113 // C EX421
+
+206 = Aoko_B0AA056a // 避け1 
+207 = Aoko_B0AA057a // 2
+208 = Aoko_B0AA058a // 3
+209 = Aoko_B0AA059 // 4
+
+210 = Aoko_B0AA008 // 決着1
+211 = Aoko_B0AA009 // 2
+
+212 = Aoko_B0AA003 // 開幕3
+213 = Aoko_B0AA004 // 4
+
+215 = Aoko_B0AA081 // ゲージため１
+216 = Aoko_B0AA082 // ２
+217 = Aoko_B0AA083 // ３
+
+220 = Aoko_B0AA300 // 
+221 = Aoko_B0AA301 // 
+222 = Aoko_B0AA302 // 
+
+223 = Aoko_B0AA086 // 
+224 = Aoko_B0AA087 // 
+225 = Aoko_B0AA088 // 
+226 = Aoko_B0AA089 // 
+
+235 = Aoko_B0AA035 // シールド
+236 = Aoko_B0AA036 // シールド
+237 = Aoko_B0AA037 // シールド
+238 = Aoko_B0AA038 // シールド
+
+239 = Aoko_B0AA039 // SC1
+240 = Aoko_B0AA040 // 2
+241 = Aoko_B0AA041 // 3

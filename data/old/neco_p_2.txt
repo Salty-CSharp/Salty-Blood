@@ -1,0 +1,12 @@
+[System]
+ProjectName=neco_p_2
+[DataFile]
+FileNum= 2
+File00=..\neco_p.HA6
+File01=..\neco_p_2.HA6
+[BmpcutFile]
+FileNum= 1
+File00=..\neco.CG
+[PAniFile]
+FileNum= 1
+File00=..\neco.PAT

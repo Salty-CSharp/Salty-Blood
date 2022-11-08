@@ -1,0 +1,13 @@
+[System]
+ProjectName=nero_2
+[DataFile]
+FileNum= 4
+File00=nero.HA6
+File01=nero_r.HA6
+File02=nero_2.HA6
+File03=nero_2_r.HA6
+[BmpcutFile]
+FileNum= 1
+File00=nero.CG
+[PAniFile]
+FileNum= 0

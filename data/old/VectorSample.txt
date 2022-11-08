@@ -1,0 +1,133 @@
+/// 登録が簡単になるように各種ベクトルセット
+
+[Sample_000]
+Name = 頭やられ弱
+HitStand    =  0, 0,0
+HitAir      =  7, 0,0
+HitCrouch   = 50, 0,0
+GuardStand  =  0, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 50, 0,0
+
+[Sample_001]
+Name = 頭やられ中
+HitStand    =  1, 0,0
+HitAir      =  7, 0,0
+HitCrouch   = 51, 0,0
+GuardStand  =  1, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 51, 0,0
+
+[Sample_002]
+Name = 頭やられ強
+HitStand    =  2, 0,0
+HitAir      =  7, 0,0
+HitCrouch   = 52, 0,0
+GuardStand  =  2, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 52, 0,0
+
+
+[Sample_003]
+Name = 腹やられ弱
+HitStand    =  3, 0,0
+HitAir      =  7, 0,0
+HitCrouch   = 50, 0,0
+GuardStand  =  3, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 50, 0,0
+
+[Sample_004]
+Name = 腹やられ中
+HitStand    =  4, 0,0
+HitAir      =  7, 0,0
+HitCrouch   = 51, 0,0
+GuardStand  =  4, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 51, 0,0
+
+[Sample_005]
+Name = 腹やられ強
+HitStand    =  5, 0,0
+HitAir      =  7, 0,0
+HitCrouch   = 52, 0,0
+GuardStand  =  5, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 52, 0,0
+
+
+[Sample_020]
+Name = ダウン
+HitStand    =  7, 0,0
+HitAir      =  7, 0,0
+HitCrouch   =  7, 0,0
+GuardStand  =  5, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 52, 0,0
+
+
+[Sample_021]
+Name = 足払い
+HitStand    =  6, 0,0
+HitAir      =  6, 0,0
+HitCrouch   =  6, 0,0
+GuardStand  =  5, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 52, 0,0
+
+
+[Sample_022]
+Name = 横吹き飛び
+HitStand    =  9, 0,0
+HitAir      =  9, 0,0
+HitCrouch   =  9, 0,0
+GuardStand  =  5, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 52, 0,0
+
+[Sample_023]
+Name = 上吹き飛び
+HitStand    = 10, 0,0
+HitAir      = 10, 0,0
+HitCrouch   = 10, 0,0
+GuardStand  =  5, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 52, 0,0
+
+[Sample_024]
+Name = 斜め上吹き飛び
+HitStand    = 11, 0,0
+HitAir      = 11, 0,0
+HitCrouch   = 11, 0,0
+GuardStand  =  5, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 52, 0,0
+
+[Sample_025]
+Name = 真下たたきつけ
+HitStand    = 12, 0,0
+HitAir      = 12, 0,0
+HitCrouch   = 12, 0,0
+GuardStand  =  5, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 52, 0,0
+
+[Sample_026]
+Name = 斜め下たたきつけ
+HitStand    = 13, 0,0
+HitAir      = 13, 0,0
+HitCrouch   = 13, 0,0
+GuardStand  =  5, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 52, 0,0
+
+[Sample_027]
+Name = ジャンプ攻撃のけぞり
+HitStand    = 55, 0,0
+HitAir      = 07, 0,0
+HitCrouch   = 56, 0,0
+GuardStand  = 55, 0,0
+GuardAir    = 60, 0,0
+GuardCrouch = 56, 0,0
+
+

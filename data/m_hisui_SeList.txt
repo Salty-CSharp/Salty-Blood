@@ -1,0 +1,119 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+001 = M_Hisui_B0AA105 // その武器をすてろ
+
+// 003 = M_Hisui_B0AA003 // 私は翡翠です
+004 = M_Hisui_B0AA104 // ビーム
+005 = M_Hisui_B0AA045 // ピピ
+006 = M_Hisui_B0AA046 // ガガ
+007 = M_Hisui_B0AA106 // ミサイル
+008 = M_Hisui_B0AA049 // シキサマ
+// 009 = M_Hisui_B0AA009 // 姉さん
+// 010 = M_Hisui_B0AA010 // アキハ
+
+030 = m_hisui30 // ★
+031 = m_hisui31 // ★
+032 = m_hisui32 // ★
+033 = m_hisui33 // ★
+034 = m_hisui34 // ★
+035 = m_hisui35 // ★
+036 = m_hisui36 // ★
+037 = m_hisui37 // ★
+038 = m_hisui38 // ★
+039 = m_hisui39 // ★
+
+041 = M_Hisui_B0AA000 // ミッションスタート
+042 = M_Hisui_B0AA001 // 捕獲します
+
+// 045 = M_Hisui_B0AA045 // かしこまりました、たかしさま　
+// 046 = M_Hisui_B0AA046 // かしこまりました、たけうちさま
+
+047 = M_Hisui_B0AA004 // ごきげんよう
+048 = M_Hisui_B0AA005 // ジェネレーターが
+
+049 = M_Hisui_B0AA039 // ショック　投げ
+050 = M_Hisui_B0AA041 // エラー　投げスカ
+051 = M_Hisui_B0AA051 // ロック　スクラン
+052 = M_Hisui_B0AA060 // リトライ　Bスクラン
+
+058 = M_Hisui_B0AA052 // アタック
+059 = M_Hisui_B0AA053 // リロード
+060 = M_Hisui_B0AA023 // いきます
+061 = M_Hisui_B0AA024 // チャージ
+
+064 = M_Hisui_B0AA029 // ウィン　避け
+065 = M_Hisui_B0AA034 // 反撃です
+// 066 = M_Hisui_B0AA066 // 抹殺
+// 067 = M_Hisui_B0AA067 // 撃破する
+068 = M_Hisui_B0AA055 // ニトロオン　開放
+069 = M_Hisui_B0AA056 // メルトダウン　開放
+
+075 = M_Hisui_B0AA059 // とべ　６C
+076 = M_Hisui_B0AA100 // 電撃　623
+077 = M_Hisui_B0AA035 // ドリル　バンカー
+078 = M_Hisui_B0AA102 // バリアー
+// 079 = M_Hisui_B0AA079 // 照準固定
+080 = M_Hisui_B0AA101 // 排除する
+081 = M_Hisui_B0AA109 // 投獄する
+082 = M_Hisui_B0AA200 // 行軍開始
+083 = M_Hisui_B0AA200 // レギオン　★同じにした
+084 = M_Hisui_B0AA201 // 全機出撃
+085 = M_Hisui_B0AA201 // 審判の日だ　★同じにした
+086 = M_Hisui_B0AA202 // サタデーナイトフォーエバー
+087 = M_Hisui_B0AA204 // ファイナルーバスター
+088 = m_hisui88 // ★
+089 = m_hisui89 // ★
+090 = m_hisui90 // ★
+091 = m_hisui91 // ★
+092 = m_hisui92 // ★
+093 = m_hisui93 // ★
+
+095 = m_hisui95 // ★
+098 = m_hisui98 // ★
+// 099 = M_Hisui_B0AA050 // KO　タイミングチェック
+
+113 = M_Hisui_B0AA113 // ババ
+114 = M_Hisui_B0AA114 // バババ
+118 = M_Hisui_B0AA118 // みなごろし
+120 = M_Hisui_B0AA120 // 制圧する
+
+123 = M_Hisui_B0AA110 // ツカマエマス
+
+125 = M_Hisui_B0AA121 // 蜂の巣
+126 = M_Hisui_B0AA048 // デンジャ
+127 = M_Hisui_B0AA107 // 殲滅
+128 = M_Hisui_B0AA112 // ホーミング
+129 = M_Hisui_B0AA117 // バスター
+
+131 = M_Hisui_B0AA123 // アトミック
+132 = M_Hisui_B0AA124 // 飛びます
+133 = M_Hisui_B0AA125 // ブレード
+134 = M_Hisui_B0AA204 // ファイナル
+
+200 = sion57 // ドーン！
+201 = sion54 // 弾丸
+
+205 = M_Hisui_B0AA008 // タイムアップ１
+206 = M_Hisui_B0AA009 // タイムアップ２
+
+210 = M_Hisui_B0AA300 // ガークラ１
+211 = M_Hisui_B0AA301 // ２
+212 = M_Hisui_B0AA302 // ３
+215 = M_Hisui_B0AA054 // ゲージため
+
+230 = M_Hisui_B0AA030 // シールド1
+231 = M_Hisui_B0AA031 // シールド2
+232 = M_Hisui_B0AA032 // シールド3
+
+233 = M_Hisui_B0AA033 // シールドC1
+234 = M_Hisui_B0AA034 // シールドC2
+
+235 = M_Hisui_B0AA037 // 無駄だ
+
+242 = M_Hisui_B0AA042 // 空中投げスカ
+
+243 = M_Hisui_B0AA002 // 開幕3
+244 = M_Hisui_B0AA003 // 4
+
+245 = M_Hisui_B0AA006 // 決着3

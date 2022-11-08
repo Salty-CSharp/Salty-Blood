@@ -1,0 +1,14 @@
+[System]
+ProjectName=v_sion_0
+[DataFile]
+FileNum= 4
+File00=v_sion.HA6
+File01=v_sion_r.HA6
+File02=v_sion_0.HA6
+File03=v_sion_0_r.HA6
+[BmpcutFile]
+FileNum= 1
+File00=v_sion.CG
+[PAniFile]
+FileNum= 1
+File00=v_sion.PAT
