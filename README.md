@@ -1,12 +1,17 @@
 # Salty Blood
 
-Salty Blood is a very funny mod for MBAACC that increases the overall power level of the game.
+Salty Blood is a community suggested rebalance mod for MBAACC that increases the overall power level of the game.
+
+If you have any ideas or suggestions, join the discord server, and put it in the suggestions channel.
+https://discord.gg/83HmUsXkc6
 
 ## Installation
 
+**It is recommended to have a seperate duplicate version of your Melty Blood folder.**
+
 Download the .zip file from the green Code button on the github page and extract using a program like 7-zip.  
 Move the data folder into the MBAACC installation such that the data folder is in the same folder as MBAA.exe.  
-Rename or (strongly discouraged!) remove 0002.p so that the game reads the modded content instead.
+Rename or (strongly discouraged!) remove 0002.p and 0003.p so that the game reads the modded content instead.
 
 ## Uninstallation
 

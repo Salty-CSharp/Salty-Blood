@@ -49,22 +49,22 @@ Value_044 = -250 // ゲージ溜めでの回復4F
 
 [Type_0] // CrescentMoonStyle ------------------------------------------------------●
 SparkType = 0 // HEAT & BLOOD
-MagicCircuitMax = 0
+MagicCircuitMax = 100000
 CircuitSpark = 1
 ReverseBeat = 1
 
 AttackRatio_BloodHeat = 2  // 状態に対する係数
 AttackRatio_Heat = 1.5
 AttackRatio_Max = 1.2
-DefenceRatio_BloodHeat = 0.5
+DefenceRatio_BloodHeat = 2
 DefenceRatio_Heat = 0.7
 DefenceRatio_Max = 0.9
 
-MC_PlusVal = 1.0 // マジックサーキットゲージ増加率
+MC_PlusVal = 2.84218 // マジックサーキットゲージ増加率
 MC_GuardPlus = 1 // ガード時に増加するかどうか
 
 BloodHeat_HpPlus = -20 // BloodHeat時HP回復値
-Heat_HpPlus = -12 // Heat時HP回復値
+Heat_HpPlus = 12 // Heat時HP回復値
 
 VSDamageVal = 0.98 // ヴァイタルソース攻撃力係数
 
@@ -73,9 +73,9 @@ IsExReduce = 0
 IsReduce = 1
 
 ShieldType = 0
-ExShieldTime_Stand = 4 // 6
-ExShieldTime_Crouch = 4 // 6
-ExShieldTime_Air = 6 // 8 空中
+ExShieldTime_Stand = 15 // 6
+ExShieldTime_Crouch = 15 // 6
+ExShieldTime_Air = 15 // 8 空中
 ShieldKeepTime = 60 // 90 シールド最大継続時間(EX時間は別
 ShieldCost = 20 // 1Fで消費するマジックサーキット量(EX時は減らない)
 
@@ -115,7 +115,7 @@ DefenceRatio_BloodHeat = 1.0
 DefenceRatio_Heat = 1.0
 DefenceRatio_Max = 1.0
 
-MC_PlusVal = 0.9 // マジックサーキットゲージ増加率
+MC_PlusVal = 5.7341 // マジックサーキットゲージ増加率
 MC_GuardPlus = 1 // ガード時に増加するかどうか
 
 BloodHeat_HpPlus = 0 // BloodHeat時HP回復値
