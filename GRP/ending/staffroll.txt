@@ -1,0 +1,631 @@
+[Data]
+
+Speed = 75.0
+
+// TPage = テクスチャ番号
+// TexV = テクスチャY位置
+// TexH = TexVからの高さ
+// NextYPos = 次のY位置
+// エコール配置と大体同じに調整
+
+
+//TPAGE0///////////////////////////////////////////////////////////////////////////////////////////
+
+[Staff]
+// MBAAロゴ
+TPage = 0
+XShift = 0
+TexV = 0
+TexH = 48
+NextYPos = 268
+
+[Staff]
+// 原作月姫
+TPage = 0
+XShift = 0
+TexV = 64
+TexH = 32
+NextYPos = 104
+
+[Staff]
+// プロデューサー
+TPage = 0
+XShift = 0
+TexV = 112
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// スーパーバイザー
+TPage = 0
+XShift = 0
+TexV = 144
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 製作総指揮1
+TPage = 0
+XShift = 0
+TexV = 176
+TexH = 32
+NextYPos = 104
+
+[Staff]
+// 原画
+TPage = 0
+XShift = 0
+TexV = 256
+TexH = 32
+NextYPos = 104
+
+[Staff]
+// シナリオ
+TPage = 0
+XShift = 0
+TexV = 304
+TexH = 32
+NextYPos = 144
+
+[Staff]
+// 彩色総監修
+TPage = 0
+XShift = 0
+TexV = 352
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 彩色1
+TPage = 0
+XShift = 0
+TexV = 390
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 彩色2
+TPage = 0
+XShift = 0
+TexV = 422
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 彩色3
+TPage = 0
+XShift = 0
+TexV = 454
+TexH = 32
+NextYPos = 104
+
+
+//TPAGE1///////////////////////////////////////////////////////////////////////////////////////////
+
+
+[Staff]
+// ヘルメスデザイン
+TPage = 1
+XShift = 0
+TexV = 0
+TexH = 32
+NextYPos = 176
+
+[Staff]
+// プログラム1
+TPage = 1
+XShift = 0
+TexV = 48
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// プログラム2
+TPage = 1
+XShift = 0
+TexV = 80
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// プログラム3
+TPage = 1
+XShift = 0
+TexV = 112
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// プログラム4
+TPage = 1
+XShift = 0
+TexV = 144
+TexH = 32
+NextYPos = 176
+
+[Staff]
+// グラフィック1
+TPage = 1
+XShift = 0
+TexV = 192
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック2
+TPage = 1
+XShift = 0
+TexV = 224
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック3
+TPage = 1
+XShift = 0
+TexV = 256
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック4
+TPage = 1
+XShift = 0
+TexV = 288
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック5
+TPage = 1
+XShift = 0
+TexV = 320
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック6
+TPage = 1
+XShift = 0
+TexV = 352
+TexH = 32
+NextYPos = 176
+
+[Staff]
+//ゲームバランス１
+TPage = 1
+XShift = 0
+TexV = 400
+TexH = 32
+NextYPos = 52
+
+[Staff]
+//ゲームバランス２
+TPage = 1
+XShift = 0
+TexV = 432
+TexH = 32
+NextYPos = 176
+
+
+//TPAGE2///////////////////////////////////////////////////////////////////////////////////////////
+
+
+[Staff]
+// SE
+TPage = 2
+XShift = 0
+TexV = 0
+TexH = 32
+NextYPos = 100
+
+[Staff]
+// サウンドプロデュース
+TPage = 2
+XShift = 0
+TexV = 32
+TexH = 32
+NextYPos = 100
+
+[Staff]
+// 作曲＋リサレコマーク
+TPage = 2
+XShift = 0
+TexV = 64
+TexH = 80
+NextYPos = 96
+
+[Staff]
+// 編曲
+TPage = 2
+XShift = 0
+TexV = 144
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 作詞
+TPage = 2
+XShift = 0
+TexV = 176
+TexH = 32
+NextYPos = 100
+
+[Staff]
+// 歌1
+TPage = 2
+XShift = 0
+TexV = 208
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 歌2
+TPage = 2
+XShift = 0
+TexV = 240
+TexH = 32
+NextYPos = 100
+
+[Staff]
+// ギター
+TPage = 2
+XShift = 0
+TexV = 272
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// バイオリン
+TPage = 2
+XShift = 0
+TexV = 304
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// アシスタント
+TPage = 2
+XShift = 0
+TexV = 336
+TexH = 32
+NextYPos = 116
+
+[Staff]
+// OPムービー
+TPage = 2
+XShift = 0
+TexV = 384
+TexH = 32
+NextYPos = 210
+
+//TPAGE3 声優1////////////////////////////////////////////////////////////////////////////////////
+
+[Staff]
+// 声優出演
+TPage = 3
+XShift = 0
+TexV = 0
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 志貴
+TPage = 3
+XShift = 0
+TexV = 48
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// アルク
+TPage = 3
+XShift = 0
+TexV = 80
+TexH = 48
+NextYPos = 68
+
+[Staff]
+// シエル
+TPage = 3
+XShift = 0
+TexV = 128
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 秋葉
+TPage = 3
+XShift = 0
+TexV = 160
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 翡翠
+TPage = 3
+XShift = 0
+TexV = 192
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 琥珀
+TPage = 3
+XShift = 0
+TexV = 224
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 都古
+TPage = 3
+XShift = 0
+TexV = 256
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// シオン
+TPage = 3
+XShift = 0
+TexV = 288
+TexH = 48
+NextYPos = 68
+
+[Staff]
+// ネロ
+TPage = 3
+XShift = 0
+TexV = 336
+TexH = 48
+NextYPos = 68
+
+[Staff]
+// ワラキア
+TPage = 3
+XShift = 0
+TexV = 384
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// さつき
+TPage = 3
+XShift = 0
+TexV = 416
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// レン
+TPage = 3
+XShift = 0
+TexV = 448
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 青子
+TPage = 3
+XShift = 0
+TexV = 480
+TexH = 32
+NextYPos = 52
+
+//TPAGE4 声優2・協力////////////////////////////////////////////////////////////////////////////////
+
+[Staff]
+// 軋間
+TPage = 4
+XShift = 0
+TexV = 0
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// リーズ
+TPage = 4
+XShift = 0
+TexV = 32
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// ロア
+TPage = 4
+XShift = 0
+TexV = 64
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 式
+TPage = 4
+XShift = 0
+TexV = 96
+TexH = 32
+NextYPos = 202
+
+[Staff]
+// 音声収録(マークつき)
+TPage = 4
+XShift = 0
+TexV = 144
+TexH = 112
+NextYPos = 252
+
+[Staff]
+// グラフィック協力1
+TPage = 4
+XShift = 0
+TexV = 272
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック協力2
+TPage = 4
+XShift = 0
+TexV = 304
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック協力3
+TPage = 4
+XShift = 0
+TexV = 336
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック協力4
+TPage = 4
+XShift = 0
+TexV = 368
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック協力5
+TPage = 4
+XShift = 0
+TexV = 400
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック協力6
+TPage = 4
+XShift = 0
+TexV = 432
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック協力7
+TPage = 4
+XShift = 0
+TexV = 464
+TexH = 32
+NextYPos = 104
+
+//TPAGE5 声優2・協力////////////////////////////////////////////////////////////////////////////////
+
+[Staff]
+// グラフィック協力8
+TPage = 5
+XShift = 0
+TexV = 0
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック協力9
+TPage = 5
+XShift = 0
+TexV = 32
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック協力10
+TPage = 5
+XShift = 0
+TexV = 64
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// グラフィック協力11
+TPage = 5
+XShift = 0
+TexV = 96
+TexH = 32
+NextYPos = 206
+
+[Staff]
+// 協力1
+TPage = 5
+XShift = 0
+TexV = 144
+TexH = 32
+NextYPos = 52
+
+//TPAGE 5
+
+[Staff]
+// 協力2
+TPage = 5
+XShift = 0
+TexV = 176
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 協力3
+TPage = 5
+XShift = 0
+TexV = 208
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 協力4
+TPage = 5
+XShift = 0
+TexV = 240
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 協力5
+TPage = 5
+XShift = 0
+TexV = 272
+TexH = 32
+NextYPos = 52
+
+[Staff]
+// 協力6
+TPage = 5
+XShift = 0
+TexV = 304
+TexH = 32
+NextYPos = 118
+
+[Staff]
+// セガ
+TPage = 5
+XShift = 0
+TexV = 352
+TexH = 64
+NextYPos = 132
+
+[Staff]
+// アルカディア
+TPage = 5
+XShift = 0
+TexV = 416
+TexH = 64
+NextYPos = 132
+
+//TPAGE6協力////////////////////////////////////////////////////////////////////////////////
+
+[Staff]
+// コンプ・エース
+TPage = 6
+XShift = 0
+TexV = 0
+TexH = 64
+NextYPos = 164
+
+[Staff]
+// 全ての人達
+TPage = 6
+XShift = 0
+TexV = 64
+TexH = 32
+NextYPos = 0
+

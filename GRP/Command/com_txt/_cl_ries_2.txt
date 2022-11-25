@@ -1,0 +1,65 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = リスト・ピッツィカート
+Type = 0
+CmdSub = ホールド可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = リスト・ピッツィカート
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = ブレス・カンティーノ
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = ブレス・カンティーノ
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = リスト・スタッカート
+Type = 0
+CmdSub = 
+Cmd = 214AoBoC
+
+[cm_050]
+Name = リスト・モーデント
+Type = 0
+CmdSub = 
+Cmd = 63214AoBoC
+
+[cm_055]
+Name = リスト・モーデント
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = 正式外典
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 41236C

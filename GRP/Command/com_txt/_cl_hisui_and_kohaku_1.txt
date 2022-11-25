@@ -1,0 +1,217 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+//共通操作
+[cm_000]
+Name = 共通操作
+Type = 2
+
+[cm_000]
+Name = 姉妹の絆・誕生編
+Type = 0
+CmdSub = 
+Cmd = 22D
+
+[cm_000]
+Name = 姉妹の絆・予告編
+Type = 0
+CmdSub = 空中可
+Cmd = 236AoBoC
+Child = 1
+Child = 2
+Child = 3
+
+[cm_001]
+Name = 姉妹の絆・予告編 追加技１
+Type = 0
+CmdSub = 空中可
+Cmd = A
+
+[cm_001]
+Name = 姉妹の絆・予告編 追加技２
+Type = 0
+CmdSub = 空中可
+Cmd = B
+
+[cm_001]
+Name = 姉妹の絆・予告編 追加技３
+Type = 0
+CmdSub = 空中可
+Cmd = C
+
+[cm_000]
+Name = 姉妹の絆・予告編
+Type = 0
+CmdSub = 空中可
+Cmd = 236D
+
+//翡翠操作時
+[cm_000]
+Name = 翡翠操作時
+Type = 2
+
+[cm_000]
+Name = 姉妹の絆・予告編
+Type = 0
+CmdSub = 空中可
+Cmd = 236AoBoC
+Child = 1
+Child = 2
+Child = 3
+
+[cm_001]
+Name = 姉妹の絆・予告編 追加技１
+Type = 0
+CmdSub = 空中可
+Cmd = A
+
+[cm_001]
+Name = 姉妹の絆・予告編 追加技２
+Type = 0
+CmdSub = 空中可
+Cmd = B
+
+[cm_001]
+Name = 姉妹の絆・予告編 追加技３
+Type = 0
+CmdSub = 空中可
+Cmd = C
+
+
+[cm_020]
+Name = 姉妹の絆・基本編
+Type = 0
+CmdSub = 空中可
+Cmd = 214AoBoC
+
+[cm_040]
+Name = おかけください
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+[cm_045]
+Name = 秋葉さま用です
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+//AD AAD LA
+[cm_060]
+Name = 暗黒翡翠拳
+Type = 10
+CmdSub = MH
+CmdSub = AD
+CmdSub = ホールド可
+Cmd = 41236C
+
+[cm_070]
+Name = 大暗黒翡翠拳
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_060]
+Name = 姉妹の絆・開打靠靭琥珀脚
+Type = 10
+CmdSub = 空中可
+CmdSub = MH
+CmdSub = AD
+Cmd = 63214C
+
+[cm_080]
+Name = 偽固有結界・ぐるぐる翡翠ワールド
+Type = 100
+CmdSub = LA
+
+
+
+
+
+
+
+//琥珀操作時
+[cm_000]
+Name = 琥珀操作時
+Type = 2
+
+[cm_020]
+Name = 姉妹の絆・風雲編
+Type = 0
+CmdSub = 空中可
+Cmd = 214AoBoC
+
+[cm_040]
+Name = こんなん育ててみました♪
+Type = 0
+CmdSub = ホールド可
+Cmd = 22AoBoC
+
+[cm_045]
+Name = こんなん育ててみました♪
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_046]
+Name = ジョニー
+Type = 1
+CmdSub = 150%
+CmdSub = EXEdge
+Cmd = 2222C
+
+[cm_047]
+Name = 現代医学の犠牲者です。
+Type = 1
+CmdSub = 150%
+CmdSub = EXEdge
+Cmd = 22222C
+
+[cm_055]
+Name = マジカルアタック・コハポンＸ
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 1632143C
+
+//AD AAD LA
+[cm_060]
+Name = 開打靠靭琥珀脚
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = 開打散靭琥珀失脚
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_060]
+Name = 姉妹の絆・暗黒翡翠拳
+Type = 10
+CmdSub = 空中可
+CmdSub = MH
+CmdSub = AD
+Cmd = 63214C
+
+[cm_080]
+Name = 抜刀奥義・賀正箒星
+Type = 100
+CmdSub = LA
+ 

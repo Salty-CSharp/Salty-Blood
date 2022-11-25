@@ -1,0 +1,116 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = 威嚇射撃
+Type = 0
+CmdSub = ホールド可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = 威嚇射撃
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = エーテライト・エア
+Type = 0
+CmdSub = 空中可
+Cmd = 623AoBoC
+
+[cm_015]
+Name = エーテライト・エア
+Type = 1
+CmdSub = 空中可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = エーテライト・グランド
+Type = 0
+CmdSub = 
+Cmd = 214AoBoC
+
+[cm_025]
+Name = エーテライト・グランド
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_026]
+Name = スライド・エア
+Type = 0
+CmdSub = 空中
+Cmd = 214AoBoC
+
+[cm_027]
+Name = スライド・エア
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+Child = 1
+//※左右で投げる向きを操作可
+
+[cm_028]
+Name = スライド・エア　追加入力
+Type = 0
+CmdSub = 掴み中
+Cmd = 4o6
+
+[cm_030]
+Name = カッティング・シンク
+Type = 0
+CmdSub = ホールド可
+Cmd = 421AoBoC
+
+[cm_035]
+Name = カッティング・シンク
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 421C
+
+[cm_040]
+Name = リロード
+Type = 0
+CmdSub = 
+Cmd = 22D
+
+//AD AAD LA
+[cm_060]
+Name = バレルレプリカ
+Type = 10
+CmdSub = 追加入力有
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = バレルレプリカ
+Type = 11
+CmdSub = 追加入力有
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = バレルレプリカ・オベリスク
+Type = 100
+CmdSub = LA
+ 

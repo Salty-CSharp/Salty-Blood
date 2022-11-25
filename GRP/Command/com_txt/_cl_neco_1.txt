@@ -1,0 +1,131 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = 空対地おぷば
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_005]
+Name = はやすぎたンだッ……！
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_000]
+Name = 空中ネコ戦艦・ゴモラン
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+
+[cm_005]
+Name = 空中ネコ戦艦・ゴモラン
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = 電波奥義ネコエステ
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = 超電波奥義ネコエステ・スタンプリレー東日本
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = ネコ忍法ラブアース
+Type = 0
+CmdSub = ホールド可
+Cmd = 214AoBoC
+
+[cm_020]
+Name = ワニ園に行きたいワタシ
+Type = 0
+CmdSub = 空中
+Cmd = 214AoBoC
+
+[cm_035]
+Name = 六身分解ゴッドキャット
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = アバドンフレア
+Type = 0
+CmdSub = 
+Cmd = 22A
+
+[cm_040]
+Name = アバドンフォース
+Type = 0
+CmdSub = 
+Cmd = 22BoC
+
+[cm_045]
+Name = エリートネコ部隊アバドン☆ベレー
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_055]
+Name = にゃんぷしーろーる・ＡＣ
+Type = 1
+CmdSub = MHB
+CmdSub = 得EXEdge
+Cmd = 63214C
+
+[cm_056]
+Name = ネコワンツースリー
+Type = 0
+CmdSub = 
+Cmd = 6A.6B.6C
+
+
+//AD AAD LA
+[cm_060]
+Name = ドーン・オブ・ザ・キャット
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = 番長猫屋敷
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = アンゴルモアハンマー
+Type = 100
+CmdSub = LA
+

@@ -1,0 +1,143 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// //CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = どうだっ！
+Type = 0
+//CmdSub = 
+Cmd = 236AoBoC
+
+[cm_005]
+Name = ばーすと！
+Type = 1
+//CmdSub = ゲージ１００％以上で
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = なにやってるの……！
+Type = 0
+//CmdSub = 
+Cmd = 623AoBoC
+Child = 1
+
+[cm_011]
+Name = なにやってるの……！　追加技
+Type = 0
+//CmdSub = 
+Cmd = 6AoBoC
+
+[cm_015]
+Name = なにやってるの……！
+Type = 1
+//CmdSub = ゲージ１００％以上で
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = せーのっ！
+Type = 0
+//CmdSub = 
+Cmd = 214A
+
+[cm_020]
+Name = せーのっ！
+Type = 0
+//CmdSub = 
+Cmd = 214BoC
+Child = 1
+Child = 2
+Child = 3
+
+[cm_021]
+Name = せーのっ！　追加技１
+Type = 0
+//CmdSub = せーのっ！Ｂ後に
+Cmd = A
+
+[cm_022]
+Name = せーのっ！　追加技２
+Type = 0
+//CmdSub = せーのっ！Ｂ後に
+Cmd = B
+
+[cm_023]
+Name = せーのっ！　追加技３
+Type = 0
+//CmdSub = せーのっ！Ｂ後に
+Cmd = C
+
+[cm_025]
+Name = せーのっ！
+Type = 1
+//CmdSub = ゲージ１００％以上で
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_030]
+Name = こっちこっち！
+Type = 0
+CmdSub = 空中可
+Cmd = 421AoBoC
+
+[cm_035]
+Name = 覚悟はいい？
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 421C
+Child = 1
+
+[cm_036]
+Name = 覚悟はいい？　追加入力
+Type = 0
+CmdSub = 掴み中
+Cmd = 2
+
+[cm_040]
+Name = うるさい！（飛べっ！）
+Type = 0
+//CmdSub = 
+Cmd = 22AoBoC
+
+[cm_045]
+Name = うるさい！（飛べっ！）
+Type = 1
+//CmdSub = ゲージ１００％以上で
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+//AD AAD LA
+[cm_060]
+Name = 空想具現化（マーブルファンタズム）
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = メルティブラッド
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = 少しばかり戯れようか？
+Type = 100
+CmdSub = LA空中
+ 

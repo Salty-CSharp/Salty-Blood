@@ -1,0 +1,141 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = ＡＣ／マジックドロウ
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_005]
+Name = ＡＣ／マジックドロウ
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = 青子ムーンサルト
+Type = 0
+CmdSub = 空中可
+Cmd = 623AoBoC
+
+[cm_015]
+Name = 青子ムーンサルト
+Type = 1
+CmdSub = 空中可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = フローティング・スターマイン
+Type = 0
+CmdSub = 空中可
+CmdSub = ホールド可
+Cmd = 214AoBoC
+
+[cm_025]
+Name = ブロウダスト・スターマイン
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_025]
+Name = フローティング・スターマイン
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_030]
+Name = アーティラリ・スターマイン
+Type = 0
+CmdSub = ホールド可
+Cmd = 421AoBoC
+Child = 1
+
+[cm_030]
+Name = アーティラリ・スターマイン　追加技
+Type = 0
+CmdSub = 設置後
+Cmd = 421AoBoC
+
+[cm_035]
+Name = アーティラリ・スターマイン
+Type = 1
+CmdSub = ホールド可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 421C
+Child = 1
+
+[cm_030]
+Name = アーティラリ・スターマイン　追加技
+Type = 0
+CmdSub = 設置後
+Cmd = 421AoBoC
+
+[cm_040]
+Name = ブレイジング・スターマイン
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+[cm_045]
+Name = ブレイジング・スターマイン
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_050]
+Name = 青子フロアスイープ
+Type = 0
+CmdSub = 
+Cmd = 63214AoBoC
+
+[cm_055]
+Name = 青子フロアスイープ
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = スヴィア・ブレイク
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = スヴィア・ブレイク・スライダー
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = 逆行運河・創世光年
+Type = 100
+CmdSub = LA
+

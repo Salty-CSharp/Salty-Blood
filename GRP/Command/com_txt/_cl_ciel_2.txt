@@ -1,0 +1,191 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// o - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = ハイロゥ・アコライト
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_009]
+Name = セブンスヘヴン
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = ハイロゥ（空中）
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+
+[cm_011]
+Name = ハイロゥ（空中）
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_012]
+Name = ブレイドシンカー
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = ブレイドシンカー
+Type = 1
+//CmdSub = BE
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = 黒鍵投げ
+Type = 0
+//CmdSub = BE
+Cmd = 214A
+
+[cm_021]
+Name = 黒鍵投げ
+Type = 0
+CmdSub = 
+Cmd = 214BoC
+Child = 1
+Child = 5
+
+[cm_022]
+Name = 第二節
+Type = 0
+//CmdSub = 黒鍵投げＢ後に
+Cmd = 4BoC
+Child = 1
+Child = 3
+
+[cm_024]
+Name = 第四節
+Type = 0
+//CmdSub = 第二節・第三節後に
+Cmd = 4A
+Child = 1
+
+[cm_025]
+Name = 小終節
+Type = 0
+//CmdSub = 第四節後に
+Cmd = 4BoC
+
+[cm_025]
+Name = 第七節
+Type = 0
+//CmdSub = 第二節・第三節後に
+Cmd = 4BoC
+
+[cm_023]
+Name = 第三節
+Type = 0
+//CmdSub = 黒鍵投げＢ後に
+Cmd = 4A
+Child = 1
+Child = 3
+
+[cm_024]
+Name = 第四節
+Type = 0
+//CmdSub = 第二節・第三節後に
+Cmd = 4A
+Child = 1
+
+[cm_025]
+Name = 小終節
+Type = 0
+//CmdSub = 第四節後に
+Cmd = 4BoC
+
+[cm_025]
+Name = 第七節
+Type = 0
+//CmdSub = 第二節・第三節後に
+Cmd = 4BoC
+
+
+[cm_026]
+Name = 黒鍵・大終節
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_027]
+Name = 空中黒鍵投げ
+Type = 0
+CmdSub = 空中
+Cmd = 214A
+
+[cm_028]
+Name = 黒鍵・断罪（第一符）
+Type = 0
+CmdSub = 空中
+Cmd = 214BoC
+Child = 1
+
+[cm_029]
+Name = 黒鍵・断罪（第二符）
+Type = 0
+//CmdSub = 黒鍵・断罪（第一符）後に
+Cmd = 4B
+Child = 1
+
+[cm_030]
+Name = 黒鍵・断罪（第三符）
+Type = 0
+//CmdSub = 黒鍵・断罪（第二符）後に
+Cmd = 4B
+
+[cm_031]
+Name = 黒鍵・埋葬
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = シエルサマー
+Type = 0
+CmdSub = 空中可
+Cmd = 22AoBoC
+
+[cm_045]
+Name = シエルサマー
+Type = 1
+CmdSub = 空中可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_050]
+Name = ピニオン・ハイロゥ
+Type = 0
+CmdSub = 
+Cmd = 63214AoBoC
+
+//AD AAD LA
+[cm_060]
+Name = 第七聖典
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 41236C

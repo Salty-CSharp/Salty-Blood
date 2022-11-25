@@ -1,0 +1,110 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = 閃鞘・四辻
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+Child = 1
+
+[cm_000]
+Name = 閃鞘・四辻　追加技
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+Child = 1
+
+[cm_000]
+Name = 閃鞘・四辻　追加技
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_005]
+Name = 閃鞘・一里四辻
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = 閃走・六兎
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+Child = 1
+
+[cm_010]
+Name = 閃走・六兎　追加技
+Type = 0
+CmdSub = 
+Cmd = AoBoC
+
+[cm_015]
+Name = 閃走・六兎
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = 閃鞘・八穿
+Type = 0
+CmdSub = 
+Cmd = 214A
+
+[cm_020]
+Name = 閃鞘・七夜
+Type = 0
+CmdSub = 
+Cmd = 214B
+
+[cm_020]
+Name = 閃鞘・一風
+Type = 0
+CmdSub = 接近
+Cmd = 214C
+
+[cm_040]
+Name = 閃走・水月
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+//AD AAD LA
+[cm_060]
+Name = 閃鞘・迷獄沙門
+Type = 10
+CmdSub = 追加入力有
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = 閃鞘・迷獄沙門
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = 極死・七夜
+Type = 100
+CmdSub = LA
+

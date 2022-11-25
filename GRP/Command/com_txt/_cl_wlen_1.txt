@@ -1,0 +1,98 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = スノウ・ピラー
+Type = 0
+CmdSub = 空中可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = スノウクイン・ハートピラー
+Type = 1
+CmdSub = 空中可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = ワルツ・ワーズ
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = ワルツ・ワーズ
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = フルール・フリーズ・ムシュワーフ
+Type = 0
+CmdSub = 
+Cmd = 214AoBoC
+
+[cm_025]
+Name = フルール・フリーズ・エトワール
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_020]
+Name = スノウ・バレット
+Type = 0
+CmdSub = 空中
+Cmd = 214AoBoC
+
+[cm_025]
+Name = スノウ・バレット
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = ピルエット・ワーズ
+Type = 0
+CmdSub = 
+Cmd = 22AoBoCoD
+
+//AD AAD LA
+[cm_060]
+Name = ウタカタ
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = コチョウノユメ
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = ムゲンホウヨウ
+Type = 100
+CmdSub = LA
+

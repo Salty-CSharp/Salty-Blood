@@ -1,0 +1,72 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = みつめるキャッツ眼
+Type = 0
+Cmd = 236AoBoC
+
+[cm_005]
+Name = グレートキャッツジェノサイダー
+Type = 1
+Cmd = 236C
+
+[cm_010]
+Name = スパイラル・スプリンター
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = ギガメイド・インパット
+Type = 1
+Cmd = 623C
+
+[cm_020]
+Name = メカ、ネコ殺法・とびだすキャッツ哀
+Type = 0
+Cmd = 214AoBoC
+
+[cm_020]
+Name = メカ、ネコ殺法・くだけろキャッツ哀
+Type = 1
+Cmd = 214C
+
+[cm_040]
+Name = ネコ設置
+Type = 0
+CmdSub = 
+Cmd = 22A
+
+[cm_040]
+Name = 地獄が腹の宴
+Type = 0
+CmdSub = 
+Cmd = 22BoC
+
+[cm_040]
+Name = 偉大なるキャッツビー
+Type = 1
+Cmd = 22C
+
+
+//AD AAD LA
+[cm_060]
+Name = Ｌ・Ｓ・Ｏ（超人姉妹同盟）
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 41236C
+
+
+

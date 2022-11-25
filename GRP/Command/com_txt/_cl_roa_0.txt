@@ -1,0 +1,81 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = 雷針
+Type = 0
+CmdSub = BE
+Cmd = 236AoBoC
+
+[cm_005]
+Name = 雷蛇礼賛
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = 昇雷
+Type = 0
+CmdSub = 空中可
+Cmd = 623AoBoC#
+
+[cm_015]
+Name = 昇雷賛美
+Type = 1
+CmdSub = 空中可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = 数秘紋・蛇の巣
+Type = 0
+CmdSub = 空中可
+CmdSub = 追加入力有
+Cmd = 214AoBoC
+Child = 1
+
+[cm_021]
+Name = 数秘紋・蛇の巣　追加技
+Type = 0
+CmdSub = 空中可
+Cmd = 214AoBoC
+//Parent = 1
+
+[cm_040]
+Name = 数秘紋・積雷分離
+Type = 0
+CmdSub = ホールド可
+Cmd = 22AoBoC
+
+//AD AAD LA
+[cm_060]
+Name = 天の崩雷
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = 天の崩雷
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = 空洞航路・十七転生
+Type = 100
+CmdSub = LA
+ 

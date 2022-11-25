@@ -1,0 +1,127 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// //CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = 鳥を落とす
+Type = 0
+//CmdSub = 空中ＢのみＢＥ可
+CmdSub = 空中可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = 虚空舞う鳥を落とす
+Type = 1
+//CmdSub = ゲージ１００％以上で
+CmdSub = 空中可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = 赫訳・紅葉
+Type = 0
+//CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = 赫訳・紅葉
+Type = 1
+//CmdSub = ゲージ１００％以上で
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = 月を穿つ
+Type = 0
+CmdSub = ホールド可
+Cmd = 214AoBoC
+
+[cm_025]
+Name = 上弦の月を穿つ
+Type = 1
+//CmdSub = ゲージ１００％以上で
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = 獣を焦がす
+Type = 0
+//CmdSub = 
+CmdSub = 空中可
+Cmd = 22AoBoC
+Child = 1
+
+[cm_041]
+Name = 獣を焦がす　追加技
+Type = 0
+CmdSub = 設置後
+CmdSub = 空中可
+Cmd = 22AoBoC
+
+[cm_055]
+Name = 疾駆する獣を焦がす
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+Child = 1
+
+[cm_041]
+Name =  疾駆する獣を焦がす　追加技
+Type = 0
+CmdSub = 設置後
+CmdSub = 空中可
+Cmd = 22AoBoC
+
+
+[cm_050]
+Name = 赫訳・沈紅
+Type = 0
+CmdSub = 接近
+Cmd = 63214AoBoC
+
+[cm_055]
+Name = 赫訳・沈紅
+Type = 1
+//CmdSub = ゲージ１００％以上で
+CmdSub = 接近
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = 赤主・檻髪
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+//※つかみ成立時にボタン連打でヒット数増加
+
+[cm_070]
+Name = 赤主・檻髪
+Type = 11
+CmdSub = 追加入力有
+CmdSub = 接近
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+//※つかみ成立時にボタン連打でヒット数増加
+
+[cm_080]
+Name = 赤主・焔華
+Type = 100
+CmdSub = LA
+ 

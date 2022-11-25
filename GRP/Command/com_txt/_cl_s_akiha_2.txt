@@ -1,0 +1,65 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// //CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+
+[cm_000]
+Name = 鳥を渦撒く
+Type = 0
+Cmd = 236AoBoC
+
+[cm_000]
+Name = 惑う鳥を渦撒く
+Type = 1
+Cmd = 236C
+
+[cm_000]
+Name = 月に画く
+Type = 0
+Cmd = 623AoBoC
+
+[cm_000]
+Name = 墨空の月に画く
+Type = 1
+Cmd = 623C
+
+[cm_000]
+Name = 月を焦がす
+Type = 0
+CmdSub = 空中可
+Cmd = 214AoBoC
+
+
+[cm_000]
+Name = 獣を挫く
+Type = 0
+Cmd = 22AoBoC
+
+[cm_000]
+Name = 群れ集う獣を挫く
+Type = 1
+Cmd = 22C
+
+[cm_000]
+Name = 赫訳・鬼灯楓
+Type = 0
+CmdSub = 接近
+Cmd = 63214C
+
+//AD AAD LA
+[cm_000]
+Name = 赤主・檻髪
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 41236C
+

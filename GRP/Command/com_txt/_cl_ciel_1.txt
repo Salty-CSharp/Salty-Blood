@@ -1,0 +1,145 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = フリッパー・ロー
+Type = 0
+CmdSub = 
+Cmd = 236A
+
+[cm_001]
+Name = フリッパー・ハイ
+Type = 0
+CmdSub = 
+Cmd = 236BoC
+
+
+[cm_005]
+Name = ＦＰＦＰ（フラッシュ・ピストン・フリップ・パンチ）
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = ブレイドシンカー
+Type = 0
+CmdSub = ホールド可
+Cmd = 623AoBoC
+
+[cm_015]
+Name = ブレイドシンカー
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = 黒鍵投げ
+Type = 0
+CmdSub = 
+Cmd = 214A
+
+[cm_021]
+Name = 変節・天恵
+Type = 0
+CmdSub = 
+Cmd = 214B
+
+[cm_022]
+Name = 変節・豊穣
+Type = 0
+CmdSub = 
+Cmd = 214C
+
+[cm_027]
+Name = 空中黒鍵投げ
+Type = 0
+CmdSub = 空中
+Cmd = 214A
+
+[cm_028]
+Name = 黒鍵・断罪（第一符）
+Type = 0
+CmdSub = 空中
+Cmd = 214BoC
+Child = 1
+
+[cm_029]
+Name = 黒鍵・断罪（第二符）
+Type = 0
+//CmdSub = 黒鍵・断罪（第一符）後に
+Cmd = 4B
+Child = 1
+
+[cm_030]
+Name = 黒鍵・断罪（第三符）
+Type = 0
+//CmdSub = 黒鍵・断罪（第二符）後に
+Cmd = 4B
+
+[cm_031]
+Name = シャドウスナップ
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = シエルサマー
+Type = 0
+CmdSub = 空中可
+Cmd = 22AoBoC
+
+[cm_045]
+Name = シエルサマー
+Type = 1
+CmdSub = 空中可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_050]
+Name = キャバルリー・トス
+Type = 0
+CmdSub = 接近
+Cmd = 63214AoBoC
+
+[cm_055]
+Name = ドンキホーテ・ラーフアウト
+Type = 1
+CmdSub = 接近
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = 第七聖典
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = 第七聖典・原罪救済
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = 火葬式典
+Type = 100
+CmdSub = LA空中

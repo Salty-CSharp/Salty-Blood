@@ -1,0 +1,77 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = 混沌開放・黒翼種
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_005]
+Name = 混沌開放・黒翼種
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_020]
+Name = 混沌流出・爬虫種
+Type = 0
+CmdSub = ホールド可
+Cmd = 214AoBoC
+
+[cm_025]
+Name = 混沌流出・大海嘯
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_030]
+Name = 混沌開放・獣角種
+Type = 0
+CmdSub = 
+Cmd = 421AoBoC
+
+[cm_035]
+Name = 混沌開放・獣角種
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 421C
+
+[cm_040]
+Name = 混沌流出・鱗虫形
+Type = 0
+CmdSub = ホールド可
+Cmd = 22AoBoC
+
+[cm_055]
+Name = 混沌流出・飛毒翅
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = 武装９９９
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 41236C

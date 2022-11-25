@@ -1,0 +1,77 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = 抜刀・空気撃ち
+Type = 0
+Cmd = 236AoBoC
+
+[cm_005]
+Name = 抜刀・鳴動重ね撃ち
+Type = 1
+Cmd = 236C
+
+[cm_000]
+Name = フィンガーブリット
+Type = 0
+Cmd = 623AoBoC
+
+[cm_000]
+Name = フィンガーブリット
+Type = 1
+Cmd = 623C
+
+[cm_020]
+Name = 姉妹の絆・鋼鉄編
+Type = 0
+CmdSub = 空中可
+Cmd = 214AoBoC
+
+[cm_040]
+Name = マルチウエポンサービス
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+[cm_050]
+Name = マグナムアッパースクランブル
+Type = 0
+CmdSub = 接近 
+Cmd = 63214C
+
+[cm_060]
+Name = 姉妹の絆・逆輸入劇場版
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 214214C
+
+//AD AAD LA
+[cm_060]
+Name = 開打靠靭琥珀脚
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = 開打散靭琥珀失脚
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = 抜刀奥義・賀正箒星
+Type = 100
+CmdSub = LA

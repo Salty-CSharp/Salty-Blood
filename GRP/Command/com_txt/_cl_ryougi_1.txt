@@ -1,0 +1,182 @@
+[CommandList]
+
+// [cm_000]
+// Name = ‹Z–Όi‘Sp‚Μ‚έj
+// Type = ƒRƒ}ƒ“ƒhƒ^ƒCƒv 0 - ’Κν 1 - EX  10 - AD,AAD  100 - LA  3 - etc
+// Cmd = ƒRƒ}ƒ“ƒh
+// •ϋό - u1`9v
+// or - uov
+// { - u+v
+// ƒXƒy[ƒX - u viΤu‚Ν’Κν•¶‚Μ1/3j
+// 
+// CmdSub = ‹σ’†‰Β
+// CmdSub = ƒz[ƒ‹ƒh‰Β
+// CmdSub = “‚°
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+//[cm_000]
+//Name = —§‚Ώ‚a”h¶i’Κν‹Zj
+//Type = 0
+//Cmd = B.B
+
+//[cm_000]
+//Name = ’n‘Ξ‹σa‚θi“Ακ‹Zj
+//Type = 0
+//CmdSub = 
+//Cmd = 3B
+
+[cm_000]
+Name = ‘o‚ΛΰO
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+Child = 1
+Child = 4
+Child = 7
+
+[cm_000]
+Name = ‘o‚ΛΰO@’Η‰Α‹Z‚P
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+Child = 1
+Child = 2
+
+[cm_000]
+Name = ‘o‚ΛΰO@’Η‰Α‹Z‚Q
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_000]
+Name = ‘o‚ΛΰO@’Η‰Α‹Z‚R
+Type = 0
+CmdSub = 
+Cmd = 214AoBoCoD
+
+[cm_000]
+Name = ‘o‚ΛΰO@’Η‰Α‹Z‚S
+Type = 0
+CmdSub = 
+Cmd = 214AoBoC
+Child = 1
+Child = 2
+
+[cm_000]
+Name = ‘o‚ΛΰO@’Η‰Α‹Z‚Q
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_000]
+Name = ‘o‚ΛΰO@’Η‰Α‹Z‚R
+Type = 0
+CmdSub = 
+Cmd = 214AoBoCoD
+
+[cm_000]
+Name = ‘o‚ΛΰO@’Η‰Α‹Z‚R
+Type = 0
+CmdSub = 
+Cmd = 214D
+
+[cm_000]
+Name = ‘o‚ΛΰOE”μA‚Λ
+Type = 1
+Cmd = 236C
+
+[cm_000]
+Name = ΰή—‚Μ
+CmdSub = ‹σ’†
+Type = 0
+Cmd = 236AoBoC
+
+[cm_000]
+Name = ΰή—‚Μ
+CmdSub = ‹σ’†
+Type = 1
+Cmd = 236C
+
+[cm_000]
+Name = ‰A—z—†ω
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_000]
+Name = –³–Ύ‚Μ
+CmdSub = 
+Type = 0
+Cmd = 214AoBoC
+
+[cm_000]
+Name = –³–Ύ‚Μ
+CmdSub = 
+Type = 1
+Cmd = 214C
+
+[cm_000]
+Name = ‰A—z—†ην
+CmdSub = 
+Type = 0
+Cmd = 421AoBoC
+
+[cm_000]
+Name = ‰B‚µƒiƒCƒt
+CmdSub = ‹σ’†‰Β
+Type = 0
+Cmd = 22AoBoC
+Child = 1
+
+[cm_000]
+Name = ƒiƒCƒtE‚Ά
+CmdSub = ƒiƒCƒt‚Μ‹ί‚­‚Ε
+Type = 0
+Cmd = 22AoBoC
+
+[cm_000]
+Name = ‰B‚µƒiƒCƒt
+CmdSub = ‹σ’†‰Β
+Type = 1
+Cmd = 22C
+Child = 1
+
+[cm_000]
+Name = ƒiƒCƒtE‚Ά
+CmdSub = ƒiƒCƒt‚Μ‹ί‚­‚Ε
+Type = 0
+Cmd = 22AoBoC
+
+[cm_000]
+Name = “]”L
+Type = 0
+CmdSub = ‹σ’†σg‰Β”\
+Cmd = 44o66o22AoBoC
+
+[cm_000]
+Name = “]”L
+Type = 1
+CmdSub = ‹σ’†σg‰Β”\
+Cmd = 44o66o22C
+
+//AD AAD LA
+[cm_060]
+Name = ’Ό€‚Μ–‚α@άi•φ—
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = ’Ό€‚Μ–‚α@µiI—
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = –³C―@‹σ‚Μ‹«E
+Type = 100
+CmdSub = LA

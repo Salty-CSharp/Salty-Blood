@@ -1,0 +1,152 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = フルール・フリーズ・クルールー
+Type = 0
+CmdSub = 空中可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = エトワール・シリウス
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_005]
+Name = フルール・フリーズ・クルールー
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = スワン・レイク
+Type = 0
+CmdSub = ホールド可
+Cmd = 623AoBoC
+
+[cm_015]
+Name = スワン・スノウ・スロウ
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = スノウ・バレット
+Type = 0
+CmdSub = 空中可
+Cmd = 214A
+
+[cm_020]
+Name = スノウ・バレット
+Type = 0
+CmdSub = 空中可
+Cmd = 214BoC
+Child = 1
+Child = 2
+
+[cm_020]
+Name = ア・テール
+Type = 0
+CmdSub = 
+Cmd = 214A
+
+[cm_020]
+Name = カブリオール
+Type = 0
+CmdSub = 
+Cmd = 214BoC
+
+[cm_025]
+Name = トラント・ドゥ・フェッテ
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_025]
+Name = スノウ・バレット
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_030]
+Name = ネージュ・ブラン
+Type = 0
+CmdSub = 
+Cmd = 421AoBoC
+Child = 1
+
+[cm_030]
+Name = ネージュ・ブラン　追加入力
+Type = 0
+Cmd = 4o6
+
+[cm_035]
+Name = ネージュ・ディベルディス
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 421C
+
+
+[cm_040]
+Name = ナッツクラッカー
+Type = 0
+CmdSub = 
+Cmd = 22AoBoCoD
+
+[cm_050]
+Name = ナーサリー・ライム
+Type = 0
+CmdSub = 
+Cmd = 63214AoBoC
+
+[cm_055]
+Name = スノウ・レーヌ
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = ウタカタ
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = コチョウノユメ
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = ムゲンホウヨウ
+Type = 100
+CmdSub = LA
+

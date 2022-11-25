@@ -1,0 +1,135 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = なみ
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_005]
+Name = なだれ
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_000]
+Name = といき
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+
+[cm_005]
+Name = いぶき
+Type = 1
+CmdSub = 空中
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = とり
+Type = 0
+CmdSub = 
+Cmd = 623A
+
+[cm_015]
+Name = おおとり
+Type = 1
+CmdSub = 
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = すいせい
+Type = 0
+CmdSub = 
+Cmd = 214AorBorC
+Child = 1
+
+[cm_000]
+Name = すいせい　追加技
+Type = 0
+CmdSub = 
+Cmd = AorBorC
+
+[cm_025]
+Name = めてお
+Type = 1
+CmdSub = 
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_020]
+Name = ひかり
+Type = 0
+CmdSub = 
+Cmd = 22AorBoC
+
+[cm_025]
+Name = かがやき
+Type = 1
+CmdSub = 
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_035]
+Name = そら
+Type = 0
+CmdSub = 空中可
+CmdSub = 追加入力有
+Cmd = 22D
+Child = 1
+
+[cm_035]
+Name = そら　追加技
+Type = 0
+CmdSub = 
+Cmd = 22
+
+[cm_055]
+Name = 受けるがよい！
+Type = 1
+CmdSub = 空中
+CmdSub = 150%
+CmdSub = EXEdge
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = きおく
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = きおく
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = おわり
+Type = 100
+CmdSub = LA
+
