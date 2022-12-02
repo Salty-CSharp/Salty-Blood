@@ -1,0 +1,147 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = レーザー
+Type = 0
+CmdSub = ホールド可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = 処刑レーザー
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_000]
+Name = ジェット・バイ
+Type = 0
+CmdSub = 空中
+CmdSub = ホールド可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = ハレーズコメット
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = 電磁ネットワイヤー・ＴＹＰＥハイ
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = 電磁ネットワイヤー・ＴＹＰＥハイ
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = 幻視力ミサイル
+Type = 0
+CmdSub = 
+Cmd = 214AoBoC
+
+[cm_025]
+Name = 幻視力ミサイル・ナイトメア
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_020]
+Name = 熱線追尾弾キングフィッシャー
+Type = 0
+CmdSub = 空中
+Cmd = 214AoBoC
+
+[cm_025]
+Name = 熱線追尾弾キングフィッシャー
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_030]
+Name = 電磁ネットワイヤー・ＴＹＰＥシー
+Type = 0
+CmdSub = 
+Cmd = 421AoBoC
+Child = 1
+
+[cm_030]
+Name = 電磁ネットワイヤー・ＴＹＰＥシー　追加入力
+Type = 0
+CmdSub = 掴み中
+Cmd = 2
+
+[cm_035]
+Name = 電磁ネットワイヤー・ＴＹＰＥシー
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 421C
+
+[cm_040]
+Name = 琥珀力バリヤー
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+[cm_045]
+Name = 琥珀力バリヤー
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_055]
+Name = ハイパーレンジ・電磁アーム
+Type = 1
+CmdSub = 空中可
+CmdSub = 150%
+CmdSub = EXEdge
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = Ｌ・Ｓ・Ｏ（超人姉妹同盟）
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = Ｌ・Ｓ・Ｏ（超人姉妹同盟）
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = サタデーナイトフォーエバー
+Type = 100
+CmdSub = LA空中
+

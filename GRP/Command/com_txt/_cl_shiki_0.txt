@@ -1,0 +1,131 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = 切り札そのいち（大斬り）
+Type = 0
+CmdSub = ホールド可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = 切り札そのいち（大斬り）
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = 自分でもよくわからない蹴り（閃走・六魚）
+Type = 0
+CmdSub = 空中可
+Cmd = 623AoBoC
+Child = 1
+
+[cm_010]
+Name = 自分でもよくわからない蹴り（閃走・六魚）　追加技
+Type = 0
+CmdSub = 
+Cmd = AoBoC
+
+[cm_015]
+Name = 自分でもよくわからない蹴り（閃走・六魚）
+Type = 1
+CmdSub = 空中可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = 切り札そのに（下段掬い）
+Type = 0
+CmdSub = 
+Cmd = 214A
+
+[cm_020]
+Name = 切り札そのに（下段掬い）
+Type = 0
+CmdSub = 
+Cmd = 214BoC
+Child = 1
+
+[cm_020]
+Name = 切り札そのに（下段掬い）　追加技
+Type = 0
+CmdSub = HIT中
+Cmd = B
+
+[cm_025]
+Name = 切り札そのに（下段掬い）
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = 本気の構え（閃走・名月）
+Type = 0
+CmdSub = 
+Cmd = 22AoCoD
+
+[cm_045]
+Name = 本気の構え（閃走・名月）
+Type = 0
+CmdSub = ホールド可
+Cmd = 22B
+Child = 1
+
+[cm_045]
+Name = 本気の構え（閃走・名月）　追加入力
+Type = 0
+Cmd = D
+
+[cm_050]
+Name = 夢中の反撃（閃鞘・八隼）
+Type = 0
+CmdSub = 空中
+Cmd = 22AoBoC
+
+[cm_050]
+Name = 夢中の反撃（閃鞘・八隼）
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+
+//AD AAD LA
+[cm_060]
+Name = 直死の魔眼
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = 十七分割
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = 直死の魔眼・決死の一撃
+Type = 100
+CmdSub = LA
+

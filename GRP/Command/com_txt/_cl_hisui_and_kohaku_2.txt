@@ -1,0 +1,197 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+//共通操作
+[cm_000]
+Name = 共通操作
+Type = 2
+
+[cm_000]
+Name = 姉妹の絆・誕生編
+Type = 0
+CmdSub = 
+Cmd = 22D
+
+[cm_060]
+Name = 姉妹の絆・劇場版
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 214214C
+
+//翡翠操作時
+[cm_000]
+Name = 翡翠操作時
+Type = 2
+
+[cm_000]
+Name = おたまは頑丈です
+Type = 0
+CmdSub = 空中可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = おたまは頑丈です
+Type = 1
+CmdSub = 空中可
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = 失礼します
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = 失礼します
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = 姉妹の絆・基本編
+Type = 0
+CmdSub = 空中可
+Cmd = 214AoBoC
+
+[cm_040]
+Name = がんばりました
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+[cm_050]
+Name = 翡翠三段クッキング
+Type = 0
+CmdSub = 
+Cmd = 6C.6C.236C
+
+//AD AAD LA
+[cm_060]
+Name = 暗黒翡翠拳
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+CmdSub = ホールド可
+Cmd = 41236C
+
+[cm_060]
+Name = 姉妹の絆・開打靠靭琥珀脚
+Type = 10
+CmdSub = 空中可
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 63214C
+
+
+
+
+
+
+
+
+
+//琥珀操作時
+[cm_000]
+Name = 琥珀操作時
+Type = 2
+
+
+[cm_000]
+Name = 抜刀・秘密の業物
+Type = 0
+CmdSub = BE
+Cmd = 236AoBoC
+Child = 1
+Child = 2
+Child = 3
+
+[cm_001]
+Name = 抜刀・ちゃぶ台返し
+Type = 0
+CmdSub = 
+Cmd = A
+
+[cm_002]
+Name = 抜刀・秘密の業物　追加技１
+Type = 0
+Cmd = B
+
+[cm_003]
+Name = 抜刀・秘密の業物　追加技２
+Type = 0
+Cmd = C
+
+[cm_005]
+Name = 抜刀・秘密の業物
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+
+
+[cm_000]
+Name = ムービング☆スター
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+
+[cm_005]
+Name = シューティング☆スター
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_020]
+Name = 姉妹の絆・風雲編
+Type = 0
+CmdSub = 空中可
+Cmd = 214AoBoC
+
+[cm_040]
+Name = 対戦に潤いを。
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+[cm_045]
+Name = 対戦に潤いを。
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+//AD AAD LA
+[cm_060]
+Name = 開打靠靭琥珀脚
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 41236C
+
+[cm_060]
+Name = 姉妹の絆・暗黒翡翠拳
+Type = 10
+CmdSub = 空中可
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 63214C
+
+
+ 

@@ -1,0 +1,83 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = 送り火拿
+Type = 0
+CmdSub = ホールド可
+Cmd = 236AoBoC
+
+[cm_005]
+Name = 葬り大噛
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_006]
+Name = 赫訳・鬼尾
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+
+[cm_007]
+Name = 赫訳・鬼尾
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = 砕き昇雷
+Type = 0
+Cmd = 623AoBoC
+
+[cm_015]
+Name = 砕き昇雷
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = 秘雷針
+Type = 0
+Cmd = 214AoBoC
+
+[cm_025]
+Name = 雷蛇鬼流祭
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+//AD AAD LA
+[cm_060]
+Name = 天の崩雷
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = 天の崩雷
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = 空洞航路・十七転生
+Type = 100
+CmdSub = LA

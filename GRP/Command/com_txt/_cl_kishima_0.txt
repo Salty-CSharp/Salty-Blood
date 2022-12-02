@@ -1,0 +1,164 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = 布薩掌
+Type = 0
+CmdSub = 
+Cmd = 236AoB
+
+[cm_000]
+Name = 布薩掌
+Type = 0
+CmdSub = 
+Cmd = 236C
+Child = 1
+
+[cm_000]
+Name = 布薩掌　追加技１
+Type = 0
+CmdSub = 
+Cmd = 236C
+Child = 1
+
+[cm_000]
+Name = 布薩掌　追加技２
+Type = 0
+CmdSub = HIT中
+Cmd = 236C
+
+
+[cm_010]
+Name = 二定彗
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+Child = 1
+
+[cm_010]
+Name = 二定彗　追加技
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_015]
+Name = 独角・因陀羅網
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = 二定彗
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+Child = 1
+
+[cm_010]
+Name = 二定彗　追加技
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_015]
+Name = 独角・因陀羅網
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = 圧壊
+Type = 0
+CmdSub = 接近
+Cmd = 214AoBoC
+Child = 1
+Child = 2
+
+[cm_020]
+Name = 圧壊　追加入力
+Type = 0
+CmdSub = 掴み中
+Cmd = 4o2
+
+[cm_015]
+Name = 独角・炎穢欣浄
+Type = 1
+CmdSub = 掴み中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_025]
+Name = 独角・具足壊
+Type = 1
+CmdSub = 接近
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+
+[cm_020]
+Name = 頭燃彗雷
+Type = 0
+CmdSub = 空中
+Cmd = 214AoBoC
+
+[cm_025]
+Name = 頭燃彗雷
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = 兜神
+Type = 0
+CmdSub = 空中可
+Cmd = 22AoBoC
+
+[cm_045]
+Name = 兜神
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+//AD AAD LA
+[cm_060]
+Name = 独角・閻浮炎上
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = 紅主・閻浮提厭浄
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = 夜摩判決
+Type = 100
+CmdSub = LA空中
+

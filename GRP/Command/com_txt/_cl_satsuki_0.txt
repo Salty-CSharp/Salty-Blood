@@ -1,0 +1,113 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = 見果てぬ夢を掴むさっちんアーム
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_005]
+Name = 見果てぬ夢を掴むさっちんアーム
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = 届かない夢を追うさっちんアーム
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = 届かない夢を追うさっちんアーム
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = 行っくよ～！
+Type = 0
+CmdSub = ホールド可
+Cmd = 214AoBoC
+
+[cm_025]
+Name = 行っくよ～！
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_030]
+Name = 掴んだものを落とすさっちんダンク
+Type = 0
+CmdSub = 接近
+Cmd = 421AoBoC
+
+[cm_035]
+Name = 掴んだものを落とすさっちんダンク
+Type = 1
+CmdSub = 接近
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 421C
+
+[cm_040]
+Name = 邪魔しないでっ……！
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+[cm_045]
+Name = 邪魔しないでっ……！
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_055]
+Name = 一口だけごめんなさいっ！
+Type = 1
+CmdSub = 空中可
+CmdSub = 接近
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = 怒ったんだからっ……！
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = 怒ったんだからっ……！
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = 固有結界・枯渇庭園
+Type = 100
+CmdSub = LA
+

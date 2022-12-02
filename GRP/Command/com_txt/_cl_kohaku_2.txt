@@ -1,0 +1,129 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+[cm_000]
+Name = 抜刀・秘密の業物
+Type = 0
+Cmd = 236AoBoC
+Child = 1
+Child = 2
+Child = 3
+
+[cm_001]
+Name = 抜刀・ちゃぶ台返し
+Type = 0
+CmdSub = 
+Cmd = A
+
+[cm_002]
+Name = 抜刀・秘密の業物　追加技１
+Type = 0
+Cmd = B
+
+[cm_003]
+Name = 抜刀・秘密の業物　追加技２
+Type = 0
+Cmd = C
+
+[cm_005]
+Name = 抜刀・秘密の業物
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_006]
+Name = ムービング☆スター
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+
+[cm_007]
+Name = シューティング☆スター
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_010]
+Name = お掃除です！
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_015]
+Name = お帰りくださいます？
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 623C
+
+[cm_020]
+Name = マジカルアンバーミサイル
+Type = 0
+CmdSub = 空中可
+Cmd = 214AoBoC
+Child = 1
+
+[cm_021]
+Name = マジカルアンバーミサイル　追加入力
+Type = 0
+//CmdSub = マジカルアンバーミサイル（地上）発動中に
+Cmd = AoBoC
+
+[cm_022]
+Name = マジカル☆ミサイルスコール
+Type = 0
+CmdSub = 空中
+CmdSub = ホールド可
+Cmd = 214B
+
+[cm_025]
+Name = マジカルアンバーミサイル
+Type = 1
+//CmdSub = 100%
+CmdSub = 空中可
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = 対戦に潤いを。
+Type = 0
+CmdSub = 
+Cmd = 22AoBoC
+
+[cm_045]
+Name = 対戦に潤いを。
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_050]
+Name = 琥珀マグナムアッパー
+Type = 0
+CmdSub = 接近
+Cmd = 63214C
+
+//AD AAD LA
+[cm_060]
+Name = 開打靠靭琥珀脚
+Type = 10
+CmdSub = HEAT
+CmdSub = AD
+Cmd = 41236C

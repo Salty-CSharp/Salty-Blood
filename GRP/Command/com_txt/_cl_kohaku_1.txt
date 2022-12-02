@@ -1,0 +1,140 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA
+// CmdSub = コマンド付加テキスト（「～の後に」とか）
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// （空中可） - 「#」（予定）
+// スペース - 「 」（間隔は通常文字の1/3）
+
+[cm_000]
+Name = 抜刀・空気撃ち
+Type = 0
+//CmdSub = BE
+Cmd = 236AoBoC
+
+[cm_005]
+Name = 抜刀・鳴動重ね撃ち
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_006]
+Name = ムービング☆スター
+Type = 0
+CmdSub = 空中
+Cmd = 236AoBoC
+
+[cm_007]
+Name = シューティング☆スター
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 236C
+
+[cm_020]
+Name = 抜刀準備・無礼免
+Type = 0
+CmdSub = 
+Cmd = 214AoBoC
+
+[cm_025]
+Name = 抜刀準備・無礼免
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_026]
+Name = マジカルアンバーミサイル
+Type = 0
+CmdSub = 空中
+Cmd = 214A
+
+[cm_027]
+Name = マジカル☆ミサイルスコール
+Type = 0
+CmdSub = 空中
+CmdSub = ホールド可
+Cmd = 214BoC
+
+[cm_028]
+Name = マジカルアンバーミサイル
+Type = 1
+CmdSub = 空中
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 214C
+
+[cm_040]
+Name = こんなん育ててみました♪
+Type = 0
+CmdSub = ホールド可
+Cmd = 22AoBoC
+
+[cm_045]
+Name = こんなん育ててみました♪
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 22C
+
+[cm_046]
+Name = ジョニー
+Type = 1
+CmdSub = 150%
+CmdSub = EXEdge
+Cmd = 2222C
+
+[cm_047]
+Name = 現代医学の犠牲者です。
+Type = 1
+CmdSub = 150%
+CmdSub = EXEdge
+Cmd = 22222C
+
+[cm_050]
+Name = アンバーコロシアム・アッパー
+Type = 0
+CmdSub = 接近 
+Cmd = 63214C
+Child = 1
+
+[cm_051]
+Name = アンバーコロシアム・アッパー　追加入力
+Type = 0
+CmdSub = 掴み中
+Cmd = AoBoC
+
+[cm_055]
+Name = マジカルアタック・コハポンＸ
+Type = 1
+//CmdSub = 100%
+CmdSub = EXEdge
+Cmd = 1632143C
+
+//AD AAD LA
+[cm_060]
+Name = 開打靠靭琥珀脚
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = 開打散靭琥珀失脚
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = 抜刀奥義・賀正箒星
+Type = 100
+CmdSub = LA

@@ -1,0 +1,240 @@
+[CommandList]
+
+// [cm_000]
+// Name = 技名（全角のみ）
+// Type = コマンドタイプ 0 - 通常 1 - EX  10 - AD,AAD  100 - LA  3 - etc
+// Cmd = コマンド
+// 方向 - 「1～9」
+// or - 「o」
+// ＋ - 「+」
+// スペース - 「 」（間隔は通常文字の1/3）
+// 
+// CmdSub = 空中可
+// CmdSub = ホールド可
+// CmdSub = 投げ
+// //CmdSub = 100%
+// CmdSub = EXEdge
+// Child = 1
+
+//[cm_000]
+//Name = 立ちＢ派生（通常技）
+//Type = 0
+//Cmd = B.B
+
+//[cm_000]
+//Name = 地対空斬り（特殊技）
+//Type = 0
+//CmdSub = 
+//Cmd = 3B
+
+[cm_000]
+Name = 双ね鐘楼
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+Child = 1
+Child = 4
+Child = 7
+
+[cm_000]
+Name = 双ね鐘楼　追加技１
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+Child = 1
+Child = 2
+
+[cm_000]
+Name = 双ね鐘楼　追加技２
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_000]
+Name = 双ね鐘楼　追加技３
+Type = 0
+CmdSub = 
+Cmd = 214AoBoCoD
+
+[cm_000]
+Name = 双ね鐘楼　追加技４
+Type = 0
+CmdSub = 
+Cmd = 214AoBoC
+Child = 1
+Child = 2
+
+[cm_000]
+Name = 双ね鐘楼　追加技２
+Type = 0
+CmdSub = 
+Cmd = 236AoBoC
+
+[cm_000]
+Name = 双ね鐘楼　追加技３
+Type = 0
+CmdSub = 
+Cmd = 214AoBoCoD
+
+[cm_000]
+Name = 双ね鐘楼　追加技３
+Type = 0
+CmdSub = 
+Cmd = 214D
+
+[cm_000]
+Name = 鐘楼・清姫通し
+Type = 1
+Cmd = 236C
+
+[cm_000]
+Name = 玻璃の月
+CmdSub = 空中
+Type = 0
+Cmd = 236AoBoC
+
+[cm_000]
+Name = 玻璃の月
+CmdSub = 空中
+Type = 1
+Cmd = 236C
+
+[cm_000]
+Name = 虎落笛
+Type = 0
+CmdSub = 
+Cmd = 623AoBoC
+
+[cm_000]
+Name = 忌み斬り虎落
+Type = 1
+Cmd = 623C
+
+[cm_000]
+Name = 無明の月
+CmdSub = 
+Type = 0
+Cmd = 214AoBoC
+
+[cm_000]
+Name = 無明の月
+CmdSub = 
+Type = 1
+Cmd = 214C
+
+[cm_000]
+Name = 玻璃の月舎迦
+CmdSub = 
+Type = 0
+Cmd = 421AoBoC
+
+[cm_000]
+Name = 玻璃の月舎迦
+CmdSub = 
+Type = 1
+Cmd = 421C
+
+[cm_000]
+Name = 隠しナイフ
+CmdSub = 空中可
+Type = 0
+Cmd = 22AoBoC
+Child = 1
+
+[cm_000]
+Name = ナイフ拾い
+CmdSub = ナイフの近くで
+Type = 0
+Cmd = 22AoBoC
+
+[cm_000]
+Name = 隠しナイフ
+CmdSub = 空中可
+Type = 1
+Cmd = 22C
+Child = 1
+
+[cm_000]
+Name = ナイフ拾い
+CmdSub = ナイフの近くで
+Type = 0
+Cmd = 22AoBoC
+
+[cm_000]
+Name = 無我識　心空妙有
+CmdSub = 150%
+Type = 1
+Cmd = 63214C
+Child = 1
+Child = 2
+Child = 3
+Child = 4
+Child = 5
+Child = 6
+
+[cm_000]
+Name = 無我識　心空妙有　追加技１
+Type = 0
+Cmd = AoBoC
+
+[cm_000]
+Name = 無我識　心空妙有　追加技２
+Type = 0
+Cmd = 6AoBoC
+
+[cm_000]
+Name = 無我識　心空妙有　追加技３
+Type = 0
+Cmd = 2AoBoC
+
+[cm_000]
+Name = 無我識　心空妙有　追加技４
+Type = 0
+Cmd = 4AoBoC
+
+[cm_000]
+Name = 無我識　心空妙有　追加技５
+Type = 0
+Cmd = 8AoBoC
+
+[cm_000]
+Name = 無我識　心空妙有　追加技６
+Type = 0
+Cmd = D
+
+[cm_000]
+Name = 淘の振り袖
+Type = 1
+Cmd = 6C.214C
+
+[cm_000]
+Name = 転猫
+Type = 0
+CmdSub = 空中受身可能時
+Cmd = 44o66o22AoBoC
+
+[cm_000]
+Name = 転猫
+Type = 1
+CmdSub = 空中受身可能時
+Cmd = 44o66o22C
+
+//AD AAD LA
+[cm_060]
+Name = 直死の魔眼　五景崩落
+Type = 10
+CmdSub = MH
+CmdSub = AD
+Cmd = 41236C
+
+[cm_070]
+Name = 直死の魔眼　七景終落
+Type = 11
+CmdSub = BH
+CmdSub = AAD
+Cmd = 41236C
+
+[cm_080]
+Name = 無垢識　空の境界
+Type = 100
+CmdSub = LA
