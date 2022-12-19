@@ -121,10 +121,11 @@ MC_GuardPlus = 1 // ガード時に増加するかどうか
 BloodHeat_HpPlus = 0 // BloodHeat時HP回復値
 Heat_HpPlus = 0 // Heat時HP回復値
 
+
 VSDamageVal = 1.01 // ヴァイタルソース攻撃力係数
 
 IsExGuard = 1
-IsExReduce = 2
+IsExReduce = 0
 IsReduce = 1
 
 ShieldType = 1 // EXなし、持続なし（EXの部分が実シールド時間になる
@@ -165,7 +166,7 @@ GuardVal_Crouch = 1.5
 [Type_2] // HalfMoonStyle ----------------------------------------------------------■
 SparkType = 0 // AUTO
 MagicCircuitMax = 20000 // 20000
-CircuitSpark = 0
+CircuitSpark = 1
 ReverseBeat = 1
 
 AttackRatio_BloodHeat = 1.0  // 状態に対する係数

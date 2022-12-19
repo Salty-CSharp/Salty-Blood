@@ -3,7 +3,7 @@ ProjectName=p_arc_0
 [DataFile]
 FileNum= 2
 File00 =p_arc.HA6
-File01 =p_arc_9.HA6
+File01 =p_arc_0.HA6
 [BmpcutFile]
 FileNum= 1
 File00=p_arc.cg
