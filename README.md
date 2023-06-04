@@ -20,7 +20,7 @@ Rename 0002.p back
 
 ## FAQ
 
-- If you need help with anything that isn't answered here, contact Skeleton#6953 on discord.
+- If you need help with anything that is not answered here, contact Skeleton#6953 on discord.
 
 ### For Users:
 

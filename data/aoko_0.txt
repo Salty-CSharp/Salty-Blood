@@ -3,30 +3,12 @@ ProjectName=aoko_0
 
 [DataFile]
 FileNum= 4
-File00=b_aoko.HA6
-File01=b_aoko_r.HA6
-File02=b_aoko.HA6
-File03=b_aoko_0_r.HA6
+File00=aoko.HA6
+File01=aoko_r.HA6
+File02=aoko_0.HA6
+File03=aoko_0_r.HA6
 [BmpcutFile]
 FileNum= 1
 File00=aoko.CG
 [PAniFile]
 FileNum= 0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
