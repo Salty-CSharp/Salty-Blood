@@ -1,5 +1,7 @@
 //  command   cancel ani guage tobi check  
 
+17      623C 10000101 00000001  150   0    0 0 0
+
 END
 
 
