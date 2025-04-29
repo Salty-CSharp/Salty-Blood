@@ -8,18 +8,18 @@ https://discord.gg/83HmUsXkc6
 ## Installation
 
 
-
 **Please download from the prerequisite MediaFire link.**
 
-## https://www.mediafire.com/file/q1kikm77tliui9e/SaltyBLOOD.rar/file
+### https://www.mediafire.com/file/q1kikm77tliui9e/SaltyBLOOD.rar/file
+
+## Updating
 
 Download the .zip file from the green Code button on the github page and extract using a program like 7-zip.  
-Move the data folder into the MBAACC installation such that the data folder is in the same folder as MBAA.exe.  
-Rename or (strongly discouraged!) remove 0002.p and 0003.p so that the game reads the modded content instead.
+Move the data folder into the MBAACC installation such that the data folder is in the same folder as MBAA.exe.
 
 ## FAQ
 
-- If you need help with anything that is not answered here, contact Skeleton#6953 on discord.
+- If you need help with anything that is not answered here, contact hnac, or s_alty on discord.
 
 ### For Users:
 
