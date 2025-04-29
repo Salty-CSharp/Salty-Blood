@@ -1,0 +1,14 @@
+[System]
+ProjectName=touma_0
+[DataFile]
+FileNum= 4
+File00=touma.HA6
+File01=touma_r.HA6
+File02=touma_0.HA6
+File03=touma_0_r.HA6
+[BmpcutFile]
+FileNum= 1
+File00=touma.CG
+[PAniFile]
+FileNum= 1
+File00=touma.PAT

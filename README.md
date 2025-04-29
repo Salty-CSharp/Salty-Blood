@@ -7,16 +7,15 @@ https://discord.gg/83HmUsXkc6
 
 ## Installation
 
-**It is recommended to have a seperate duplicate version of your Melty Blood folder.**
+
+
+**Please download from the prerequisite MediaFire link.**
+
+## https://www.mediafire.com/file/q1kikm77tliui9e/SaltyBLOOD.rar/file
 
 Download the .zip file from the green Code button on the github page and extract using a program like 7-zip.  
 Move the data folder into the MBAACC installation such that the data folder is in the same folder as MBAA.exe.  
 Rename or (strongly discouraged!) remove 0002.p and 0003.p so that the game reads the modded content instead.
-
-## Uninstallation
-
-Rename 0002.p back  
-**OPTIONAL:** Delete data/ if you want to free up the space. This is not necessary, as renaming 0002.p back will cause the game to ignore it.
 
 ## FAQ
 

@@ -1,0 +1,14 @@
+[System]
+ProjectName=accel_0
+[DataFile]
+FileNum= 4
+File00=accel.HA6
+File01=accel_r.HA6
+File02=accel_0.HA6
+File03=accel_0_r.HA6
+[BmpcutFile]
+FileNum= 1
+File00=accel.CG
+[PAniFile]
+FileNum= 1
+File00=accel.PAT

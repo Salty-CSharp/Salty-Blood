@@ -1,0 +1,132 @@
+NEW
+
+C-NANAYA&SHIKI
+C-TOUMA
+C/H/F-ACCELERATOR
+
+FARC
+5[C] startup decreased, changed to overhead, hitstun increased
+2B goes further
+j.6C hitbox extended upwards
+236[A] otg relaunches, scaling fixed
+236[B] otg relaunches, scaling fixed
+command grab recommanded from 623C to 63214C
+623C reverted 
+scaling on 22A increased
+214A jump cancellable on hit, recovery reduced
+214B~A recovery reduced
+214B~C hitstun increased, recovery reduced
+j.421X recovery reduced
+
+FKOHA
+4B no longer pushes back on hit
+2B startup decreased, hitbox increased
+added back j.2B
+214A startup decreased, duration increased, knockdown
+214B startup increase, duration decrease, combo on hit
+j.236A now has a hitbox
+
+CAOKO
+reverted 624A
+421A now redirectable infinitely
+421C has a hitbox while travelling
+decreased recovery on throw
+
+FAOKO
+2B moves forward
+623A less startup, more active, recovery reduced, ex cancellable
+j.236A/B active frames reduced
+air throw no longer stalls in air
+actionable after air throw
+
+HAOKO
+gave her a maximum of 2 dash cancels
+made 214B laser not hit in blockstun
+actionable after j.214X
+divekick on j.2C
+
+CSION
+gave her a 66C like in uni2
+increased gun size hitbox
+fixed rebeat instant kill interfering with bullets
+
+FSION
+22A decreased startup, backdash removed
+623A first two hits are jumpcancellable
+2C rebeatable and special cancel
+j.623B that groundbounces
+
+HSION
+2C startup decreased, active frames increased, distance traveled increased
+throw recovery decreased on connect, damage increased
+6C is normal/sepcial cancellable, starts up faster
+added divekick on j.2B
+6B starts up faster, spikes on hit, no longer an overhead without charge
+236A now bounces off the backwall and forward, then bounces back once more
+236C now bounces off the walls repeatedly, hitting multiple times
+removed rebeat penalty on 421A
+added 3 more frames of startup to 421B, dash is now optional, hold down B to dash
+
+
+CAKI
+22X is now actionable post pit-set
+22X! recovery shortened, now sends downward, actionable out of the air
+j.B hitbox size matches graphic
+j.2C hitbox size increased (vertically), rebeatable and special cancellable
+throw fixed, increased damage
+
+HAKI
+5A range increased
+2[C] hurtbox decreased, hitbox size increased, recovery decreased, damage increased
+j.2C hitbox size increased, now hits overhead
+
+CMIYA
+walkspeed increased
+backdash speed increased, invul increased
+6C scaling decreased
+214A reverted, command grab recommanded to 421A
+214A has a max of 1 dash cancel during recovery
+236A recovery reverted
+236A~6A startup decreased, charged hits overhead and lower startup, more hitstun on wallbounce
+236A~6C normal/special cancellable on hit
+j.22A now knocks down
+j.22C now groundbounces
+
+FPCL
+airthrow is now global, landing recovery doubled
+can spawn a platform with 624D, lasts 10 seconds after spawning
+max of 2 on screen
+
+CARC
+22D Moveset still in progress, all inspiration credit goes to grace (@yourdailygrace)
+5A scaling increased
+j.624A/B now groundbounces on air hit, launches on ground
+
+FWLEN
+clone dash on 6+AB, regular dash on 66
+throw recovery reduced
+5[B] hitbox extended
+2B hitbox extended
+
+CKOHAMECH
+command dashes are able to be acted out of, goes faster
+2[C] has a taller hitbox
+214C has a confirm hitbox
+421A is now ported exactly from cmech apart from [2] functionality
+421C ported exactly from cmech
+actionable after air assist call animation
+landing recovery on air assist reduced to 4f
+421A assist call has less duration
+command grab  hitbox extended
+command grab untech time increased when mech is unavailable
+
+FMAIDS
+koha lead can now make hisui airdash forward (236C~6D)
+maids can now fake swap with 22D (real swap is 22[D])
+
+HKOHAMECH
+214A bigger hitbox, no longer whiffs crouchers, more untech
+214B increased hitbox size
+214C increased hitbox size, now spawns 4 mechs, more untech, recovers quicker
+air command dashes added
+battou followup hitbox size increase, active duration increased special cancellable

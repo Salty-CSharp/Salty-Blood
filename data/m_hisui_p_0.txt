@@ -2,11 +2,9 @@
 ProjectName=m_hisui_p_0
 
 [DataFile]
-FileNum= 4
-File00=m_hisui_p.HA6
-File01=m_hisui_p_r.HA6
-File02=m_hisui_p_0.HA6
-File03=m_hisui_p_0_r.HA6
+FileNum= 2
+File00=m_hisui_p_r.HA6
+File01=m_hisui_p_0_r.HA6
 
 [BmpcutFile]
 FileNum= 1
