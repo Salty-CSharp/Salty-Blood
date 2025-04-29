@@ -1,0 +1,74 @@
+// 000 - 249 まで、拡張子は入れないように // 
+ // 
+[SeList] // 
+// 000 = accelerator/accelerator (1) // 
+001 = accelerator/accelerator (2) // じゃんじゃじゃーん
+002 = accelerator/accelerator (3) // にゃっにゃっにゃ
+
+003 = accelerator/accelerator (4) // ふぃー
+004 = accelerator/accelerator (5) // にゃにゃにゃ？体は
+005 = accelerator/accelerator (6) // おまえもネコ耳になれ
+006 = accelerator/accelerator (7) // 昼飯はにゃかう
+
+007 = accelerator/accelerator (8) // ぶらっきゅあ
+008 = accelerator/accelerator (9) // ごぺ
+009 = accelerator/accelerator (10) // ひでぶ
+010 = accelerator/accelerator (11) // ゆ、ゆるぅ
+
+
+013 = accelerator/accelerator (12) // にゃ　A
+014 = accelerator/accelerator (13) // にゃにゃ　B
+015 = accelerator/accelerator (14) // にゃにゃにゃ　2B
+016 = accelerator/accelerator (15) // ぶっころす　投げ
+017 = accelerator/accelerator (16) // おっぷっぱ　ビーム
+018 = accelerator/accelerator (17) // ビーム
+019 = accelerator/accelerator (18)
+
+020 = accelerator/accelerator (19) // しゃあー
+021 = accelerator/accelerator (20) // んーきぬっか
+022 = accelerator/accelerator (21) // んーほれ
+023 = accelerator/accelerator (22) // にゃかんぞくみなごろしにゃ
+024 = accelerator/accelerator (23) // いでよ、わがけんぞくたちー
+
+025 = accelerator/accelerator (24) //
+026 = accelerator/accelerator (25) //
+027 = accelerator/accelerator (26) //
+028 = accelerator/accelerator (27) //
+029 = accelerator/accelerator (28) //
+030 = accelerator/accelerator (29) // ★
+031 = accelerator/accelerator (30) // ★
+032 = accelerator/accelerator (31) // ★
+033 = accelerator/accelerator (32) // ★
+034 = accelerator/accelerator (33) // ★
+035 = accelerator/accelerator (34) // ★
+036 = accelerator/accelerator (35) // ★
+
+037 = accelerator/accelerator (36) //
+038 = accelerator/accelerator (37) //
+039 = accelerator/accelerator (38) //
+
+040 = accelerator/accelerator (39) // こんばんはー　ワープ Neco_B0AA25
+041 = accelerator/accelerator (40) // 後ろだよあけちくん
+042 = accelerator/accelerator (41) // ふえるふえる
+043 = accelerator/accelerator (42) // びびび　623
+044 = accelerator/accelerator (43) // わかがえりー　623
+045 = accelerator/accelerator (44) // ごちすめ
+046 = accelerator/accelerator (45) // わかがえりー　623EX
+047 = accelerator/accelerator (46) // ふっ　さけ
+048 = accelerator/accelerator (47) // あたらないにゃー　さけ
+049 = accelerator/accelerator (48) // んー無駄無駄　ガード
+050 = accelerator/accelerator (49) // 新聞おことわり　ガード
+051 = accelerator/accelerator (50) // んーわかいわかい　受身
+052 = accelerator/accelerator (51) // 見える！　シールド　37
+053 = accelerator/accelerator (52) // てんぺらー 屈シールド
+054 = accelerator/accelerator (53) // 今復讐のとき　シールド成立
+055 = accelerator/accelerator (54) // サマージャンボ！？　２
+056 = accelerator/accelerator (55) // はじめますよ 40＠
+057 = accelerator/accelerator (56) // はじめますよ！？ 40＠
+058 = accelerator/accelerator (57) // 本気にさせたにゃ 41＠
+059 = accelerator/accelerator (58) //
+
+060 = accelerator/accelerator (59) // にゅいーん　空中ダッシュ
+061 = accelerator/accelerator (60) // どりどり
+062 = accelerator/accelerator (61) // ゴーッド
+063 = accelerator/accelerator (62)

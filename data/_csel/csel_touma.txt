@@ -1,0 +1,10 @@
+[System]
+ProjectName=csel_touma
+[DataFile]
+FileNum= 1
+File00=csel_touma.HA6
+[BmpcutFile]
+FileNum= 1
+File00=csel_touma.cg
+[PAniFile]
+FileNum= 0

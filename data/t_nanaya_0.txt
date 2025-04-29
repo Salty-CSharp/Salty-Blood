@@ -1,0 +1,16 @@
+[System]
+ProjectName=t_nanaya_0
+
+[DataFile]
+FileNum= 4
+File00=t_nanaya.HA6
+File01=t_nanaya_r.HA6
+File02=t_nanaya_0.HA6
+File03=t_nanaya_0_r.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=nanaya.CG
+
+[PAniFile]
+FileNum= 0

@@ -8,7 +8,7 @@ File02=neco_p_0.HA6
 File03=neco_p_0_r.HA6
 [BmpcutFile]
 FileNum= 1
-File00=neco.CG
+File00=neco_p.CG
 [PAniFile]
 FileNum= 1
-File00=neco.PAT
+File00=neco_p.PAT

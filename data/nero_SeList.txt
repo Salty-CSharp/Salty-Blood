@@ -79,6 +79,7 @@
 095 = nero95 // ★
 096 = nero96 // ★
 098 = nero98 // ★
+097 = nero99 // boss
 099 = Nero_B0AA057 // KO
 
 200 = Nero_B0AA011a // タイムアップ１
