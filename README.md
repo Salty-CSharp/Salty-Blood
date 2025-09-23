@@ -8,7 +8,7 @@ https://discord.gg/83HmUsXkc6
 ## Installation
 
 
-**Please download from the prerequisite MediaFire link.**
+### **!! Please download from the prerequisite MediaFire link. !!**
 
 ### https://www.mediafire.com/file/q1kikm77tliui9e/SaltyBLOOD.rar/file
 
