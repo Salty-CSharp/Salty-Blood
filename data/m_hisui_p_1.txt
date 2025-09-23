@@ -8,7 +8,7 @@ File02=m_hisui_p_1.HA6
 File03=m_hisui_p_1_r.HA6
 [BmpcutFile]
 FileNum= 1
-File00=m_hisui_p.CG
+File00=m_hisui.CG
 [PAniFile]
 FileNum= 1
 File00=m_hisui.pat
