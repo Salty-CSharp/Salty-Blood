@@ -1,132 +1,169 @@
-NEW
+# Changelog
 
-C-NANAYA&SHIKI
-C-TOUMA
-C/H/F-ACCELERATOR
+## C-Arc
+- j.2b is cancellable in the air  
+- 5a now has 1000% subtractive scaling  
+- airthrow changed  
+- 2b range increased  
+- 5c normal cancellable  
+- new 623[b]  
 
-FARC
-5[C] startup decreased, changed to overhead, hitstun increased
-2B goes further
-j.6C hitbox extended upwards
-236[A] otg relaunches, scaling fixed
-236[B] otg relaunches, scaling fixed
-command grab recommanded from 623C to 63214C
-623C reverted 
-scaling on 22A increased
-214A jump cancellable on hit, recovery reduced
-214B~A recovery reduced
-214B~C hitstun increased, recovery reduced
-j.421X recovery reduced
+## C-Ciel
+- now has a spindash on 456B  
 
-FKOHA
-4B no longer pushes back on hit
-2B startup decreased, hitbox increased
-added back j.2B
-214A startup decreased, duration increased, knockdown
-214B startup increase, duration decrease, combo on hit
-j.236A now has a hitbox
+## C-Len
+- j.2C now actionable on whiff  
+- j.b hitbox now follows the ball  
+- j.b hits twice  
+- j.2c no longer goes away when she touches the ground  
+- new 22X  
 
-CAOKO
-reverted 624A
-421A now redirectable infinitely
-421C has a hitbox while travelling
-decreased recovery on throw
+## C-Miyako
+- backdash speed increased  
+- dash speed increased  
+- now has slide head on 22D  
+- now has potemkin buster on 421A  
 
-FAOKO
-2B moves forward
-623A less startup, more active, recovery reduced, ex cancellable
-j.236A/B active frames reduced
-air throw no longer stalls in air
-actionable after air throw
+## C-Nero
+- can now combo off of 214A  
 
-HAOKO
-gave her a maximum of 2 dash cancels
-made 214B laser not hit in blockstun
-actionable after j.214X
-divekick on j.2C
+## C-Roa
+- ground orbs hitbox fix  
+- new j.421X (acts as an A orb)  
 
-CSION
-gave her a 66C like in uni2
-increased gun size hitbox
-fixed rebeat instant kill interfering with bullets
+## C-Ryougi
+- rebeats fixed  
+- 5C(1) hitbox decreased, hurtbox increased  
+- 5C(2) recovery reduced  
+- 214X hurtboxes adjusted to properly fit the anim  
+- 214C reworked  
+- 214C startup decreased  
+- airthrow adjusted  
+- 236B recovery reduced  
+- throw speed increased  
 
-FSION
-22A decreased startup, backdash removed
-623A first two hits are jumpcancellable
-2C rebeatable and special cancel
-j.623B that groundbounces
+## C-Ries
+- 214b guardcrushes  
+- 623b now ex cancellable  
 
-HSION
-2C startup decreased, active frames increased, distance traveled increased
-throw recovery decreased on connect, damage increased
-6C is normal/sepcial cancellable, starts up faster
-added divekick on j.2B
-6B starts up faster, spikes on hit, no longer an overhead without charge
-236A now bounces off the backwall and forward, then bounces back once more
-236C now bounces off the walls repeatedly, hitting multiple times
-removed rebeat penalty on 421A
-added 3 more frames of startup to 421B, dash is now optional, hold down B to dash
+## C-Satsuki
+- 2c startup increased  
+- 2[c] startup increased  
+- 2[c] now throws a projectile  
+- 2[c] ex cancellable  
+- 236b startup decreased  
+- 236b recovery decreased  
+- 236b now hits low  
+- 236c now hits airborne opponents  
+- 236c now techable knockdown  
+- 236c damage increased  
+- 236c range increased  
+- 214A/B now has a hitbox when she swings her arm  
+- 214c untech increased  
+- 214c now spawns multiple explosions  
+
+## C-Wara
+- j.236A reverted  
+- flight changed to j.623C  
+- 5[c] hitstun increased  
+- 6[c] hitstun increased
+- 2b ghost hurtbox removed  
+- new 22C
+
+## H-Wara
+- AT is now a HKD
+- 5a6a hitstun increased
+- 5a6aa hitstun increased
+- new 2[C]
+- now has 6[C]
+- increased hitstun on 6[C]
+- new 421X, a counter series that buffs his kattos with extra hits if landed
+- new 214X, summons a copy of wara to do his last preformed ground special (retains buffed kattos) (does not copy EX specials)
 
 
-CAKI
-22X is now actionable post pit-set
-22X! recovery shortened, now sends downward, actionable out of the air
-j.B hitbox size matches graphic
-j.2C hitbox size increased (vertically), rebeatable and special cancellable
-throw fixed, increased damage
+## C-Warc
+- j.2c can be steered midair  
+- j.2c~8 now has a big slash with lots of untech  
+- 6[c] is now low invul  
+- 6[c] is now +2  
+- throw is no longer techable
+- throw launches higher
+- throw recovery increased
+- 236A jump cancellable hitbox extended, startup decrease, recovery decrease
+- 236A is now chargeable
+- j.22A hitstun increase
+- j.22B hitbox increased downwards
+- j.22C hitbox now hits fullscreen
+- j.22C damage reduced, hitstun reduced to 1, startup decrease
+- j.22C red damage increased, actionable after hitbox
 
-HAKI
-5A range increased
-2[C] hurtbox decreased, hitbox size increased, recovery decreased, damage increased
-j.2C hitbox size increased, now hits overhead
+## F-Aoko
+- bluefire now flashbangs the screen  
+- now has xrd ky grinders (236A and 421X~421X both activate it)  
+- new 421[a]  
 
-CMIYA
-walkspeed increased
-backdash speed increased, invul increased
-6C scaling decreased
-214A reverted, command grab recommanded to 421A
-214A has a max of 1 dash cancel during recovery
-236A recovery reverted
-236A~6A startup decreased, charged hits overhead and lower startup, more hitstun on wallbounce
-236A~6C normal/special cancellable on hit
-j.22A now knocks down
-j.22C now groundbounces
+## F-Kohamech
+- 214B now does a run before the slash  
+- increased recovery of 214A  
+- **NEW** 22D install, Control mech via the D button
+- Hold D to activate, Let go of D to deactivate
+- 6[D] is drill
+- 4[D] is whip
+- 2[D] is lightning
+- 8[D] is shockball
+>more moves coming probably
 
-FPCL
-airthrow is now global, landing recovery doubled
-can spawn a platform with 624D, lasts 10 seconds after spawning
-max of 2 on screen
+## Touma
+-  Fixed 22C being jailable into  
 
-CARC
-22D Moveset still in progress, all inspiration credit goes to grace (@yourdailygrace)
-5A scaling increased
-j.624A/B now groundbounces on air hit, launches on ground
+## F-Ryougi
+- 624A now does damage  
+- 624A 1 frame startup increase (gatekeeping why)  
+- 624B damage lowered  
+- can no longer dash after 624B, only normal and special cancel  
 
-FWLEN
-clone dash on 6+AB, regular dash on 66
-throw recovery reduced
-5[B] hitbox extended
-2B hitbox extended
+## F-Vakiha
+- j.236c now sends her downward  
+- 623a now wallbounces again  
+- DP series REMOVED  
 
-CKOHAMECH
-command dashes are able to be acted out of, goes faster
-2[C] has a taller hitbox
-214C has a confirm hitbox
-421A is now ported exactly from cmech apart from [2] functionality
-421C ported exactly from cmech
-actionable after air assist call animation
-landing recovery on air assist reduced to 4f
-421A assist call has less duration
-command grab  hitbox extended
-command grab untech time increased when mech is unavailable
+## F-Wara
+- backdash speed increased  
+- normals no longer frame 2, but all speed up by a couple frames  
+- hyper viper beam now in 624C/j.624C  
+- hyper viper beam now costs 150 meter  
 
-FMAIDS
-koha lead can now make hisui airdash forward (236C~6D)
-maids can now fake swap with 22D (real swap is 22[D])
+## H-Aoko
+- 5A now hits low  
+- 5A hitbox extended vertically  
 
-HKOHAMECH
-214A bigger hitbox, no longer whiffs crouchers, more untech
-214B increased hitbox size
-214C increased hitbox size, now spawns 4 mechs, more untech, recovers quicker
-air command dashes added
-battou followup hitbox size increase, active duration increased special cancellable
+## H-Arc
+- j.421C is now different from j.421B  
+- 236A/B swapped fix  
+- now has 5A6AA (immensely buffed, otg relaunches)  
+- how has the proper j.2C (immensely buffed)  
+- rings no longer slow on hit  
+- health DRASTICALLY lowered (used to be better than akiha LOL)  
+
+## H-Kouma
+- now has gunflame  
+- now has sidewinder (press the button again within a 2 frame window on a specific frame)  
+
+## H-Len
+- j.2c no longer drags in on backwards hit  
+- j.c no longer drags in on backwards hit  
+- 214a now spawns george the 13th  
+- hoverdash on 6A+B  
+
+## H-Nana
+- new B dp followup instead of just omega plus frames  
+
+## H-Wlen
+- run speed increase (significant)  
+- A cmd grab advantage increased  
+- 5b/5[b] disjoint increased  
+- now has cwlen 236[b]  
+
+## C-Kouma
+- 214A~2 damage decreased  
+- can now let go of the opponent during 214C if the button is not held  
