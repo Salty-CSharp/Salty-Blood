@@ -165,8 +165,8 @@
 - health DRASTICALLY lowered (used to be better than akiha LOL)  
 
 ## H-Kouma
-- now has gunflame  
-- now has sidewinder (press the button again within a 2 frame window on a specific frame)  
+- now has gunflame on 236D
+- now has sidewinder on j.22C (press the button again within a 2 frame window on a specific frame)  
 
 ## H-Len
 - j.2c no longer drags in on backwards hit  
