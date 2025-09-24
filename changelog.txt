@@ -1,4 +1,23 @@
+# Hotfixes
+
+# F-Mech 236236C REMOVED
+# F-Mech 623C fixed
+# F-Ciel 236C fixed
+# F-Ciel 236[A] startup increase
+# F-Ciel j.214A close hitbox fixed
+# C-Warc hitstun 236A increased further
+# F-Wara no longer has frame 2 normals, but they are sped up by a lot
+
 # Changelog
+
+## F-Wara (by Grace)
+- Increased airdash count to 2
+- NEW 63214D, rainbow haze (not functional yet)
+- NEW j.236B+C, metered dash
+- NEW j.624B+C, backwards hop attack
+- NEW j.426B+C, forwards hop attack
+- NEW forcebreak 421D
+- 236 and 236C can be charged
 
 ## C-Arc
 - j.2b is cancellable in the air  
