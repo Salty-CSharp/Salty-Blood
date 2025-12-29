@@ -1,72 +1,72 @@
 [System]
-FloatLimit = 0.008 // ƒqƒbƒg–ˆ‚ÉŒ¸­‚·‚é•‚‚«ŒW”@0.01¨0.008
-FloatLimitHit = 0 // ‰½ƒqƒbƒg–Ú‚©‚ç§ŒÀ‚ð‚©‚¯‚é‚©i¡ŒãŽg‚í‚È‚¢j
+FloatLimit = 0.008 // ï¿½qï¿½bï¿½gï¿½ï¿½ï¿½ÉŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é•‚ï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½@0.01ï¿½ï¿½0.008
+FloatLimitHit = 0 // ï¿½ï¿½ï¿½qï¿½bï¿½gï¿½Ú‚ï¿½ï¿½ç§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚©ï¿½iï¿½ï¿½ï¿½ï¿½gï¿½ï¿½È‚ï¿½ï¿½j
 
-// Žó‚¯gŽžŠÔ•â³’lÝ’è
-UkemiTime_StartVal = 0.072 // §ŒÀŠJŽn’lA’l‚Í•‚‚«•â³‚ðŽg—p(default 0.0 (0.20)
-UkemiTime_MinusVal = 19 // Žó‚¯gŠJŽnŽžŠÔ‚ÌÅ‘åŒ¸ŽZ’l@ª1.0‚ÉŒü‚©‚¤
-UkemiTime_LimitVal = 4   // Žó‚¯gŠJŽnŽžŠÔ‚ÌŒÀŠE’l
+// ï¿½ó‚¯gï¿½ï¿½ï¿½Ô•â³ï¿½lï¿½Ý’ï¿½
+UkemiTime_StartVal = 0.072 // ï¿½ï¿½ï¿½ï¿½ï¿½Jï¿½nï¿½lï¿½Aï¿½lï¿½Í•ï¿½ï¿½ï¿½ï¿½â³ï¿½ï¿½ï¿½gï¿½p(default 0.0 (0.20)
+UkemiTime_MinusVal = 19 // ï¿½ó‚¯gï¿½Jï¿½nï¿½ï¿½ï¿½Ô‚ÌÅ‘åŒ¸ï¿½Zï¿½lï¿½@ï¿½ï¿½1.0ï¿½ÉŒï¿½ï¿½ï¿½ï¿½ï¿½
+UkemiTime_LimitVal = 4   // ï¿½ó‚¯gï¿½Jï¿½nï¿½ï¿½ï¿½Ô‚ÌŒï¿½ï¿½Eï¿½l
 
-// ‚â‚ç‚ê‘¤ƒQ[ƒW‘‰Á’lÝ’è
-MC_PlusHoseiStart = 0.16 // •â³ŠJŽn’lA’l‚Í•‚‚«•â³‚ðŽg—p(default 0.0
-MC_PlusHoseiMax = 40.0 // •â³ŒW”Å‚’l 1.0‚æ‚è‘å‚«‚¢’l‚Å‚ ‚é‚±‚Æ@•‚‚«•â³1.0¨70”{
+// ï¿½ï¿½ï¿½ê‘¤ï¿½Qï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½lï¿½Ý’ï¿½
+MC_PlusHoseiStart = 0.16 // ï¿½â³ï¿½Jï¿½nï¿½lï¿½Aï¿½lï¿½Í•ï¿½ï¿½ï¿½ï¿½â³ï¿½ï¿½ï¿½gï¿½p(default 0.0
+MC_PlusHoseiMax = 40.0 // ï¿½â³ï¿½Wï¿½ï¿½ï¿½Åï¿½ï¿½l 1.0ï¿½ï¿½ï¿½å‚«ï¿½ï¿½ï¿½lï¿½Å‚ï¿½ï¿½é‚±ï¿½Æ@ï¿½ï¿½ï¿½ï¿½ï¿½â³1.0ï¿½ï¿½70ï¿½{
 
-// ƒQ[ƒW‚½‚ßÝ’è
-MC_ChargeCntPlus = 100 // 30 –ˆƒtƒŒ[ƒ€‰ÁŽZ‚³‚êA100‚É‚È‚é‚Æ MC_ChargePlus ‚ª +1 ‚³‚ê‚é
-MC_ChargePlus = 50 // 100 –ˆƒtƒŒ[ƒ€‘‰Á’l
-MC_ChargePlusMax = 999 // Å‘å‘‰Á’l
+// ï¿½Qï¿½[ï¿½Wï¿½ï¿½ï¿½ßÝ’ï¿½
+MC_ChargeCntPlus = 100 // 30 ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½ï¿½A100ï¿½É‚È‚ï¿½ï¿½ MC_ChargePlus ï¿½ï¿½ +1 ï¿½ï¿½ï¿½ï¿½ï¿½
+MC_ChargePlus = 50 // 100 ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½l
+MC_ChargePlusMax = 999 // ï¿½Å‘å‘ï¿½ï¿½ï¿½l
 
-// ’è‹`”Ô†‚Í000`099@ Type 6  No 24  Param 
-Value_000 = -50000 // ƒK[ƒh–hŒä—ÍƒŠƒZƒbƒg
-Value_001 = 0 // ƒnƒCƒWƒƒƒ“ƒv 1000
+// ï¿½ï¿½`ï¿½Ôï¿½ï¿½ï¿½000ï¿½`099ï¿½@ Type 6  No 24  Param 
+Value_000 = -50000 // ï¿½Kï¿½[ï¿½hï¿½hï¿½ï¿½Íƒï¿½ï¿½Zï¿½bï¿½g
+Value_001 = 0 // ï¿½nï¿½Cï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½v 1000
 
-Value_005 = 10000 // —§ƒV[ƒ‹ƒh
-Value_006 = 10000 // ‹üƒV[ƒ‹ƒh
-Value_007 = 10000 // ‹óƒV[ƒ‹ƒh
-Value_010 = 4000 // ’nã”ð‚¯
-Value_011 = 7500 // ‹ó’†”ð‚¯
+Value_005 = 10000 // ï¿½ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½h
+Value_006 = 10000 // ï¿½ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½h
+Value_007 = 10000 // ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½h
+Value_010 = 4000 // ï¿½nï¿½ï¿½ï¿½ï¿½ï¿½
+Value_011 = 7500 // ï¿½ó’†”ï¿½ï¿½ï¿½
 
-Value_015 = 0 // ƒoƒbƒNƒXƒeƒbƒv 1500
+Value_015 = 0 // ï¿½oï¿½bï¿½Nï¿½Xï¿½eï¿½bï¿½v 1500
 
-Value_020 = -50000 // ‹­§ŠJ•ú‚Å‚Ì‰ñ•œ
-Value_021 = -500 // ƒQ[ƒW—­‚ß‚Å‚Ì‰ñ•œi–¢Žg—pj
-Value_022 = -50000 // ’nãƒTƒLƒXƒp‚Å‚Ì‰ñ•œ
-Value_023 = -50000 // ‹ó’†ƒTƒLƒXƒp‚Å‚Ì‰ñ•œ
+Value_020 = -50000 // ï¿½ï¿½ï¿½ï¿½ï¿½Jï¿½ï¿½ï¿½Å‚Ì‰ï¿½
+Value_021 = -500 // ï¿½Qï¿½[ï¿½Wï¿½ï¿½ï¿½ß‚Å‚Ì‰ñ•œiï¿½ï¿½ï¿½gï¿½pï¿½j
+Value_022 = -50000 // ï¿½nï¿½ï¿½Tï¿½Lï¿½Xï¿½pï¿½Å‚Ì‰ï¿½
+Value_023 = -50000 // ï¿½ó’†ƒTï¿½Lï¿½Xï¿½pï¿½Å‚Ì‰ï¿½
 
-Value_025 = -5000 // “Š‚°‚Ê‚¯‚Å‚Ì‰ñ•œi–¢Žg—pj
+Value_025 = -5000 // ï¿½ï¿½ï¿½ï¿½ï¿½Ê‚ï¿½ï¿½Å‚Ì‰ñ•œiï¿½ï¿½ï¿½gï¿½pï¿½j
 
-Value_030 = -15000 // —§ƒV[ƒ‹ƒh¬Œ÷‚Å‚Ì‰ñ•œ -6000
-Value_031 = -15000 // ‹üƒV[ƒ‹ƒh¬Œ÷‚Å‚Ì‰ñ•œ -7000
-Value_032 = -5000 // ‹óƒV[ƒ‹ƒh¬Œ÷‚Å‚Ì‰ñ•œ Ž¸”sŽž‚ÉŒ¸‚ç‚È‚¢‚Ì‚Å-3000
+Value_030 = -15000 // ï¿½ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½Å‚Ì‰ï¿½ -6000
+Value_031 = -15000 // ï¿½ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½Å‚Ì‰ï¿½ -7000
+Value_032 = -5000 // ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½Å‚Ì‰ï¿½ ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ÉŒï¿½ï¿½ï¿½È‚ï¿½ï¿½Ì‚ï¿½-3000
 
-Value_035 = -50000 // “Š‚°‚Ê‚¯EƒK[ƒNƒ‰‚Å‚Ì‰ñ•œ(‘S‰õ‚É‚µ‚Æ‚­EƒK[ƒNƒ‰‚Ì‚ÍŽg‚í‚È‚­‚È‚é)
+Value_035 = -50000 // ï¿½ï¿½ï¿½ï¿½ï¿½Ê‚ï¿½ï¿½Eï¿½Kï¿½[ï¿½Nï¿½ï¿½ï¿½Å‚Ì‰ï¿½(ï¿½Sï¿½ï¿½ï¿½É‚ï¿½ï¿½Æ‚ï¿½ï¿½Eï¿½Kï¿½[ï¿½Nï¿½ï¿½ï¿½Ì‚ÍŽgï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½)
 
-Value_042 = -500 // ƒQ[ƒW—­‚ß‚Å‚Ì‰ñ•œ2F
-Value_043 = -333 // ƒQ[ƒW—­‚ß‚Å‚Ì‰ñ•œ3F
-Value_044 = -250 // ƒQ[ƒW—­‚ß‚Å‚Ì‰ñ•œ4F
+Value_042 = -500 // ï¿½Qï¿½[ï¿½Wï¿½ï¿½ï¿½ß‚Å‚Ì‰ï¿½2F
+Value_043 = -333 // ï¿½Qï¿½[ï¿½Wï¿½ï¿½ï¿½ß‚Å‚Ì‰ï¿½3F
+Value_044 = -250 // ï¿½Qï¿½[ï¿½Wï¿½ï¿½ï¿½ß‚Å‚Ì‰ï¿½4F
 
-// ƒK[ƒhƒQ[ƒW‚Í10000
+// ï¿½Kï¿½[ï¿½hï¿½Qï¿½[ï¿½Wï¿½ï¿½10000
 
-[Type_0] // CrescentMoonStyle ------------------------------------------------------œ
+[Type_0] // CrescentMoonStyle ------------------------------------------------------ï¿½ï¿½
 SparkType = 0 // HEAT & BLOOD
 MagicCircuitMax = 50000
 CircuitSpark = 1
 ReverseBeat = 1
 
-AttackRatio_BloodHeat = 2  // ó‘Ô‚É‘Î‚·‚éŒW”
+AttackRatio_BloodHeat = 2  // ï¿½ï¿½Ô‚É‘Î‚ï¿½ï¿½ï¿½Wï¿½ï¿½
 AttackRatio_Heat = 1.5
 AttackRatio_Max = 1.2
 DefenceRatio_BloodHeat = 2
 DefenceRatio_Heat = 0.7
 DefenceRatio_Max = 0.9
 
-MC_PlusVal = 2.84218 // ƒ}ƒWƒbƒNƒT[ƒLƒbƒgƒQ[ƒW‘‰Á—¦
-MC_GuardPlus = 1 // ƒK[ƒhŽž‚É‘‰Á‚·‚é‚©‚Ç‚¤‚©
+MC_PlusVal = 2.84218 // ï¿½}ï¿½Wï¿½bï¿½Nï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½Qï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+MC_GuardPlus = 1 // ï¿½Kï¿½[ï¿½hï¿½ï¿½ï¿½É‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚©ï¿½Ç‚ï¿½ï¿½ï¿½
 
-BloodHeat_HpPlus = -20 // BloodHeatŽžHP‰ñ•œ’l
-Heat_HpPlus = 12 // HeatŽžHP‰ñ•œ’l
+BloodHeat_HpPlus = -20 // BloodHeatï¿½ï¿½HPï¿½ñ•œ’l
+Heat_HpPlus = 12 // Heatï¿½ï¿½HPï¿½ñ•œ’l
 
-VSDamageVal = 0.98 // ƒ”ƒ@ƒCƒ^ƒ‹ƒ\[ƒXUŒ‚—ÍŒW”
+VSDamageVal = 0.98 // ï¿½ï¿½ï¿½@ï¿½Cï¿½^ï¿½ï¿½ï¿½\ï¿½[ï¿½Xï¿½Uï¿½ï¿½ï¿½ÍŒWï¿½ï¿½
 
 IsExGuard = 1
 IsExReduce = 0
@@ -75,25 +75,25 @@ IsReduce = 1
 ShieldType = 0
 ExShieldTime_Stand = 15 // 6
 ExShieldTime_Crouch = 15 // 6
-ExShieldTime_Air = 15 // 8 ‹ó’†
-ShieldKeepTime = 60 // 90 ƒV[ƒ‹ƒhÅ‘åŒp‘±ŽžŠÔ(EXŽžŠÔ‚Í•Ê
-ShieldCost = 20 // 1F‚ÅÁ”ï‚·‚éƒ}ƒWƒbƒNƒT[ƒLƒbƒg—Ê(EXŽž‚ÍŒ¸‚ç‚È‚¢)
+ExShieldTime_Air = 15 // 8 ï¿½ï¿½
+ShieldKeepTime = 60 // 90 ï¿½Vï¿½[ï¿½ï¿½ï¿½hï¿½Å‘ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(EXï¿½ï¿½ï¿½Ô‚Í•ï¿½
+ShieldCost = 20 // 1Fï¿½Åï¿½ï¿½ï‚·ï¿½ï¿½}ï¿½Wï¿½bï¿½Nï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½ï¿½(EXï¿½ï¿½ï¿½ÍŒï¿½ï¿½ï¿½È‚ï¿½)
 
-// ƒNƒŒƒZƒ“ƒg@ƒK[ƒhƒQ[ƒWŠÖŒW
-GG_MaxVal = 8000.0 // Å‘å’l
-GG_HealVal = 2.5 // ‰Šú‰ñ•œ’l
-GG_HealPlusVal = 0.02 // 1F–ˆ‚É‰ÁŽZ‚³‚ê‚é‰ñ•œ‰Á‘¬’l
-GG_StopVal = 420 // Œ¸­‚ª‚ ‚Á‚½‚Æ‚«‚É’âŽ~‚·‚éŽžŠÔ
-GG_RecoverVal = 180 // ƒNƒ‰ƒbƒVƒ…Žž‚É‰ñ•œ‚·‚é‚Ü‚Å‚ÌŽžŠÔ
+// ï¿½Nï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½gï¿½@ï¿½Kï¿½[ï¿½hï¿½Qï¿½[ï¿½Wï¿½ÖŒW
+GG_MaxVal = 8000.0 // ï¿½Å‘ï¿½l
+GG_HealVal = 2.5 // ï¿½ï¿½ï¿½ï¿½ï¿½ñ•œ’l
+GG_HealPlusVal = 0.02 // 1Fï¿½ï¿½ï¿½É‰ï¿½ï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ñ•œ‰ï¿½ï¿½ï¿½ï¿½l
+GG_StopVal = 420 // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½É’ï¿½~ï¿½ï¿½ï¿½éŽžï¿½ï¿½
+GG_RecoverVal = 180 // ï¿½Nï¿½ï¿½ï¿½bï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½É‰ñ•œ‚ï¿½ï¿½ï¿½Ü‚Å‚ÌŽï¿½ï¿½ï¿½
 
-GG_CorrectVal = 1.00 // ˜A‘±ƒK[ƒhŽž‚Ì•â³’li‚Qƒqƒbƒg–ÚˆÚs‚Íí‚É‚±‚Ì’lj
+GG_CorrectVal = 1.00 // ï¿½Aï¿½ï¿½ï¿½Kï¿½[ï¿½hï¿½ï¿½ï¿½Ì•â³ï¿½lï¿½iï¿½Qï¿½qï¿½bï¿½gï¿½ÚˆÚsï¿½Íï¿½É‚ï¿½ï¿½Ì’lï¿½j
 
-// ƒNƒŒƒZƒ“ƒg@ƒK[ƒh–hŒä—ÍiGuardQuality  0.0‚ª’Êí
-GQ_MaxVal = 2.00 // –hŒä’á‰º‚ÌŒÀŠE’l
-GQ_RecoverVal = 0.001 // 1F–ˆ‚Ì‰ñ•œ—Ê
-GQ_StopVal = 30 // •Ï‰»Žž‚Ì‰ñ•œ’âŽ~ƒtƒŒ[ƒ€
+// ï¿½Nï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½gï¿½@ï¿½Kï¿½[ï¿½hï¿½hï¿½ï¿½ÍiGuardQuality  0.0ï¿½ï¿½ï¿½Êï¿½
+GQ_MaxVal = 2.00 // ï¿½hï¿½ï¿½á‰ºï¿½ÌŒï¿½ï¿½Eï¿½l
+GQ_RecoverVal = 0.001 // 1Fï¿½ï¿½ï¿½Ì‰ñ•œ—ï¿½
+GQ_StopVal = 30 // ï¿½Ï‰ï¿½ï¿½ï¿½ï¿½Ì‰ñ•œ’ï¿½~ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½
 
-//ƒ_ƒ[ƒWEƒK[ƒhƒQ[ƒW•â³ ¦Ž©•ª‚Ì‹­“x‚È‚Ì‚Å’ˆÓ
+//ï¿½_ï¿½ï¿½ï¿½[ï¿½Wï¿½Eï¿½Kï¿½[ï¿½hï¿½Qï¿½[ï¿½Wï¿½â³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‹ï¿½ï¿½xï¿½È‚Ì‚Å’ï¿½ï¿½ï¿½
 DamageVal_Ground = 1.0
 DamageVal_Air = 0.88
 DamageVal_Crouch = 1.08
@@ -102,60 +102,60 @@ GuardVal_Air = 2.0
 GuardVal_Crouch = 1.5
 
 
-[Type_1] // FullMoonStyle ----------------------------------------------------------£
-SparkType = 1 // ‚½‚ß & BLOOD
+[Type_1] // FullMoonStyle ----------------------------------------------------------ï¿½ï¿½
+SparkType = 1 // ï¿½ï¿½ï¿½ï¿½ & BLOOD
 MagicCircuitMax = 50000
 CircuitSpark = 1
 ReverseBeat = 1
 
-AttackRatio_BloodHeat = 1.0  // ó‘Ô‚É‘Î‚·‚éŒW”
+AttackRatio_BloodHeat = 1.0  // ï¿½ï¿½Ô‚É‘Î‚ï¿½ï¿½ï¿½Wï¿½ï¿½
 AttackRatio_Heat = 1.0
 AttackRatio_Max = 1.0
 DefenceRatio_BloodHeat = 1.0
 DefenceRatio_Heat = 1.0
 DefenceRatio_Max = 1.0
 
-MC_PlusVal = 5.7341 // ƒ}ƒWƒbƒNƒT[ƒLƒbƒgƒQ[ƒW‘‰Á—¦
-MC_GuardPlus = 1 // ƒK[ƒhŽž‚É‘‰Á‚·‚é‚©‚Ç‚¤‚©
+MC_PlusVal = 5.7341 // ï¿½}ï¿½Wï¿½bï¿½Nï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½Qï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+MC_GuardPlus = 1 // ï¿½Kï¿½[ï¿½hï¿½ï¿½ï¿½É‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚©ï¿½Ç‚ï¿½ï¿½ï¿½
 
-BloodHeat_HpPlus = 0 // BloodHeatŽžHP‰ñ•œ’l
-Heat_HpPlus = 0 // HeatŽžHP‰ñ•œ’l
+BloodHeat_HpPlus = 0 // BloodHeatï¿½ï¿½HPï¿½ñ•œ’l
+Heat_HpPlus = 0 // Heatï¿½ï¿½HPï¿½ñ•œ’l
 
 
-VSDamageVal = 1.01 // ƒ”ƒ@ƒCƒ^ƒ‹ƒ\[ƒXUŒ‚—ÍŒW”
+VSDamageVal = 1.01 // ï¿½ï¿½ï¿½@ï¿½Cï¿½^ï¿½ï¿½ï¿½\ï¿½[ï¿½Xï¿½Uï¿½ï¿½ï¿½ÍŒWï¿½ï¿½
 
 IsExGuard = 1
 IsExReduce = 0
 IsReduce = 1
 
-ShieldType = 1 // EX‚È‚µAŽ‘±‚È‚µiEX‚Ì•”•ª‚ªŽÀƒV[ƒ‹ƒhŽžŠÔ‚É‚È‚é
+ShieldType = 1 // EXï¿½È‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½iEXï¿½Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½hï¿½ï¿½ï¿½Ô‚É‚È‚ï¿½
 ExShieldTime_Stand = 4 // 6
 ExShieldTime_Crouch = 4 // 6
 ExShieldTime_Air = 6 // 8
-ShieldKeepTime = 250000 // ƒV[ƒ‹ƒhÅ‘åŒp‘±ŽžŠÔ 45¨20
-ShieldCost = 100 // 1F‚ÅÁ”ï‚·‚éƒ}ƒWƒbƒNƒT[ƒLƒbƒg—Ê(EXŽž‚ÍŒ¸‚ç‚È‚¢)
+ShieldKeepTime = 250000 // ï¿½Vï¿½[ï¿½ï¿½ï¿½hï¿½Å‘ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 45ï¿½ï¿½20
+ShieldCost = 100 // 1Fï¿½Åï¿½ï¿½ï‚·ï¿½ï¿½}ï¿½Wï¿½bï¿½Nï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½ï¿½(EXï¿½ï¿½ï¿½ÍŒï¿½ï¿½ï¿½È‚ï¿½)
 
-// SparkType = 1 ‚¾‚¯
-// AdvancingVec‚ÍƒxƒNƒgƒ‹”­¶ƒtƒŒ[ƒ€
-// ‰‘¬“x‚ªAdvancingVecAŒ¸‘¬—Ê‚Í(AdvancingVec / AdvancingCount)
+// SparkType = 1 ï¿½ï¿½ï¿½ï¿½
+// AdvancingVecï¿½Íƒxï¿½Nï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½
+// ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½AdvancingVecï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ê‚ï¿½(AdvancingVec / AdvancingCount)
 AdvancingCount = 6 // 6
 AdvancingVec = 2000 // 2000
 
-// ƒtƒ‹ƒ€[ƒ“@ƒK[ƒhƒQ[ƒWŠÖŒW
-GG_MaxVal = 7000.0 // Å‘å’l
-GG_HealVal = 3.5 // ‰Šú‰ñ•œ’l
-GG_HealPlusVal = 0.03 // 1F–ˆ‚É‰ÁŽZ‚³‚ê‚é‰ñ•œ‰Á‘¬’l
-GG_StopVal = 420 // Œ¸­‚ª‚ ‚Á‚½‚Æ‚«‚É’âŽ~‚·‚éŽžŠÔ
-GG_RecoverVal = 180 // ƒNƒ‰ƒbƒVƒ…Žž‚É‰ñ•œ‚·‚é‚Ü‚Å‚ÌŽžŠÔ
+// ï¿½tï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½@ï¿½Kï¿½[ï¿½hï¿½Qï¿½[ï¿½Wï¿½ÖŒW
+GG_MaxVal = 7000.0 // ï¿½Å‘ï¿½l
+GG_HealVal = 3.5 // ï¿½ï¿½ï¿½ï¿½ï¿½ñ•œ’l
+GG_HealPlusVal = 0.03 // 1Fï¿½ï¿½ï¿½É‰ï¿½ï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ñ•œ‰ï¿½ï¿½ï¿½ï¿½l
+GG_StopVal = 420 // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½É’ï¿½~ï¿½ï¿½ï¿½éŽžï¿½ï¿½
+GG_RecoverVal = 180 // ï¿½Nï¿½ï¿½ï¿½bï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½É‰ñ•œ‚ï¿½ï¿½ï¿½Ü‚Å‚ÌŽï¿½ï¿½ï¿½
 
-GG_CorrectVal = 0.80 // ˜A‘±ƒK[ƒhŽž‚Ì•â³’li‚Qƒqƒbƒg–ÚˆÚs‚Íí‚É‚±‚Ì’lj
+GG_CorrectVal = 0.80 // ï¿½Aï¿½ï¿½ï¿½Kï¿½[ï¿½hï¿½ï¿½ï¿½Ì•â³ï¿½lï¿½iï¿½Qï¿½qï¿½bï¿½gï¿½ÚˆÚsï¿½Íï¿½É‚ï¿½ï¿½Ì’lï¿½j
 
-// ƒtƒ‹ƒ€[ƒ“@ƒK[ƒh–hŒä—ÍiGuardQuality  0.0‚ª’Êí
-GQ_MaxVal = 1.70 // –hŒä’á‰º‚ÌŒÀŠE’l
-GQ_RecoverVal = 0.001 // 1F–ˆ‚Ì‰ñ•œ—Ê
-GQ_StopVal = 30 // •Ï‰»Žž‚Ì‰ñ•œ’âŽ~ƒtƒŒ[ƒ€
+// ï¿½tï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½@ï¿½Kï¿½[ï¿½hï¿½hï¿½ï¿½ÍiGuardQuality  0.0ï¿½ï¿½ï¿½Êï¿½
+GQ_MaxVal = 1.70 // ï¿½hï¿½ï¿½á‰ºï¿½ÌŒï¿½ï¿½Eï¿½l
+GQ_RecoverVal = 0.001 // 1Fï¿½ï¿½ï¿½Ì‰ñ•œ—ï¿½
+GQ_StopVal = 30 // ï¿½Ï‰ï¿½ï¿½ï¿½ï¿½Ì‰ñ•œ’ï¿½~ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½
 
-//ƒ_ƒ[ƒWEƒK[ƒhƒQ[ƒW•â³ ¦Ž©•ª‚Ì‹­“x‚È‚Ì‚Å’ˆÓ
+//ï¿½_ï¿½ï¿½ï¿½[ï¿½Wï¿½Eï¿½Kï¿½[ï¿½hï¿½Qï¿½[ï¿½Wï¿½â³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‹ï¿½ï¿½xï¿½È‚Ì‚Å’ï¿½ï¿½ï¿½
 DamageVal_Ground = 1.0
 DamageVal_Air = 0.88
 DamageVal_Crouch = 1.08
@@ -163,53 +163,53 @@ GuardVal_Ground = 1.0
 GuardVal_Air = 2.0
 GuardVal_Crouch = 1.5
 
-[Type_2] // HalfMoonStyle ----------------------------------------------------------¡
+[Type_2] // HalfMoonStyle ----------------------------------------------------------ï¿½ï¿½
 SparkType = 0 // AUTO
 MagicCircuitMax = 20000 // 20000
 CircuitSpark = 1
 ReverseBeat = 1
 
-AttackRatio_BloodHeat = 1.0  // ó‘Ô‚É‘Î‚·‚éŒW”
+AttackRatio_BloodHeat = 1.0  // ï¿½ï¿½Ô‚É‘Î‚ï¿½ï¿½ï¿½Wï¿½ï¿½
 AttackRatio_Heat = 1.0
 AttackRatio_Max = 1.0
 DefenceRatio_BloodHeat = 1.0
 DefenceRatio_Heat = 1.0
 DefenceRatio_Max = 1.0
 
-MC_PlusVal = 0.70 // ƒ}ƒWƒbƒNƒT[ƒLƒbƒgƒQ[ƒW‘‰Á—¦
-MC_GuardPlus = 1 // ƒK[ƒhŽž‚É‘‰Á‚·‚é‚©‚Ç‚¤‚©
+MC_PlusVal = 0.70 // ï¿½}ï¿½Wï¿½bï¿½Nï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½Qï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+MC_GuardPlus = 1 // ï¿½Kï¿½[ï¿½hï¿½ï¿½ï¿½É‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚©ï¿½Ç‚ï¿½ï¿½ï¿½
 
 IsExGuard = 1
 IsExReduce = 1
 IsReduce = 1
 
-BloodHeat_HpPlus = 20 // BloodHeatŽžHP‰ñ•œ’l
-Heat_HpPlus = 20 // HeatŽžHP‰ñ•œ’l
+BloodHeat_HpPlus = 20 // BloodHeatï¿½ï¿½HPï¿½ñ•œ’l
+Heat_HpPlus = 20 // Heatï¿½ï¿½HPï¿½ñ•œ’l
 
-VSDamageVal = 0.96 // ƒ”ƒ@ƒCƒ^ƒ‹ƒ\[ƒXUŒ‚—ÍŒW”
+VSDamageVal = 0.96 // ï¿½ï¿½ï¿½@ï¿½Cï¿½^ï¿½ï¿½ï¿½\ï¿½[ï¿½Xï¿½Uï¿½ï¿½ï¿½ÍŒWï¿½ï¿½
 
-ShieldType = 0 // EX‚È‚µAŽ‘±‚È‚µiEX‚Ì•”•ª‚ªŽÀƒV[ƒ‹ƒhŽžŠÔ‚É‚È‚é
+ShieldType = 0 // EXï¿½È‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½iEXï¿½Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½hï¿½ï¿½ï¿½Ô‚É‚È‚ï¿½
 ExShieldTime_Stand = 15 // 10
 ExShieldTime_Crouch = 15 // 10
-ExShieldTime_Air = 15 // 12 ‹ó’†
-ShieldKeepTime = 20 // ƒV[ƒ‹ƒhÅ‘åŒp‘±ŽžŠÔ
-ShieldCost = 1 // 1F‚ÅÁ”ï‚·‚éƒ}ƒWƒbƒNƒT[ƒLƒbƒg—Ê(EXŽž‚ÍŒ¸‚ç‚È‚¢)
+ExShieldTime_Air = 15 // 12 ï¿½ï¿½
+ShieldKeepTime = 20 // ï¿½Vï¿½[ï¿½ï¿½ï¿½hï¿½Å‘ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ShieldCost = 1 // 1Fï¿½Åï¿½ï¿½ï‚·ï¿½ï¿½}ï¿½Wï¿½bï¿½Nï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½ï¿½(EXï¿½ï¿½ï¿½ÍŒï¿½ï¿½ï¿½È‚ï¿½)
 
-// ƒn[ƒtƒ€[ƒ“@ƒK[ƒhƒQ[ƒWŠÖŒW
-GG_MaxVal = 10500.0 // Å‘å’l 7000¨8400
-GG_HealVal = 5.0 // ‰Šú‰ñ•œ’l
-GG_HealPlusVal = 0.03 // 1F–ˆ‚É‰ÁŽZ‚³‚ê‚é‰ñ•œ‰Á‘¬’l
-GG_StopVal = 360 // Œ¸­‚ª‚ ‚Á‚½‚Æ‚«‚É’âŽ~‚·‚éŽžŠÔ
-GG_RecoverVal = 180 // ƒNƒ‰ƒbƒVƒ…Žž‚É‰ñ•œ‚·‚é‚Ü‚Å‚ÌŽžŠÔ
+// ï¿½nï¿½[ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½@ï¿½Kï¿½[ï¿½hï¿½Qï¿½[ï¿½Wï¿½ÖŒW
+GG_MaxVal = 10500.0 // ï¿½Å‘ï¿½l 7000ï¿½ï¿½8400
+GG_HealVal = 5.0 // ï¿½ï¿½ï¿½ï¿½ï¿½ñ•œ’l
+GG_HealPlusVal = 0.03 // 1Fï¿½ï¿½ï¿½É‰ï¿½ï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ñ•œ‰ï¿½ï¿½ï¿½ï¿½l
+GG_StopVal = 360 // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½É’ï¿½~ï¿½ï¿½ï¿½éŽžï¿½ï¿½
+GG_RecoverVal = 180 // ï¿½Nï¿½ï¿½ï¿½bï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½É‰ñ•œ‚ï¿½ï¿½ï¿½Ü‚Å‚ÌŽï¿½ï¿½ï¿½
 
-GG_CorrectVal = 0.80 // ˜A‘±ƒK[ƒhŽž‚Ì•â³’li‚Qƒqƒbƒg–ÚˆÚs‚Íí‚É‚±‚Ì’lj
+GG_CorrectVal = 0.80 // ï¿½Aï¿½ï¿½ï¿½Kï¿½[ï¿½hï¿½ï¿½ï¿½Ì•â³ï¿½lï¿½iï¿½Qï¿½qï¿½bï¿½gï¿½ÚˆÚsï¿½Íï¿½É‚ï¿½ï¿½Ì’lï¿½j
 
-// ƒn[ƒtƒ€[ƒ“@ƒK[ƒh–hŒä—ÍiGuardQuality  0.0‚ª’Êí
-GQ_MaxVal = 3.00 // –hŒä’á‰º‚ÌŒÀŠE’l
-GQ_RecoverVal = 0.001 // 1F–ˆ‚Ì‰ñ•œ—Ê
-GQ_StopVal = 300 // •Ï‰»Žž‚Ì‰ñ•œ’âŽ~ƒtƒŒ[ƒ€
+// ï¿½nï¿½[ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½@ï¿½Kï¿½[ï¿½hï¿½hï¿½ï¿½ÍiGuardQuality  0.0ï¿½ï¿½ï¿½Êï¿½
+GQ_MaxVal = 3.00 // ï¿½hï¿½ï¿½á‰ºï¿½ÌŒï¿½ï¿½Eï¿½l
+GQ_RecoverVal = 0.001 // 1Fï¿½ï¿½ï¿½Ì‰ñ•œ—ï¿½
+GQ_StopVal = 300 // ï¿½Ï‰ï¿½ï¿½ï¿½ï¿½Ì‰ñ•œ’ï¿½~ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½
 
-//ƒ_ƒ[ƒWEƒK[ƒhƒQ[ƒW•â³ ¦Ž©•ª‚Ì‹­“x‚È‚Ì‚Å’ˆÓ
+//ï¿½_ï¿½ï¿½ï¿½[ï¿½Wï¿½Eï¿½Kï¿½[ï¿½hï¿½Qï¿½[ï¿½Wï¿½â³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‹ï¿½ï¿½xï¿½È‚Ì‚Å’ï¿½ï¿½ï¿½
 DamageVal_Ground = 1.00
 DamageVal_Air = 0.88
 DamageVal_Crouch = 1.08
@@ -217,53 +217,53 @@ GuardVal_Ground = 1.0
 GuardVal_Air = 2.0
 GuardVal_Crouch = 1.5
 
-[Type_9] //[Type_9] ----------------------------------------------------------------Ÿ
+[Type_9] //[Type_9] ----------------------------------------------------------------ï¿½ï¿½
 SparkType = 9 // 
 MagicCircuitMax = 30000 // 20000
 CircuitSpark = 1
 ReverseBeat = 1
 
-AttackRatio_BloodHeat = 1.2  // ó‘Ô‚É‘Î‚·‚éŒW”
+AttackRatio_BloodHeat = 1.2  // ï¿½ï¿½Ô‚É‘Î‚ï¿½ï¿½ï¿½Wï¿½ï¿½
 AttackRatio_Heat = 1.1
 AttackRatio_Max = 1.1
 DefenceRatio_BloodHeat = 0.88
 DefenceRatio_Heat = 0.95
 DefenceRatio_Max = 0.95
 
-MC_PlusVal = 0.4 // ƒ}ƒWƒbƒNƒT[ƒLƒbƒgƒQ[ƒW‘‰Á—¦
-MC_GuardPlus = 1 // ƒK[ƒhŽž‚É‘‰Á‚·‚é‚©‚Ç‚¤‚©
+MC_PlusVal = 0.4 // ï¿½}ï¿½Wï¿½bï¿½Nï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½Qï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+MC_GuardPlus = 1 // ï¿½Kï¿½[ï¿½hï¿½ï¿½ï¿½É‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚©ï¿½Ç‚ï¿½ï¿½ï¿½
 
 IsExGuard = 0
 IsExReduce = 0
 IsReduce = 1
 
-BloodHeat_HpPlus = 30 // BloodHeatŽžHP‰ñ•œ’l
-Heat_HpPlus = 15 // HeatŽžHP‰ñ•œ’l
+BloodHeat_HpPlus = 30 // BloodHeatï¿½ï¿½HPï¿½ñ•œ’l
+Heat_HpPlus = 15 // Heatï¿½ï¿½HPï¿½ñ•œ’l
 
-VSDamageVal = 1.1 // ƒ”ƒ@ƒCƒ^ƒ‹ƒ\[ƒXUŒ‚—ÍŒW”
+VSDamageVal = 1.1 // ï¿½ï¿½ï¿½@ï¿½Cï¿½^ï¿½ï¿½ï¿½\ï¿½[ï¿½Xï¿½Uï¿½ï¿½ï¿½ÍŒWï¿½ï¿½
 
 ShieldType = 0
 ExShieldTime_Stand = 10 // 6
 ExShieldTime_Crouch = 10 // 6
-ExShieldTime_Air = 10 // 8 ‹ó’†
-ShieldKeepTime = 60 // 90 ƒV[ƒ‹ƒhÅ‘åŒp‘±ŽžŠÔ(EXŽžŠÔ‚Í•Ê
-ShieldCost = 10 // 1F‚ÅÁ”ï‚·‚éƒ}ƒWƒbƒNƒT[ƒLƒbƒg—Ê(EXŽž‚ÍŒ¸‚ç‚È‚¢)
+ExShieldTime_Air = 10 // 8 ï¿½ï¿½
+ShieldKeepTime = 60 // 90 ï¿½Vï¿½[ï¿½ï¿½ï¿½hï¿½Å‘ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(EXï¿½ï¿½ï¿½Ô‚Í•ï¿½
+ShieldCost = 10 // 1Fï¿½Åï¿½ï¿½ï‚·ï¿½ï¿½}ï¿½Wï¿½bï¿½Nï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½ï¿½(EXï¿½ï¿½ï¿½ÍŒï¿½ï¿½ï¿½È‚ï¿½)
 
-// ƒCƒNƒŠƒvƒX@ƒK[ƒhƒQ[ƒWŠÖŒW
-GG_MaxVal = 10000.0 // Å‘å’l
-GG_HealVal = 5.0 // ‰Šú‰ñ•œ’l
-GG_HealPlusVal = 0.04 // 1F–ˆ‚É‰ÁŽZ‚³‚ê‚é‰ñ•œ‰Á‘¬’l
-GG_StopVal = 360 // Œ¸­‚ª‚ ‚Á‚½‚Æ‚«‚É’âŽ~‚·‚éŽžŠÔ
-GG_RecoverVal = 180 // ƒNƒ‰ƒbƒVƒ…Žž‚É‰ñ•œ‚·‚é‚Ü‚Å‚ÌŽžŠÔ
+// ï¿½Cï¿½Nï¿½ï¿½ï¿½vï¿½Xï¿½@ï¿½Kï¿½[ï¿½hï¿½Qï¿½[ï¿½Wï¿½ÖŒW
+GG_MaxVal = 10000.0 // ï¿½Å‘ï¿½l
+GG_HealVal = 5.0 // ï¿½ï¿½ï¿½ï¿½ï¿½ñ•œ’l
+GG_HealPlusVal = 0.04 // 1Fï¿½ï¿½ï¿½É‰ï¿½ï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ñ•œ‰ï¿½ï¿½ï¿½ï¿½l
+GG_StopVal = 360 // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½É’ï¿½~ï¿½ï¿½ï¿½éŽžï¿½ï¿½
+GG_RecoverVal = 180 // ï¿½Nï¿½ï¿½ï¿½bï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½É‰ñ•œ‚ï¿½ï¿½ï¿½Ü‚Å‚ÌŽï¿½ï¿½ï¿½
 
-GG_CorrectVal = 1.0 // ˜A‘±ƒK[ƒhŽž‚Ì•â³’li‚Qƒqƒbƒg–ÚˆÚs‚Íí‚É‚±‚Ì’lj
+GG_CorrectVal = 1.0 // ï¿½Aï¿½ï¿½ï¿½Kï¿½[ï¿½hï¿½ï¿½ï¿½Ì•â³ï¿½lï¿½iï¿½Qï¿½qï¿½bï¿½gï¿½ÚˆÚsï¿½Íï¿½É‚ï¿½ï¿½Ì’lï¿½j
 
-// ƒCƒNƒŠƒvƒX@ƒK[ƒh–hŒä—ÍiGuardQuality  0.0‚ª’Êí
-GQ_MaxVal = 1.50 // –hŒä’á‰º‚ÌŒÀŠE’l
-GQ_RecoverVal = 0.001 // 1F–ˆ‚Ì‰ñ•œ—Ê
-GQ_StopVal = 30 // •Ï‰»Žž‚Ì‰ñ•œ’âŽ~ƒtƒŒ[ƒ€
+// ï¿½Cï¿½Nï¿½ï¿½ï¿½vï¿½Xï¿½@ï¿½Kï¿½[ï¿½hï¿½hï¿½ï¿½ÍiGuardQuality  0.0ï¿½ï¿½ï¿½Êï¿½
+GQ_MaxVal = 1.50 // ï¿½hï¿½ï¿½á‰ºï¿½ÌŒï¿½ï¿½Eï¿½l
+GQ_RecoverVal = 0.001 // 1Fï¿½ï¿½ï¿½Ì‰ñ•œ—ï¿½
+GQ_StopVal = 30 // ï¿½Ï‰ï¿½ï¿½ï¿½ï¿½Ì‰ñ•œ’ï¿½~ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½
 
-//ƒ_ƒ[ƒWEƒK[ƒhƒQ[ƒW•â³
+//ï¿½_ï¿½ï¿½ï¿½[ï¿½Wï¿½Eï¿½Kï¿½[ï¿½hï¿½Qï¿½[ï¿½Wï¿½â³
 DamageVal_Ground = 1.0
 DamageVal_Air = 0.88
 DamageVal_Crouch = 1.08
@@ -272,53 +272,53 @@ GuardVal_Air = 2.0
 GuardVal_Crouch = 1.5
 
 
-[Type_8] // HalfMoonStyle 1.0----------------------------------------------------------¡
+[Type_8] // HalfMoonStyle 1.0----------------------------------------------------------ï¿½ï¿½
 SparkType = 8 // AUTO
 MagicCircuitMax = 20000 // 20000
 CircuitSpark = 0
 ReverseBeat = 1
 
-AttackRatio_BloodHeat = 1.0  // ó‘Ô‚É‘Î‚·‚éŒW”
+AttackRatio_BloodHeat = 1.0  // ï¿½ï¿½Ô‚É‘Î‚ï¿½ï¿½ï¿½Wï¿½ï¿½
 AttackRatio_Heat = 1.0
 AttackRatio_Max = 1.0
 DefenceRatio_BloodHeat = 1.0
 DefenceRatio_Heat = 1.0
 DefenceRatio_Max = 1.0
 
-MC_PlusVal = 1.40 // ƒ}ƒWƒbƒNƒT[ƒLƒbƒgƒQ[ƒW‘‰Á—¦
-MC_GuardPlus = 1 // ƒK[ƒhŽž‚É‘‰Á‚·‚é‚©‚Ç‚¤‚©
+MC_PlusVal = 1.40 // ï¿½}ï¿½Wï¿½bï¿½Nï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½Qï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+MC_GuardPlus = 1 // ï¿½Kï¿½[ï¿½hï¿½ï¿½ï¿½É‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚©ï¿½Ç‚ï¿½ï¿½ï¿½
 
 IsExGuard = 0
 IsExReduce = 0
 IsReduce = 1
 
-BloodHeat_HpPlus = 20 // BloodHeatŽžHP‰ñ•œ’l
-Heat_HpPlus = 20 // HeatŽžHP‰ñ•œ’l
+BloodHeat_HpPlus = 20 // BloodHeatï¿½ï¿½HPï¿½ñ•œ’l
+Heat_HpPlus = 20 // Heatï¿½ï¿½HPï¿½ñ•œ’l
 
-VSDamageVal = 1.10 // ƒ”ƒ@ƒCƒ^ƒ‹ƒ\[ƒXUŒ‚—ÍŒW”
+VSDamageVal = 1.10 // ï¿½ï¿½ï¿½@ï¿½Cï¿½^ï¿½ï¿½ï¿½\ï¿½[ï¿½Xï¿½Uï¿½ï¿½ï¿½ÍŒWï¿½ï¿½
 
-ShieldType = 2 // EX‚È‚µAŽ‘±‚È‚µiEX‚Ì•”•ª‚ªŽÀƒV[ƒ‹ƒhŽžŠÔ‚É‚È‚é
+ShieldType = 2 // EXï¿½È‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½iEXï¿½Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½hï¿½ï¿½ï¿½Ô‚É‚È‚ï¿½
 ExShieldTime_Stand = 6 // 10
 ExShieldTime_Crouch = 6 // 10
-ExShieldTime_Air = 8 // 12 ‹ó’†
-ShieldKeepTime = 0 // ƒV[ƒ‹ƒhÅ‘åŒp‘±ŽžŠÔ
-ShieldCost = 0 // 1F‚ÅÁ”ï‚·‚éƒ}ƒWƒbƒNƒT[ƒLƒbƒg—Ê(EXŽž‚ÍŒ¸‚ç‚È‚¢)
+ExShieldTime_Air = 8 // 12 ï¿½ï¿½
+ShieldKeepTime = 0 // ï¿½Vï¿½[ï¿½ï¿½ï¿½hï¿½Å‘ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ShieldCost = 0 // 1Fï¿½Åï¿½ï¿½ï‚·ï¿½ï¿½}ï¿½Wï¿½bï¿½Nï¿½Tï¿½[ï¿½Lï¿½bï¿½gï¿½ï¿½(EXï¿½ï¿½ï¿½ÍŒï¿½ï¿½ï¿½È‚ï¿½)
 
-// ƒn[ƒtƒ€[ƒ“@ƒK[ƒhƒQ[ƒWŠÖŒW
-GG_MaxVal = 7000.0 // Å‘å’l
-GG_HealVal = 5.0 // ‰Šú‰ñ•œ’l
-GG_HealPlusVal = 0.03 // 1F–ˆ‚É‰ÁŽZ‚³‚ê‚é‰ñ•œ‰Á‘¬’l
-GG_StopVal = 420 // Œ¸­‚ª‚ ‚Á‚½‚Æ‚«‚É’âŽ~‚·‚éŽžŠÔ
-GG_RecoverVal = 180 // ƒNƒ‰ƒbƒVƒ…Žž‚É‰ñ•œ‚·‚é‚Ü‚Å‚ÌŽžŠÔ
+// ï¿½nï¿½[ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½@ï¿½Kï¿½[ï¿½hï¿½Qï¿½[ï¿½Wï¿½ÖŒW
+GG_MaxVal = 7000.0 // ï¿½Å‘ï¿½l
+GG_HealVal = 5.0 // ï¿½ï¿½ï¿½ï¿½ï¿½ñ•œ’l
+GG_HealPlusVal = 0.03 // 1Fï¿½ï¿½ï¿½É‰ï¿½ï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ñ•œ‰ï¿½ï¿½ï¿½ï¿½l
+GG_StopVal = 420 // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½É’ï¿½~ï¿½ï¿½ï¿½éŽžï¿½ï¿½
+GG_RecoverVal = 180 // ï¿½Nï¿½ï¿½ï¿½bï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½É‰ñ•œ‚ï¿½ï¿½ï¿½Ü‚Å‚ÌŽï¿½ï¿½ï¿½
 
-GG_CorrectVal = 0.90 // ˜A‘±ƒK[ƒhŽž‚Ì•â³’li‚Qƒqƒbƒg–ÚˆÚs‚Íí‚É‚±‚Ì’lj
+GG_CorrectVal = 0.90 // ï¿½Aï¿½ï¿½ï¿½Kï¿½[ï¿½hï¿½ï¿½ï¿½Ì•â³ï¿½lï¿½iï¿½Qï¿½qï¿½bï¿½gï¿½ÚˆÚsï¿½Íï¿½É‚ï¿½ï¿½Ì’lï¿½j
 
-// ƒn[ƒtƒ€[ƒ“@ƒK[ƒh–hŒä—ÍiGuardQuality  0.0‚ª’Êí
-GQ_MaxVal = 1.50 // –hŒä’á‰º‚ÌŒÀŠE’l
-GQ_RecoverVal = 0.001 // 1F–ˆ‚Ì‰ñ•œ—Ê
-GQ_StopVal = 60 // •Ï‰»Žž‚Ì‰ñ•œ’âŽ~ƒtƒŒ[ƒ€
+// ï¿½nï¿½[ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½@ï¿½Kï¿½[ï¿½hï¿½hï¿½ï¿½ÍiGuardQuality  0.0ï¿½ï¿½ï¿½Êï¿½
+GQ_MaxVal = 1.50 // ï¿½hï¿½ï¿½á‰ºï¿½ÌŒï¿½ï¿½Eï¿½l
+GQ_RecoverVal = 0.001 // 1Fï¿½ï¿½ï¿½Ì‰ñ•œ—ï¿½
+GQ_StopVal = 60 // ï¿½Ï‰ï¿½ï¿½ï¿½ï¿½Ì‰ñ•œ’ï¿½~ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½
 
-//ƒ_ƒ[ƒWEƒK[ƒhƒQ[ƒW•â³ ¦Ž©•ª‚Ì‹­“x‚È‚Ì‚Å’ˆÓ
+//ï¿½_ï¿½ï¿½ï¿½[ï¿½Wï¿½Eï¿½Kï¿½[ï¿½hï¿½Qï¿½[ï¿½Wï¿½â³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‹ï¿½ï¿½xï¿½È‚Ì‚Å’ï¿½ï¿½ï¿½
 DamageVal_Ground = 1.00
 DamageVal_Air = 0.88
 DamageVal_Crouch = 1.08

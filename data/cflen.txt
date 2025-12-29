@@ -1,0 +1,13 @@
+[System]
+ProjectName=cflen
+[DataFile]
+Filenum= 2
+File00=cflen.HA6
+File01=cflen_0.HA6
+
+[BmpcutFile]
+Filenum= 1
+File00=cflen.CG
+[PAniFile]
+Filenum= 1
+File00=cflen.PAT

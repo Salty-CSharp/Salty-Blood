@@ -1,0 +1,87 @@
+// 000 - 249  ܂ŁA g   q ͓   Ȃ  悤   // 
+ // 
+[SeList] // 
+001 = PeaceOfLen_72-22 // Hurt Voiceline 1
+002 = PeaceOfLen_72-23 // Hurt Voiceline 2
+003 = PeaceOfLen_72-24 // Hurt Voiceline 3
+004 = PeaceOfLen_72-25 // Hurt Voiceline 4
+
+006 = Len_B0AA000 //     
+007 = Len_B0AA003 //    A @ ӂ 
+
+009 = Len_B0AA200a //    ӂ 
+
+013 = PeaceOfLen_72-21 // Wakeup 1
+014 = PeaceOfLen_72-18 // Wakeup 2
+015 = PeaceOfLen_72-15 // Wakeup 3
+
+//029 = Len_B0AA029 // 
+//030 = Len_B0AA030 // 
+
+//031 = Neco_B0AA19 //  ɂ ɂ ɂ 
+//032 = Neco_B0AA24 //  V   [ I
+
+//036 = Len_B0AA036 //
+082 = PeaceOfLen_71-2 // Super Grenade (421C) Voice Line
+083 = PeaceOfLen_71-3 // OD Grenade (421D) Voice Line
+084 = PeaceOfLen_10-90 // Longer C4 Beep (Unblockable Version)
+085 = PeaceOfLen_10-9 // C4 Beep Before Superflash
+086 = PeaceOfLen_10-58 // C4 Beeping SFX
+087 = PeaceOfLen_60-51 // C4 Explosion SFX
+
+088 = PeaceOfLen_71-38 // After AWM/air ok AWM Voice 1 
+089 = PeaceOfLen_71-48 // After AWM/air ok AWM Voice 2 
+090 = PeaceOfLen_71-0 // Single Bounce Grenade (421B) Voiceline
+
+091 = PeaceOfLen_15-0 // Superflash 
+092 = PeaceOfLen_10-33 // 2A
+093 = PeaceOfLen_71-31 // 5A
+094 = PeaceOfLen_71-35 // 5B
+095 = PeaceOfLen_10-2 // Equip/Unequip
+096 = PeaceOfLen_10-34 // 2B
+097 = PeaceOfLen_71-45 // 6C
+098 = PeaceOfLen_72-12 // 2C
+
+099 = PeaceOfLen_72-26 // KO'd 1
+100 = PeaceOfLen_72-27 // KO'd 2
+
+101 = PeaceOfLen_71-32 // 3A
+102 = PeaceOfLen_10-1 // j.B
+103 = PeaceOfLen_10-76 // j.C
+104 = PeaceOfLen_10-45 // Kriss Vector (236A)
+105 = PeaceOfLen_72-3 // 236A voice line
+106 = PeaceOfLen_10-35 // Scar-L (236B)
+107 = PeaceOfLen_72-4 // 236B voice line
+108 = PeaceOfLen_10-3 // M4 (236C)
+109 = PeaceOfLen_72-5 // M4 voice line
+110 = PeaceOfLen_72-13 // Overdrive Brass Knuckle (236D) voice line
+111 = PeaceOfLen_71-1 // Grenade Toss (421A) voice line
+112 = PeaceOfLen_10-42 // Grenade Toss Explosion sound
+113 = PeaceOfLen_72-11 // AWM/air ok AWM voice line 2
+114 = PeaceOfLen_0-5 // Overdrive Brass Knuckle Effect
+115 = PeaceOfLen_10-47 // Dual Desperado (j.236B)
+116 = PeaceOfLen_71-14 // Dual Desperado voice line
+117 = PeaceOfLen_10-39 // Preparing AWM
+118 = PeaceOfLen_10-41 // AWM Gunshot
+119 = PeaceOfLen_10-59 // Reload Sound Effect
+
+120 = PeaceOfLen_71-47 // Reload voice line 1
+121 = PeaceOfLen_71-43 // Reload voice line 2
+122 = PeaceOfLen_71-42 // Reload voice line 3
+
+130 = PeaceOfLen_10-62 // DCRD (623X, j.B) | Gold Deagle (2B) | Scar-Light (236B) | No Ammo Remaining
+131 = PeaceOfLen_10-60 // Kriss Vector | M4RD (236C) | RPK (j.C) | Dual Desperado (j.236B) | No Ammo Remaining
+
+132 = PeaceOfLen_72-0 // No Ammo voice line 1
+133 = PeaceOfLen_72-2 // No Ammo voice line 2
+
+135 = PeaceOfLen_10-85 // Minigun Equip SFX
+136 = PeaceOfLen_10-86 // Minigun Firing SFX
+137 = PeaceOfLen_72-7 // Minigun Voice Line
+138 = PeaceOfLen_71-51 // fire ass minigun soundtrack (fade out)
+139 = PeaceOfLen_71-55 // fire ass minigun soundtrack (full version)
+
+//210 = Len_B0AA300 //  K [ N   P @ l R A   N      ׂ  Ă  i 摜     ւ  ` F b N j
+//211 = Len_B0AA301 //  Q @ l R A   N      ׂ  Ă  i 摜     ւ  ` F b N j
+//212 = Len_B0AA302 //  R @ l R A   N      ׂ  Ă  i 摜     ւ  ` F b N j
+

@@ -1,0 +1,15 @@
+[System]
+ProjectName=meiling_0
+
+[DataFile]
+FileNum= 4
+File00=meiling.HA6
+File01=meiling_r.HA6
+File02=meiling_0.HA6
+File03=meiling_0_r.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=meiling.cg
+[PAniFile]
+FileNum= 0

@@ -1,0 +1,53 @@
+// 000 - 249 �܂ŁA�g���q�͓���Ȃ��悤�� // 
+ // 
+[SeList] // 
+001 = hong/hongmeiling_217-10 // �Ӂ@��
+002 = hong/hongmeiling_620-0 // ��
+003 = hong/hongmeiling_800-10 // ��
+004 = hong/hongmeiling_1000-10 // �����@��
+005 = hong/hongmeiling_1200-10 // �₟
+006 = hong/hongmeiling_1300-11 // �͂��@��
+007 = hong/hongmeiling_1300-12 // ������
+008 = hong/hongmeiling_1310-0 // �₠���@BE��
+009 = hong/hongmeiling_1500-1 // �ǂ��ł��I�H�@�X���C�f�B���O
+010 = hong/hongmeiling_2000-10 // �`�b�@�K�[�h
+011 = hong/hongmeiling_2100-10 // �P���ł���
+012 = hong/hongmeiling_2200-10 // �Ȃ��
+013 = hong/hongmeiling_3000-1 // �s�\�ł�
+014 = hong/hongmeiling_3000-3 // �퓬�ĊJ���܂��@�N���オ��
+015 = hong/hongmeiling_3000-10 // o
+016 = hong/hongmeiling_4010-0 // ���ꐺ
+017 = hong/hongmeiling_4010-1 // o
+018 = hong/universal_fx_0-0 // light button woosh
+019 = hong/universal_fx_0-1 // medium button woosh
+020 = hong/universal_fx_0-2 // heavy button woosh
+021 = hong/universal_fx_0-3 // o
+022 = hong/universal_fx_0-5 // o
+023 = hong/universal_fx_1-0 // light button successful hit
+024 = hong/universal_fx_1-1 // medium button successful hit
+025 = hong/universal_fx_1-2 // heavy button successful hit
+026 = hong/universal_fx_1-3 // o [Sion_B0AA073 , Sion_B0AA020]
+027 = hong/universal_fx_1-4 // o
+028 = hong/universal_fx_1-5 // �_�b�V��
+029 = hong/universal_fx_1-6 // o
+030 = hong/universal_fx_1-7 // o
+031 = hong/universal_fx_1-8 // o
+032 = hong/universal_fx_1-9 // o
+033 = hong/universal_fx_4-0 // ����
+034 = hong/universal_fx_4-1 // o
+035 = hong/universal_fx_4-2 // o
+036 = hong/universal_fx_4-3 // o
+
+039 = hong/universal_fx_6-0 // �t�����[�L�b�N
+040 = hong/universal_fx_7-0 // �Ƃׂ��I3B
+042 = hong/universal_fx_7-1 // �����X�J��
+043 = hong/universal_fx_7-2 // o
+044 = hong/universal_fx_40-0 // �󒆓����X�J��
+045 = hong/universal_fx_100-0 // dash woosh
+046 = hong/universal_fx_260-0 // ������ 
+047 = hong/universal_fx_890-10 // ������
+048 = hong/universal_fx_980-0 // �o��Z���t
+049 = hong/universal_fx_20002-0 // o
+050 = hong/universal_fx_20002-1 // o
+051 = hong/universal_fx_20002-2 // o
+052 = hong/universal_fx_20002-3 // ���@���[�v��

@@ -1,0 +1,285 @@
+[System]
+
+[CharaNo_000]
+	Name = SION
+	File1 = SION
+	File2 = 0
+
+[CharaNo_001]
+	Name = ARC
+	File1 = ARC
+	File2 = 0
+
+[CharaNo_002]
+	Name = CIEL
+	File1 = CIEL
+	File2 = 0
+
+[CharaNo_003]
+	Name = AKIHA
+	File1 = AKIHA
+	File2 = 0
+
+[CharaNo_005]
+	Name = HISUI
+	File1 = HISUI
+	File2 = 0
+
+[CharaNo_006]
+	Name = KOHAKU
+	File1 = KOHAKU
+	File2 = 0
+
+
+[CharaNo_004]
+	Name = HISUI_AND_KOHAKU
+	File1 = HISUI
+	File2 = KOHAKU
+
+	CharaNum1 = HISUI
+	CharaNum2 = KOHAKU
+
+	TagType = 1
+
+
+[CharaNo_007]
+	Name = SHIKI
+	File1 = SHIKI
+	File2 = 0
+
+[CharaNo_008]
+	Name = MIYAKO
+	File1 = MIYAKO
+	File2 = 0
+
+[CharaNo_009]
+	Name = WARAKIA
+	File1 = WARAKIA
+	File2 = 0
+
+[CharaNo_010]
+	Name = NERO
+	File1 = NERO
+	File2 = 0
+
+[CharaNo_011]
+	Name = V_SION
+	File1 = V_SION
+	File2 = 0
+
+[CharaNo_012]
+	Name = WARC
+	File1 = WARC
+	File2 = 0
+
+[CharaNo_013]
+	Name = AKAAKIHA
+	File1 = AKAAKIHA
+	File2 = 0
+
+[CharaNo_014]
+	Name = M_HISUI
+	File1 = M_HISUI
+	File2 = 0
+
+[CharaNo_015]
+	Name = NANAYA
+	File1 = NANAYA
+	File2 = 0
+
+[CharaNo_017]
+	Name = SATSUKI
+	File1 = SATSUKI
+	File2 = 0
+
+[CharaNo_018]
+	Name = LEN
+	File1 = LEN
+	File2 = 0
+
+[CharaNo_019]
+	Name = P_CIEL
+	File1 = P_CIEL
+	File2 = 0
+
+[CharaNo_020]
+	Name = NECO
+	File1 = NECO
+	File2 = 0
+
+[CharaNo_022]
+	Name = AOKO
+	File1 = AOKO
+	File2 = 0
+
+[CharaNo_023]
+	Name = WLEN
+	File1 = WLEN
+	File2 = 0
+
+[CharaNo_025]
+	Name = NECHAOS
+	File1 = NECHAOS
+	File2 = 0
+
+[CharaNo_040]
+	Name = G_CHAOS
+	File1 = G_CHAOS
+	File2 = 0
+	GiantFlag = 1
+
+[CharaNo_028]
+	Name = KISHIMA
+	File1 = KISHIMA
+	File2 = 0
+
+[CharaNo_029]
+	Name = S_AKIHA
+	File1 = S_AKIHA
+	File2 = 0
+
+[CharaNo_030]
+	Name = RIES
+	File1 = RIES
+	File2 = 0
+
+[CharaNo_031]
+	Name = ROA
+	File1 = ROA
+	File2 = 0
+
+[CharaNo_032]
+	Name = HERMES
+	File1 = HERMES
+	File2 = 0
+	GiantFlag = 1
+
+[CharaNo_034]
+	Name = MECH_AND_NECO
+	File1 = M_HISUI_M
+	File2 = NECO_P
+
+	CharaNum1 = M_HISUI
+	CharaNum2 = NECO
+
+	TagType = 3
+
+[CharaNo_035]
+	Name = MECH_AND_KOHAKU
+	File1 = KOHAKU_M
+	File2 = M_HISUI_P
+
+	CharaNum1 = KOHAKU_M
+	CharaNum2 = M_HISUI
+
+	TagType = 2
+
+[CharaNo_033]
+	Name = RYOUGI
+	File1 = RYOUGI
+	File2 = 0
+
+[CharaNo_021]
+	Name = T_SHIKI
+	File1 = T_SHIKI
+	File2 = 0
+
+[CharaNo_024]
+	Name = T_NANAYA
+	File1 = T_NANAYA
+	File2 = 0
+
+[CharaNo_041]
+	Name = ACCEL
+	File1 = ACCEL
+	File2 = 0
+
+[CharaNo_042]
+	Name = SHIKI
+	File1 = T_SHIKI
+	File2 = T_NANAYA
+
+	CharaNum1 = SHIKI
+	CharaNum2 = NANAYA
+
+	TagType = 1
+
+[CharaNo_043]
+	Name = TOUMA
+	File1 = TOUMA
+	File2 = 0
+
+
+[CharaNo_044]
+	Name = CFLEN
+	File1 = CFLEN
+	File2 = 0
+
+
+[CharaNo_045]
+	Name = MEILING
+	File1 = MEILING
+	File2 = 0
+
+// G秋葉
+[CharaNo_016]
+	Name = G_AKIHA
+	File1 = G_AKIHA
+	File2 = 0
+	GiantFlag = 2
+
+
+
+// BOSS RUSH -------------------------------------------------------------------
+// 既存番号+50で暫定作成
+
+[CharaNo_051]
+	Name = P_ARC
+	File1 = P_ARC
+	File2 = P_ARC_D
+
+	CharaNum1 = P_ARC
+	CharaNum2 = P_ARC_D
+
+	TagType = 255 // 姫用フラグ
+
+//[CharaNo_052] //姫ストーリーの最後用姫（51使うようにした）
+//	Name = P_ARC
+//	File1 = P2_ARC
+//	File2 = 0
+
+[CharaNo_053]
+	Name = B_AKIHA
+	File1 = B_AKIHA
+	File2 = 0
+
+[CharaNo_058]
+	Name = B_MIYAKO
+	File1 = B_MIYAKO
+	File2 = 0
+
+[CharaNo_059]
+	Name = B_WARAKIA
+	File1 = B_WARAKIA
+	File2 = 0
+
+[CharaNo_072]
+	Name = B_AOKO
+	File1 = B_AOKO
+	File2 = 0
+
+[CharaNo_073]
+	Name = B_WLEN
+	File1 = B_WLEN
+	File2 = 0
+
+[CharaNo_085]
+	Name = B_MECH_AND_KOHAKU
+	File1 = B_KOHAKU_M
+	File2 = B_M_HISUI_P
+
+	CharaNum1 = KOHAKU
+	CharaNum2 = M_HISUI
+
+	TagType = 2
+
