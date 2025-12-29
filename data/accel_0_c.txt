@@ -121,7 +121,7 @@ Air = 271,0
 
 [Status]
 AirJumpNum = 1
-Guard = 0.5, 1, 1.5, 2
+Guard = 0.8, 0.9, 1, 1.2
 
 
 //
